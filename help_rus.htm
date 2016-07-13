@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<!-- This document created by RUS GraFX(rus.grafx@usa.net) using HomeSite 4.0 -->
+
+<html>
+<head>
+<title>MGB v1.2 HELP [rus]</title>
+<META NAME="generator" CONTENT="Allaire HomeSite 4.0">
+<META NAME="author" CONTENT="RUS GraFX (rus.grafx@usa.net)">
+<META NAME="keywords" CONTENT="MGB, Multi-user Guest Book, Free, CGI, Perl, Guestbook">
+<base href="http://come.to/RUS.GraFX">
+</head>
+
+<body bgcolor="#ffffff">
+<center><table width="550" border="0"><tr>
+      <td> 
+        <p align="center"><font face="Courier New, Courier, mono" size="5"><b><font color="#000080">M</font>ulti-user 
+          <font color="#000080">G</font>uest <font color="#000080">B</font>ook</b></font><font face="Courier New, Courier, mono" color="#008000"><br>
+          </font><font size="2">Version: 1.2 Coded by <a href="mailto:rus.grafx@usa.net">RUS 
+          GraFX</a></font><br>
+          <br>
+          <b>Руководство пользователя<font size="2"> </font></b><font size="2"><br>
+          (последние изменения внесены 1.06.99</font>)</p>
+        <font size="2">
+<hr size="1">
+<br>
+        В данной программе есть только ОДИН <u>основной параметр</u> который ОБЯЗАТЕЛЬНО 
+        должен быть указан - этот параметр <b>USER</b>. <br>
+        <br>
+В этом параметре указывается значение &lt;value>. В указанной ниже строчке необходимо <b>???</b> заменить на имя Вашей гостевой книги (точнее это имя директории в которой находится Ваша книга), например <b>vasja</b>.
+<br><br>
+<font face="Courier New" color="#0000FF">&lt;input type="hidden" name="User" value="???"></font>
+<br><br>
+        <b><u>Дополнительные возможности.</u></b><br>
+        <br>
+        Программа имеет ряд дополнительных возможностей, которые активизируются 
+        при помощи тэга <nobr>&lt;input type=hidden ...></nobr> <br>
+        <br>
+
+<b><i>Выбор языка сообщений программы.</i></b>
+<br>
+Программа поддерживает следующие языки:
+<br>
+        <table border="1" cellpadding="2" cellspacing="0" bordercolor="#000000">
+          <tr><td><b>Код</b></td><td><b>Язык</b></td></tr>
+	<tr><td>RU</td>   <td>Русский</td></tr>
+	<tr><td>LT</td>   <td>Литовский</td></tr>
+	<tr><td>EN</td>   <td>Английский (по умолчанию)</td></tr>
+</table>
+
+</font>
+        <p><font size="2">Выбор языка влияет на: вывод сообщений об ошибках, формат 
+          выдачи даты и т.п.<br>
+          Для установки русского языка интерфейса укажите: <br>
+          <br>
+          <font face="Courier New" color="#0000FF">&lt;input type=hidden name="lang" 
+          value="RU"></font> <br>
+          <br>
+          <b><i>Перенаправление пользователя на другую страницу.</i></b> <br>
+          После заполнения и отправки формы, программа вернет Вас в гостевую книгу. 
+          Если Вы хотите перенаправить пользователя на другую страницу например, 
+          на страницу с благодарностью, Вам необходимо добавить следующий тег: 
+          <br>
+          <br>
+          <font face="Courier New" color="#0000FF">&lt;input type=hidden name="redirect" 
+          value="http://my.page.com/thanx.htm"></font> <br>
+          <br>
+          <b><i>Указание полей необходимых для заполнения.</i></b> <br>
+          Если Вам необходимо, чтобы посетитель обязательно заполнил одно или 
+          несколько полей в форме (например, имя или е-маил), Вы можете указать 
+          эти поля следующим тегом: <br>
+          <br>
+          <font face="Courier New" color="#0000FF">&lt;input type=hidden name="required" 
+          value="xxx"></font> <br>
+          <br>
+          xxx может принимать следующие значения: (name|email|url|city|country|comments).<br>
+          <b><font size="1" color="#FF3333">Предупреждение</font><font size="1">: 
+          </font></b><font size="1">не изменяйте названия полей, эти названия 
+          нужны программе для нормального функционирования и совместимости с будущими 
+          версиями программы.</font><br>
+          <br>
+          Если нужно указать несколько полей, делайте это так: <br>
+          <br>
+          <font face="Courier New" color="#0000FF">&lt;input type=hidden name="required" 
+          value="name, url, email"></font> <br>
+          <br>
+          <b><i>Определение хоста с которого была сделана запись.</i></b> <br>
+          Для этого Вам в общем-то ничего делать не нужно! Адрес хоста автоматически 
+          записывается в комментариях, которые Вы сможете увидеть открыв source 
+          Вашей гостевой книжки. <br>
+          <br>
+          <b><i>Установка ширины таблицы записей</i></b> <br>
+          Если Вас не устраивает ширина таблицы в которой выводятся оставленные 
+          Вам сообщения, Вы с лёгкостью можете установить её по своему усмотрению. 
+          Для этого вставьте следующий тэг: <br>
+          <br>
+          <font face="Courier New" color="#0000FF">&lt;input type=hidden name="tabwidth" 
+          value="xxx"></font> <br>
+          <br>
+          xxx - это число, которое может быть в пикселях или в процентах (например: 
+          &quot;<b>500</b>&quot; или &quot;<b>80%</b>&quot;) </font></p>
+        <p><font size="2"><b><i>Дублирование записи на е-мэйл</i></b><br>
+          Если Вам лень проверять появились ли новые сообщения в Вашей гостевой 
+          книге, MGB может отправлять вам копии сделанных записей прямо в ваш 
+          почтовый ящик (по e-mail).</font></p>
+        <p><font size="2"> 
+          <font face="Courier New" color="#0000FF">&lt;input type=hidden name="notify" value="Ваш@email.com"></font>
+          <br>
+          </font></p>
+        <hr size="1">
+        <div align="center"><code>&copy;  copyright 1999 by RUS GraFX [<a href="http://come.to/RUS.GraFX">http://come.to/RUS.GraFX</a>]</code> 
+        </div>
+      </td>
+    </tr></table></center>
+</body>
+</html>

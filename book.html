@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<!-- Template for MGB guestbook -->
+
+<html>
+<head>
+	<title>Гостевая книга</title>
+</head>
+
+<body>
+<center><b>Гостевая книга.</b></center>
+<form action="http://webg.agava.ru/cgi-bin/mgb.pl" method="POST">
+<input type=hidden name="User" value="guest">
+<input type=hidden name="lang" value="RU">
+<input type=hidden name="required" value="name, email, comments">
+<input type=hidden name="notify" value="dd77@inet.kz"> 
+
+
+<table border="0" align="center">
+<tr><td>Имя</td><td colspan="3"><input type="Text" name="name" value="" size="43"></td></tr>
+<tr><td>E-mail</td><td colspan="3"><input type="Text" name="email" value="" size="43"></td></tr>
+<tr><td>Город</td><td colspan="3"><input type="Text" name="city" value="" size="43"></td></tr>
+<tr><td>Комментарии</td><td colspan="3"><textarea name="comments" cols="40" rows="6" wrap="VIRTUAL"></textarea></td></tr>
+<tr><td><input type="Submit" value="Готово"></td><td align="RIGHT" colspan="3"><input type="reset" value="Очистить"></td></tr>
+</table>
+
+<!--begin-->
+
+
+</body>
+</html>

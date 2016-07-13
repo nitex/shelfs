@@ -1,0 +1,121 @@
+<STYLE type="text/css"> 
+ <!--
+ /* ------- Common -----------*/
+ BODY  {
+ 	font-family : Arial, sans-serif;
+ 	background-color : #FFFFFF;
+ }
+ 
+ P  {
+ 	font-family : Verdana, Arial, sans-serif;
+ }
+ 
+ H1  {
+ 	font-family : sans-serif;
+ 	font-size : 18pt;
+ 	font-weight : bold;
+ }
+ 
+ H2  {
+ 	font-family : serif;
+ 	font-size : 18pt;
+ 	font-weight : normal;
+ }
+ 
+ H3  {
+ 	font-family : serif;
+ 	font-size : 18pt;
+ 	font-weight : normal;
+ }
+ 
+ H4  {
+ 	font-family : serif;
+ 	font-size : 18pt;
+ 	font-weight : normal;
+ }
+ 
+ H5  {
+ 	font-family : serif;
+ 	font-size : 14pt;
+ 	font-weight : normal;
+ }
+ 
+ H6  {
+ 	font-family : serif;
+ 	font-size : 14pt;
+ 	font-weight : bold;
+ }
+ 
+ TD  {
+ 	font-family : Verdana, Arial, sans-serif;
+ }
+ 
+ A:LINK  {
+ 	color : blue;
+ 	text-decoration : none;
+ }
+ 
+ A:VISITED  {
+ 	color : blue;
+ 	text-decoration : none;
+ }
+ 
+ A.SMALL  {
+ 	font-size : 8pt;
+ 	font-weight : normal;
+ }
+ 
+ .linkbasic  {
+ 	font : 9pt arial, helvetica, sans-serif;
+ }
+ 
+ .description  {
+ 	font : 9pt arial, sans-serif;
+ 	font-weight : normal;
+ 	text-align : Left;
+ 	color : black;
+ }
+ 
+ .description_titl  {
+ 	font : 10pt arial, sans-serif;
+ 	font-weight : bold;
+ 	color : blue;
+ }
+ 
+ .main  {
+ 	font : 12pt arial;
+ 	font-weight : bold;
+ 	text-align : left;
+ 	color : red;
+ }
+ 
+ .titl  {
+ 	font : 10pt sans-serif, arial;
+ 	font-weight : bold;
+ 	text-align : center;
+ }
+ 
+ .any  {
+ 	font : 9pt arial, verdana, sans-serif;
+ 	font-weight : bold;
+ 	text-align : left;
+ }
+ 
+ .what  {
+ 	font : 9pt arial, verdana, sans-serif;
+ 	font-weight : bold;
+ 	text-decoration : italic;
+ 	text-align : left;
+ }
+ 
+ .content  {
+ 	font : 9pt arial, verdana, sans-serif;
+ }
+ 
+ .copyr  {
+ 	font : 8pt arial, verdana, sans-serif;
+ 	font-weight : normal;
+ 	text-align : right;
+ }
+ -->
+ </STYLE>
