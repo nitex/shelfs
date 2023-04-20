@@ -1,0 +1,79 @@
+[
+  {
+    "id": "narnia_1",
+    "title": "Хроники Нарнии. Племянник чародея",
+    "author": "Клайв Стейплз Льюис",
+    "year": "2017",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "adventures"
+    ]
+  },
+  {
+    "id": "narnia_2",
+    "title": "Хроники Нарнии. Лев, Колдунья и платяной шкаф",
+    "author": "Клайв Стейплз Льюис",
+    "year": "2018",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "fantastic"
+    ]
+  },
+  {
+    "id": "narnia_3",
+    "title": "Хроники Нарнии. Конь и его мальчик",
+    "author": "Клайв Льюис",
+    "year": "2019",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "child",
+      "folklore"
+    ]
+  },
+  {
+    "id": "narnia_5",
+    "title": "Хроники Нарнии. Покоритель Зари, или плавание на край света",
+    "author": "Клайв С. Льюис",
+    "year": "2019",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "adventures"
+    ]
+  },
+  {
+    "id": "narnia_6",
+    "title": "Хроники Нарнии. Серебряное кресло",
+    "author": "Клайв Стейплз Льюис",
+    "year": "2019",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "fantastic"
+    ]
+  },
+  {
+    "id": "narnia_7",
+    "title": "Хроники Нарнии. Последняя битва",
+    "author": "Клайв Стейплз Льюис",
+    "year": "2019",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "adventures"
+    ]
+  }
+]

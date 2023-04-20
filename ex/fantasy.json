@@ -1,0 +1,141 @@
+[
+  {
+    "id": "hp_secretroom",
+    "title": "Гарри Поттер и Тайная комната",
+    "author": "Роулинг Джоан Кейтлин",
+    "year": "2002",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "fantastic"
+    ]
+  },
+  {
+    "id": "hp_firecup",
+    "title": "Гарри Поттер и Кубок Огня",
+    "author": "Роулинг Джоан",
+    "year": "2005",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "Adventures"
+    ]
+  },
+  {
+    "id": "hp_halfbloodprince",
+    "title": "Гарри Поттер и Принц-полукровка",
+    "author": "Роулинг Дж. К.",
+    "year": "2008",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "Tales",
+      "Fantastic",
+      "Adventures"
+    ]
+  },
+  {
+    "id": "hp_deathgifts",
+    "title": "Гарри Поттер и Дары Смерти",
+    "author": "Роулинг Дж. К.",
+    "year": "2009",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "Tales"
+    ]
+  },
+  {
+    "id": "sirius",
+    "title": "Гарри Поттер: Предыстория. Про Сириуса и Джеймса",
+    "author": "Joahn Rowling",
+    "year": "2010",
+    "chapters": false,
+    "text": true,
+    "path": "ex01",
+    "genres": [
+    ]
+  },
+  {
+    "id": "lordrings_1",
+    "title": "Властелин колец. Часть 1. Братство Кольца",
+    "author": "Джон Рональд Руэл Толкин",
+    "year": "2005",
+    "chapters": false,
+    "text": true,
+    "path": "ex01",
+    "genres": [
+    ]
+  },
+  {
+    "id": "lordrings_3",
+    "title": "Властелин колец. Часть 3. Возвращение короля",
+    "author": "Джон Р. Толкин",
+    "year": "2007",
+    "chapters": false,
+    "text": true,
+    "path": "ex01",
+    "genres": [
+      "fantastic",
+      "adventures"
+    ]
+  },
+  {
+    "id": "hobbit",
+    "title": "Хоббит, или туда и обратно",
+    "author": "Джон Р. Толкин",
+    "year": "2007",
+    "chapters": false,
+    "text": true,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "fantastic",
+      "adventures"
+    ]
+  },
+  {
+    "id": "narnia_2",
+    "title": "Хроники Нарнии. Лев, Колдунья и платяной шкаф",
+    "author": "Клайв Стейплз Льюис",
+    "year": "2018",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "fantastic"
+    ]
+  },
+  {
+    "id": "narnia_3",
+    "title": "Хроники Нарнии. Конь и его мальчик",
+    "author": "Клайв Льюис",
+    "year": "2019",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "child",
+      "folklore"
+    ]
+  },
+  {
+    "id": "narnia_6",
+    "title": "Хроники Нарнии. Серебряное кресло",
+    "author": "Клайв Стейплз Льюис",
+    "year": "2019",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "fantastic"
+    ]
+  }
+]

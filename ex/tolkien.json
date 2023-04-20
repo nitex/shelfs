@@ -1,0 +1,53 @@
+[
+  {
+    "id": "lordrings_1",
+    "title": "Властелин колец. Часть 1. Братство Кольца",
+    "author": "Джон Рональд Руэл Толкин",
+    "year": "2005",
+    "chapters": false,
+    "text": true,
+    "path": "ex01",
+    "genres": [
+    ]
+  },
+  {
+    "id": "lordrings_2",
+    "title": "Властелин колец. Часть 2. Две крепости",
+    "author": "Джон Рональд Толкин",
+    "year": "2006",
+    "chapters": false,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "Fantastic",
+      "Adventures"
+    ]
+  },
+  {
+    "id": "lordrings_3",
+    "title": "Властелин колец. Часть 3. Возвращение короля",
+    "author": "Джон Р. Толкин",
+    "year": "2007",
+    "chapters": false,
+    "text": true,
+    "path": "ex01",
+    "genres": [
+      "fantastic",
+      "adventures"
+    ]
+  },
+  {
+    "id": "hobbit",
+    "title": "Хоббит, или туда и обратно",
+    "author": "Джон Р. Толкин",
+    "year": "2007",
+    "chapters": false,
+    "text": true,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "fantastic",
+      "adventures"
+    ]
+  }
+]

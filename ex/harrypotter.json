@@ -1,0 +1,120 @@
+[
+  {
+    "id": "hp_philosopherstone",
+    "title": "Гарри Поттер и философский камень",
+    "author": "Джоан Роулинг",
+    "year": "2000",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "fantastic",
+      "adventures"
+    ]
+  },
+  {
+    "id": "hp_secretroom",
+    "title": "Гарри Поттер и Тайная комната",
+    "author": "Роулинг Джоан Кейтлин",
+    "year": "2002",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "fantastic"
+    ]
+  },
+  {
+    "id": "hp_azkabanprisoner",
+    "title": "Гарри Поттер и узник Азкабана",
+    "author": "Роулинг Дж. К.",
+    "year": "2003",
+    "chapters": true,
+    "text": true,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "fantastic",
+      "adventures"
+    ]
+  },
+  {
+    "id": "hp_firecup",
+    "title": "Гарри Поттер и Кубок Огня",
+    "author": "Роулинг Джоан",
+    "year": "2005",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "Adventures"
+    ]
+  },
+  {
+    "id": "hp_phoenixorder",
+    "title": "Гарри Поттер и Орден Феникса",
+    "author": "Д. Роулинг",
+    "year": "2006",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "tales",
+      "fantastic",
+      "child"
+    ]
+  },
+  {
+    "id": "hp_halfbloodprince",
+    "title": "Гарри Поттер и Принц-полукровка",
+    "author": "Роулинг Дж. К.",
+    "year": "2008",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "Tales",
+      "Fantastic",
+      "Adventures"
+    ]
+  },
+  {
+    "id": "hp_deathgifts",
+    "title": "Гарри Поттер и Дары Смерти",
+    "author": "Роулинг Дж. К.",
+    "year": "2009",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "Tales"
+    ]
+  },
+  {
+    "id": "child",
+    "title": "Гарри Поттер и проклятое дитя",
+    "author": "Роулинг Джоан, Торн Джек, Тиффани Джон",
+    "year": "2017",
+    "chapters": true,
+    "text": false,
+    "path": "ex01",
+    "genres": [
+      "Tales",
+      "Fantastic",
+      "Adventures"
+    ]
+  },
+  {
+    "id": "sirius",
+    "title": "Гарри Поттер: Предыстория. Про Сириуса и Джеймса",
+    "author": "Joahn Rowling",
+    "year": "2010",
+    "chapters": false,
+    "text": true,
+    "path": "ex01",
+    "genres": [
+    ]
+  }
+]
