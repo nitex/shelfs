@@ -1,3 +1,3 @@
-# calculator
-A calculator sample with the basic functions and a customizable widget. Just for test
+# shelfs
+A set of some useful scripts containing bright ideas, brave thoughts and creative min
  
