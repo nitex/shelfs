@@ -1,3 +1,3 @@
-# shelfs
-A set of some useful scripts containing bright ideas, brave thoughts and creative min
+# Shelf sets
+A set of some useful scripts containing bright ideas, brave thoughts and creative minds...
  
