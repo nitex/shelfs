@@ -6,7 +6,7 @@
     "year": "2017",
     "chapters": true,
     "text": false,
-    "path": "ru00r",
+    "repo": "ru00r",
     "genres": [
       "tales",
       "adventures"
@@ -19,7 +19,7 @@
     "year": "2018",
     "chapters": true,
     "text": false,
-    "path": "ru00r",
+    "repo": "ru00r",
     "genres": [
       "tales",
       "fantastic"
@@ -32,7 +32,7 @@
     "year": "2019",
     "chapters": true,
     "text": false,
-    "path": "ru00r",
+    "repo": "ru00r",
     "genres": [
       "tales",
       "child",
@@ -46,7 +46,7 @@
     "year": "2019",
     "chapters": true,
     "text": false,
-    "path": "ru00r",
+    "repo": "ru00r",
     "genres": [
       "adventures"
     ]
@@ -58,7 +58,7 @@
     "year": "2019",
     "chapters": true,
     "text": false,
-    "path": "ru00r",
+    "repo": "ru00r",
     "genres": [
       "fantastic"
     ]
@@ -70,7 +70,7 @@
     "year": "2019",
     "chapters": true,
     "text": false,
-    "path": "ru00r",
+    "repo": "ru00r",
     "genres": [
       "tales",
       "adventures"
