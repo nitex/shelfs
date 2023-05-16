@@ -6,7 +6,7 @@
     "year": "2005",
     "chapters": false,
     "text": true,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
     ]
   },
@@ -17,7 +17,7 @@
     "year": "2006",
     "chapters": false,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "Fantastic",
       "Adventures"
@@ -30,7 +30,7 @@
     "year": "2007",
     "chapters": false,
     "text": true,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "fantastic",
       "adventures"
@@ -43,7 +43,7 @@
     "year": "2007",
     "chapters": false,
     "text": true,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "tales",
       "fantastic",

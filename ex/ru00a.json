@@ -6,7 +6,7 @@
     "year": "2000",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "tales",
       "fantastic",
@@ -20,7 +20,7 @@
     "year": "2002",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "tales",
       "fantastic"
@@ -33,7 +33,7 @@
     "year": "2003",
     "chapters": true,
     "text": true,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "tales",
       "fantastic",
@@ -47,7 +47,7 @@
     "year": "2005",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "Adventures"
     ]
@@ -59,7 +59,7 @@
     "year": "2006",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "tales",
       "fantastic",
@@ -73,7 +73,7 @@
     "year": "2008",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "Tales",
       "Fantastic",
@@ -87,7 +87,7 @@
     "year": "2009",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "Tales"
     ]
@@ -99,7 +99,7 @@
     "year": "2017",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "Tales",
       "Fantastic",
@@ -113,7 +113,7 @@
     "year": "2010",
     "chapters": false,
     "text": true,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
     ]
   },
@@ -124,7 +124,7 @@
     "year": "2005",
     "chapters": false,
     "text": true,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
     ]
   },
@@ -135,7 +135,7 @@
     "year": "2006",
     "chapters": false,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "Fantastic",
       "Adventures"
@@ -148,7 +148,7 @@
     "year": "2007",
     "chapters": false,
     "text": true,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "fantastic",
       "adventures"
@@ -161,7 +161,7 @@
     "year": "2007",
     "chapters": false,
     "text": true,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "tales",
       "fantastic",
@@ -175,7 +175,7 @@
     "year": "2017",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "tales",
       "adventures"
@@ -188,7 +188,7 @@
     "year": "2018",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "tales",
       "fantastic"
@@ -201,7 +201,7 @@
     "year": "2019",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "tales",
       "child",
@@ -215,7 +215,7 @@
     "year": "2019",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "adventures"
     ]
@@ -227,7 +227,7 @@
     "year": "2019",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "fantastic"
     ]
@@ -239,7 +239,7 @@
     "year": "2019",
     "chapters": true,
     "text": false,
-    "path": "ex01",
+    "path": "ru00r",
     "genres": [
       "tales",
       "adventures"
