@@ -6,7 +6,7 @@
     "year": "2000",
     "chapters": true,
     "text": false,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
       "tales",
       "fantastic",
@@ -20,7 +20,7 @@
     "year": "2002",
     "chapters": true,
     "text": false,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
       "tales",
       "fantastic"
@@ -33,7 +33,7 @@
     "year": "2003",
     "chapters": true,
     "text": true,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
       "tales",
       "fantastic",
@@ -47,7 +47,7 @@
     "year": "2005",
     "chapters": true,
     "text": false,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
       "Adventures"
     ]
@@ -59,7 +59,7 @@
     "year": "2006",
     "chapters": true,
     "text": false,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
       "tales",
       "fantastic",
@@ -73,7 +73,7 @@
     "year": "2008",
     "chapters": true,
     "text": false,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
       "Tales",
       "Fantastic",
@@ -87,7 +87,7 @@
     "year": "2009",
     "chapters": true,
     "text": false,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
       "Tales"
     ]
@@ -99,7 +99,7 @@
     "year": "2017",
     "chapters": true,
     "text": false,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
       "Tales",
       "Fantastic",
@@ -113,7 +113,7 @@
     "year": "2010",
     "chapters": false,
     "text": true,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
     ]
   }

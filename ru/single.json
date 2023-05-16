@@ -6,7 +6,7 @@
     "year": "2010",
     "chapters": false,
     "text": true,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
     ]
   },
@@ -17,7 +17,7 @@
     "year": "2005",
     "chapters": false,
     "text": true,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
     ]
   },
@@ -28,7 +28,7 @@
     "year": "2006",
     "chapters": false,
     "text": false,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
       "Fantastic",
       "Adventures"
@@ -41,7 +41,7 @@
     "year": "2007",
     "chapters": false,
     "text": true,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
       "fantastic",
       "adventures"
@@ -54,7 +54,7 @@
     "year": "2007",
     "chapters": false,
     "text": true,
-    "repo": "ru00r",
+    "repo": "ru_000",
     "genres": [
       "tales",
       "fantastic",
