@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ru_ivan1",
+    "repo": "ru_001",
+    "title": "Иван — крестьянский сын и Чудо-Юдо",
+    "author": "народная сказка",
+    "year": "",
+    "text": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal",
+      "adventure"
+    ]
+  }
+]
