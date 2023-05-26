@@ -1,11 +1,26 @@
 [
   {
+    "id": "ru_semiletka1",
+    "repo": "ru_001",
+    "title": "Дочь-семилетка",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation"
+    ]
+  },
+  {
     "id": "ru_ivanchudo1",
     "repo": "ru_001",
     "title": "Иван — крестьянский сын и Чудо-Юдо",
-    "author": "народная сказка",
+    "author": "Русская народная сказка",
     "year": "",
-    "text": false,
+    "text": true,
     "chapters": false,
     "genres": [
       "child",
@@ -16,27 +31,12 @@
     ]
   },
   {
-    "id": "ru_semiletka1",
-    "repo": "ru_001",
-    "title": "Дочь-семилетка",
-    "author": "народная сказка",
-    "year": "",
-    "text": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore",
-      "relation"
-    ]
-  },
-  {
     "id": "ru_ntsarevna1",
     "repo": "ru_001",
     "title": "Наказанная царевна",
-    "author": "народная сказка",
+    "author": "Русская народная сказка",
     "year": "",
-    "text": false,
+    "text": true,
     "chapters": false,
     "genres": [
       "child",
@@ -50,9 +50,9 @@
     "id": "ru_pdudochka1",
     "repo": "ru_001",
     "title": "Пастушья дудочка ",
-    "author": "народная сказка",
+    "author": "Русская народная сказка",
     "year": "",
-    "text": false,
+    "text": true,
     "chapters": false,
     "genres": [
       "child",
