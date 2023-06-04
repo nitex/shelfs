@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ex0",
+    "repo": "ru_000",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation"
+    ]
+  },
+  {
+    "id": "ex1",
+    "repo": "ru_000",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ex2",
+    "repo": "ru_000",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ex3",
+    "repo": "ru_000",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ex4",
+    "repo": "ru_000",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ex5",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ex6",
+    "repo": "ru_000",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ex7",
+    "repo": "ru_000",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ex8",
+    "repo": "ru_000",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ex9",
+    "repo": "ru_000",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  }
+]
