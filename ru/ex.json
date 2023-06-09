@@ -2,29 +2,26 @@
   {
     "id": "ex0",
     "repo": "ru_000",
-    "title": "",
-    "author": "",
+    "title": "Мама и длинноволосый мальчик",
+    "author": "Серия \"ТИГРОМАНЫ\"",
     "year": "",
     "text": true,
     "chapters": false,
     "genres": [
-      "child",
-      "tale",
-      "folklore",
       "relation"
+    ,
+      "child"
     ]
   },
   {
     "id": "ex1",
     "repo": "ru_000",
-    "title": "",
-    "author": "",
+    "title": "Музомонстры: веселье начинается",
+    "author": "для самых маленьких и не только",
     "year": "",
     "text": true,
     "chapters": false,
     "genres": [
-      "child",
-      "tale",
       "folklore",
       "animal",
       "adventure"
@@ -33,15 +30,12 @@
   {
     "id": "ex2",
     "repo": "ru_000",
-    "title": "",
-    "author": "",
+    "title": "Музомонстры: Большое Путешествие",
+    "author": "для самых маленьких и не только",
     "year": "",
     "text": true,
     "chapters": false,
     "genres": [
-      "child",
-      "tale",
-      "folklore",
       "relation",
       "adventure"
     ]
@@ -49,8 +43,8 @@
   {
     "id": "ex3",
     "repo": "ru_000",
-    "title": "",
-    "author": "",
+    "title": "ENTER",
+    "author": "ENTER",
     "year": "",
     "text": true,
     "chapters": false,
@@ -64,22 +58,19 @@
   {
     "id": "ex4",
     "repo": "ru_000",
-    "title": "",
-    "author": "",
+    "title": "ENTER",
+    "author": "ENTER",
     "year": "",
     "text": true,
     "chapters": false,
     "genres": [
-      "child",
-      "tale",
-      "folklore"
     ]
   },
   {
     "id": "ex5",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "repo": "ru_000",
+    "title": "Маленький Велес, и о чём он думает, когда мечтает...",
+    "author": "Из цикла \"Скакуны\"",
     "year": "",
     "text": true,
     "chapters": false,
@@ -92,8 +83,8 @@
   {
     "id": "ex6",
     "repo": "ru_000",
-    "title": "",
-    "author": "",
+    "title": "Как юная Уйэйт за городом была, и как сладкий сироп пила",
+    "author": "ENTER",
     "year": "",
     "text": true,
     "chapters": false,
@@ -106,8 +97,8 @@
   {
     "id": "ex7",
     "repo": "ru_000",
-    "title": "",
-    "author": "",
+    "title": "ENTER",
+    "author": "ENTER",
     "year": "",
     "text": true,
     "chapters": false,
@@ -120,8 +111,8 @@
   {
     "id": "ex8",
     "repo": "ru_000",
-    "title": "",
-    "author": "",
+    "title": "ENTER",
+    "author": "ENTER",
     "year": "",
     "text": true,
     "chapters": false,
@@ -134,15 +125,13 @@
   {
     "id": "ex9",
     "repo": "ru_000",
-    "title": "",
+    "title": "Лютка-малютка и Волшебная Дудка",
     "author": "",
-    "year": "",
+    "year": "2023",
     "text": true,
     "chapters": false,
     "genres": [
-      "child",
-      "tale",
-      "folklore"
+      "child"
     ]
   }
 ]
