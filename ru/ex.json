@@ -74,9 +74,7 @@
     "text": true,
     "chapters": false,
     "genres": [
-      "child",
-      "tale",
-      "folklore"
+      "tale"
     ]
   },
   {
@@ -89,7 +87,6 @@
     "chapters": false,
     "genres": [
       "child",
-      "tale",
       "folklore"
     ]
   },
@@ -102,9 +99,9 @@
     "text": true,
     "chapters": false,
     "genres": [
-      "child",
-      "tale",
-      "folklore"
+      "fantastic",
+      "relation",
+      "detective"
     ]
   },
   {
@@ -116,9 +113,6 @@
     "text": true,
     "chapters": false,
     "genres": [
-      "child",
-      "tale",
-      "folklore"
     ]
   },
   {
