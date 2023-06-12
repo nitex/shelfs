@@ -1,20 +1,5 @@
 [
   {
-    "id": "ru_semiletka1",
-    "repo": "ru_001",
-    "title": "Дочь-семилетка",
-    "author": "Русская народная сказка",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore",
-      "relation"
-    ]
-  },
-  {
     "id": "ru_ivanchudo1",
     "repo": "ru_001",
     "title": "Иван — крестьянский сын и Чудо-Юдо",
@@ -28,6 +13,21 @@
       "folklore",
       "animal",
       "adventure"
+    ]
+  },
+  {
+    "id": "ru_semiletka1",
+    "repo": "ru_001",
+    "title": "Дочь-семилетка",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation"
     ]
   },
   {
@@ -62,10 +62,10 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_pokatigor1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Покатигорошек",
+    "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -76,10 +76,10 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_prozlydny1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Про злыдней",
+    "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -90,10 +90,10 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_spesivpan1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Как мужик со спесивым паном пообедал",
+    "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -104,290 +104,40 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_mdevushka1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Мудрая девушка",
+    "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
     "genres": [
       "child",
       "tale",
-      "folklore"
+      "folklore",
+      "adventure"
     ]
   },
   {
-    "id": "",
+    "id": "ru_vhpodarki1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Вихревы подарки",
+    "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
     "genres": [
       "child",
       "tale",
-      "folklore"
+      "folklore",
+      "adventure"
     ]
   },
   {
-    "id": "",
+    "id": "ru_mvelmozha1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Мужик и вельможа",
+    "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
