@@ -62,48 +62,6 @@
     ]
   },
   {
-    "id": "ru_pokatigor1",
-    "repo": "ru_001",
-    "title": "Покатигорошек",
-    "author": "Украинская народная сказка",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "ru_prozlydny1",
-    "repo": "ru_001",
-    "title": "Про злыдней",
-    "author": "Украинская народная сказка",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "ru_spesivpan1",
-    "repo": "ru_001",
-    "title": "Как мужик со спесивым паном пообедал",
-    "author": "Украинская народная сказка",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
     "id": "ru_mdevushka1",
     "repo": "ru_001",
     "title": "Мудрая девушка",
@@ -137,6 +95,48 @@
     "id": "ru_mvelmozha1",
     "repo": "ru_001",
     "title": "Мужик и вельможа",
+    "author": "Белорусская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_pokatigor1",
+    "repo": "ru_001",
+    "title": "Покатигорошек",
+    "author": "Белорусская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_prozlydny1",
+    "repo": "ru_001",
+    "title": "Про злыдней",
+    "author": "Белорусская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_spesivpan1",
+    "repo": "ru_001",
+    "title": "Как мужик со спесивым паном пообедал",
     "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
@@ -292,6 +292,162 @@
       "tale",
       "folklore",
       "relation"
+    ]
+  },
+  {
+    "id": "ru_chdorozhe1",
+    "repo": "ru_001",
+    "title": "Что дороже?",
+    "author": "Осетинская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_zhenichud1",
+    "repo": "ru_001",
+    "title": "Злая женщина и чудовище ",
+    "author": "Чеченская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_sheydulla1",
+    "repo": "ru_001",
+    "title": "Шейдулла-лентяй",
+    "author": "Азербайджанская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_szarniyar1",
+    "repo": "ru_001",
+    "title": "Сообразительная Зарнияр",
+    "author": "Азербайджанская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_caritkach1",
+    "repo": "ru_001",
+    "title": "Царь и ткач",
+    "author": "Армянская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_zakazchik1",
+    "repo": "ru_001",
+    "title": "Заказчик и мастер",
+    "author": "Армянская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_petrikela1",
+    "repo": "ru_001",
+    "title": "Датуа и Петрикела",
+    "author": "Грузинская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_naremeslu1",
+    "repo": "ru_001",
+    "title": "Научись ремеслу",
+    "author": "Грузинская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
     ]
   }
 ]
