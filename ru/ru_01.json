@@ -65,7 +65,7 @@
     "id": "ru_pokatigor1",
     "repo": "ru_001",
     "title": "Покатигорошек",
-    "author": "Белорусская народная сказка",
+    "author": "Украинская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -79,7 +79,7 @@
     "id": "ru_prozlydny1",
     "repo": "ru_001",
     "title": "Про злыдней",
-    "author": "Белорусская народная сказка",
+    "author": "Украинская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -93,7 +93,7 @@
     "id": "ru_spesivpan1",
     "repo": "ru_001",
     "title": "Как мужик со спесивым паном пообедал",
-    "author": "Белорусская народная сказка",
+    "author": "Украинская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -148,10 +148,25 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_drovosekr1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Дровосекова краюшка",
+    "author": "Литовская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "fantastic"
+    ]
+  },
+  {
+    "id": "ru_imorozets1",
+    "repo": "ru_001",
+    "title": "Старый мороз и молодой морозец ",
+    "author": "Литовская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -159,6 +174,124 @@
       "child",
       "tale",
       "folklore"
+    ]
+  },
+  {
+    "id": "ru_barinkons1",
+    "repo": "ru_001",
+    "title": "Как барин конём стал",
+    "author": "Латышская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_ssmekalka1",
+    "repo": "ru_001",
+    "title": "Сила и смекалка",
+    "author": "Латышская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_kazhdiysp1",
+    "repo": "ru_001",
+    "title": "Каждый своё получил",
+    "author": "Эстонская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_msestrica1",
+    "repo": "ru_001",
+    "title": "Младшая сестрица",
+    "author": "Карельская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_zhrvhiysi1",
+    "repo": "ru_001",
+    "title": "Жёрнов Хийси",
+    "author": "Карельская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_otsovklad1",
+    "repo": "ru_001",
+    "title": "Как братья отцовский клад нашли",
+    "author": "Молдавская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_nebbogach1",
+    "repo": "ru_001",
+    "title": "Неблагодарный богач",
+    "author": "Кумыкская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_trdddengi1",
+    "repo": "ru_001",
+    "title": "Трудовые деньги",
+    "author": "Кабардинская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation"
     ]
   }
 ]
