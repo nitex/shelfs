@@ -250,6 +250,21 @@
     ]
   },
   {
+    "id": "ru_syrevarda1",
+    "repo": "ru_001",
+    "title": "Сыре-Варда",
+    "author": "Мордовская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation"
+    ]
+  },
+  {
     "id": "ru_otsovklad1",
     "repo": "ru_001",
     "title": "Как братья отцовский клад нашли",
@@ -280,7 +295,21 @@
     ]
   },
   {
-    "id": "ru_trdddengi1",
+    "id": "ru_kpbeshmet1",
+    "repo": "ru_001",
+    "title": "Кому подарить бешмет?",
+    "author": "Абхазская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_truddengi1",
     "repo": "ru_001",
     "title": "Трудовые деньги",
     "author": "Кабардинская народная сказка",
@@ -409,10 +438,10 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_mlbogatyr1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Мальчик-богатырь",
+    "author": "Марийская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -423,10 +452,10 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_carkinhan1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Стрелок и Царкин-хан",
+    "author": "Калмыкская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -437,10 +466,25 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_kbratogon1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Как братья огонь добывали",
+    "author": "Чувашская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_krsbereza1",
+    "repo": "ru_001",
+    "title": "Красавица берёза",
+    "author": "Удмуртская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -448,6 +492,93 @@
       "child",
       "tale",
       "folklore"
+    ]
+  },
+  {
+    "id": "ru_portnoymb1",
+    "repo": "ru_001",
+    "title": "Портной, медведь и бесёнок",
+    "author": "Татарская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_rogatyhan1",
+    "repo": "ru_001",
+    "title": "Рогатый хан",
+    "author": "Башкирская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_altynsaka1",
+    "repo": "ru_001",
+    "title": "Алтын-сака — золотая бабка",
+    "author": "Башкирская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_malbebele1",
+    "repo": "ru_001",
+    "title": "Мальчик Бебеле",
+    "author": "Еврейская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_gsamocvet1",
+    "repo": "ru_001",
+    "title": "Гора самоцветов",
+    "author": "Туркменская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_sinbadmor1",
+    "repo": "ru_001",
+    "title": "Путешествия Синдбада-морехода",
+    "author": "Арабская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": true,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "adventure"
     ]
   }
 ]
