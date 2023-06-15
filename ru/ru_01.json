@@ -567,6 +567,459 @@
     ]
   },
   {
+    "id": "ru_glupectur1",
+    "repo": "ru_001",
+    "title": "Глупец",
+    "author": "Туркменская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_pticakaha1",
+    "repo": "ru_001",
+    "title": "Птица Кахка",
+    "author": "Таджикская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_alchkaziy1",
+    "repo": "ru_001",
+    "title": "Алчный казий",
+    "author": "Таджикская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_dogbratya1",
+    "repo": "ru_001",
+    "title": "Догадливые братья",
+    "author": "Узбекская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_3arbuznyh1",
+    "repo": "ru_001",
+    "title": "Три арбузных семечка",
+    "author": "Узбекская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_zaecsluga1",
+    "repo": "ru_001",
+    "title": "Заяц-слуга",
+    "author": "Татарская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_aldarkose1",
+    "repo": "ru_001",
+    "title": "Алдар-Косе и Шигай-бай",
+    "author": "Казахская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_cheysonlc1",
+    "repo": "ru_001",
+    "title": "Чей сон лучше",
+    "author": "Казахская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_kanbakshl1",
+    "repo": "ru_001",
+    "title": "Старик Канбак-шал",
+    "author": "Киргизская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_ktobolshe1",
+    "repo": "ru_001",
+    "title": "Кто больше?",
+    "author": "Киргизская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_boroldoym1",
+    "repo": "ru_001",
+    "title": "Боролдой-Мерген и его храбрый сын",
+    "author": "Алтайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  }
+,
+  {
     "id": "ru_sinbadmor1",
     "repo": "ru_001",
     "title": "Путешествия Синдбада-морехода",
