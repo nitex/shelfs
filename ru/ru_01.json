@@ -725,10 +725,25 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_oleshkina1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Дочь старика Олекшина",
+    "author": "Алтайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_veretence1",
+    "repo": "ru_001",
+    "title": "Дочь с веретёнце",
+    "author": "Комская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -739,10 +754,10 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_hozvetrov1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Хозяин ветров",
+    "author": "Ненецкая народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -753,10 +768,25 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_pobezhkit1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Побеждённый кит",
+    "author": "Ненецкая народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_malunyany1",
+    "repo": "ru_001",
+    "title": "Маленький Уняны",
+    "author": "Эвенкийская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -767,10 +797,10 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_smelayass1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Смелая старуха и трусливый старик",
+    "author": "Саамская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -781,10 +811,10 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_hvoshinka1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Девушка-хвощинка",
+    "author": "Якутская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -795,10 +825,10 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_zolchasha1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Золотая чаша",
+    "author": "Бурятская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -809,10 +839,10 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_otvajniys1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Отважный сын",
+    "author": "Ненецкая народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -823,10 +853,10 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_hrbmergen1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Храбрый Мэргэн",
+    "author": "Нанайская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -837,10 +867,25 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_ohotitigr1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Охотник и тигр",
+    "author": "Нивхская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_devmesyac1",
+    "repo": "ru_001",
+    "title": "Девушка и Месяц",
+    "author": "Чукотская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
@@ -850,175 +895,6 @@
       "folklore"
     ]
   },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  }
-,
   {
     "id": "ru_sinbadmor1",
     "repo": "ru_001",
