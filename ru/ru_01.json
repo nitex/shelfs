@@ -1,5 +1,19 @@
 [
   {
+    "id": "ru_vdizfayfa1",
+    "repo": "ru_001",
+    "title": "Ведьма из Файфа",
+    "author": "Шотландская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
     "id": "ru_ivanchudo1",
     "repo": "ru_001",
     "title": "Иван — крестьянский сын и Чудо-Юдо",
@@ -886,6 +900,62 @@
     "repo": "ru_001",
     "title": "Девушка и Месяц",
     "author": "Чукотская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_zhabanebe1",
+    "repo": "ru_001",
+    "title": "Жаба на небе",
+    "author": "Тибетская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_starikipl1",
+    "repo": "ru_001",
+    "title": "Старик и плут",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_tzundlden1",
+    "repo": "ru_001",
+    "title": "Цзун - Длинный день",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_platoknis1",
+    "repo": "ru_001",
+    "title": "Платок нищего",
+    "author": "Китайская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,

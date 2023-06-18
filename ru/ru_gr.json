@@ -1,18 +1,5 @@
 [
   {
-    "id": "ru_sbashmaki1",
-    "repo": "ru_001",
-    "title": "Стоптанные башмачки",
-    "author": "Братья Гримм",
-    "year": "1815",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
     "id": "ru_drozdobor1",
     "repo": "ru_001",
     "title": "Король Дроздобород",
@@ -58,7 +45,7 @@
     "repo": "ru_001",
     "title": "Беляночка и Розочка",
     "author": "Братья Гримм",
-    "year": "1815",
+    "year": "1826",
     "text": true,
     "chapters": false,
     "genres": [
@@ -81,11 +68,11 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_sbashmaki1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Стоптанные башмачки",
     "author": "Братья Гримм",
-    "year": "",
+    "year": "1810",
     "text": true,
     "chapters": false,
     "genres": [
@@ -94,11 +81,11 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_kilyagush1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Королевич-лягушка, или Железный Генрих",
     "author": "Братья Гримм",
-    "year": "",
+    "year": "1812",
     "text": true,
     "chapters": false,
     "genres": [
@@ -107,11 +94,11 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_gmetelica1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Госпожа Метелица",
     "author": "Братья Гримм",
-    "year": "",
+    "year": "1812",
     "text": true,
     "chapters": false,
     "genres": [
@@ -120,11 +107,11 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_sneguroka1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Снегурочка",
     "author": "Братья Гримм",
-    "year": "",
+    "year": "1812",
     "text": true,
     "chapters": false,
     "genres": [
@@ -133,11 +120,11 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_zvztalery1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Звёздные талеры",
     "author": "Братья Гримм",
-    "year": "",
+    "year": "1812",
     "text": true,
     "chapters": false,
     "genres": [
@@ -146,11 +133,11 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_zolotogus1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Золотой гусь",
     "author": "Братья Гримм",
-    "year": "",
+    "year": "1812",
     "text": true,
     "chapters": false,
     "genres": [
