@@ -1,0 +1,190 @@
+[
+  {
+    "id": "ru_starikipl1",
+    "repo": "ru_001",
+    "title": "Старик и плут",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_tzundlden1",
+    "repo": "ru_001",
+    "title": "Цзун - Длинный день",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_platoknis1",
+    "repo": "ru_001",
+    "title": "Платок нищего",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_huansiyao1",
+    "repo": "ru_001",
+    "title": "Хуан Сяо",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_zolotryba1",
+    "repo": "ru_001",
+    "title": "Золотая рыба",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_sobakasko1",
+    "repo": "ru_001",
+    "title": "Как собака с кошкой враждовать стали",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_ksudyabao1",
+    "repo": "ru_001",
+    "title": "Как судья Бао осла допрашивал",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_kkamplitu1",
+    "repo": "ru_001",
+    "title": "Как пытали каменную плиту",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_ksskryagi1",
+    "repo": "ru_001",
+    "title": "Скряги",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_7obratyev1",
+    "repo": "ru_001",
+    "title": "Семеро братьев",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_zhivotnym1",
+    "repo": "ru_001",
+    "title": "О том, как по животным счет годам вести стали",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_chudzerna1",
+    "repo": "ru_001",
+    "title": "Чудесные зёрна",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "animal",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_pobeditel1",
+    "repo": "ru_001",
+    "title": "Заяц-победитель",
+    "author": "Тибетская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  }
+]

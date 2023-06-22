@@ -1,0 +1,629 @@
+[
+  {
+    "id": "ru_drozdobor1",
+    "repo": "ru_001",
+    "title": "Король Дроздобород",
+    "author": "Братья Гримм",
+    "year": "1815",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_sinsvecha1",
+    "repo": "ru_001",
+    "title": "Синяя свечка",
+    "author": "Братья Гримм",
+    "year": "1815",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_mlvelikan1",
+    "repo": "ru_001",
+    "title": "Молодой великан",
+    "author": "Братья Гримм",
+    "year": "1815",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_brozochka1",
+    "repo": "ru_001",
+    "title": "Беляночка и Розочка",
+    "author": "Братья Гримм",
+    "year": "1826",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_iioringel1",
+    "repo": "ru_001",
+    "title": "Иоринда и Иорингель",
+    "author": "Братья Гримм",
+    "year": "1820",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_sbashmaki1",
+    "repo": "ru_001",
+    "title": "Стоптанные башмачки",
+    "author": "Братья Гримм",
+    "year": "1810",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_kilyagush1",
+    "repo": "ru_001",
+    "title": "Королевич-лягушка, или Железный Генрих",
+    "author": "Братья Гримм",
+    "year": "1812",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_gmetelica1",
+    "repo": "ru_001",
+    "title": "Госпожа Метелица",
+    "author": "Братья Гримм",
+    "year": "1812",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_sneguroka1",
+    "repo": "ru_001",
+    "title": "Снегурочка",
+    "author": "Братья Гримм",
+    "year": "1812",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_zvztalery1",
+    "repo": "ru_001",
+    "title": "Звёздные талеры",
+    "author": "Братья Гримм",
+    "year": "1812",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_zolotogus1",
+    "repo": "ru_001",
+    "title": "Золотой гусь",
+    "author": "Братья Гримм",
+    "year": "1812",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Братья Гримм",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "ru_devochkav1",
+    "repo": "ru_001",
+    "title": "Девочка, вьюн и обезьянка",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_issimbosi1",
+    "repo": "ru_001",
+    "title": "Храбрый Иссимбоси",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_kendzopob1",
+    "repo": "ru_001",
+    "title": "Кэндзо-победитель",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "adventure",
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_odnoglazy1",
+    "repo": "ru_001",
+    "title": "Одноглазый и двуглазый",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_rasseyany1",
+    "repo": "ru_001",
+    "title": "Рассеянный",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_truskurat1",
+    "repo": "ru_001",
+    "title": "Трус Курата",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_veermolod1",
+    "repo": "ru_001",
+    "title": "Веер молодости",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_hvsgembey1",
+    "repo": "ru_001",
+    "title": "Хвастливый Гэмбэй",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  }
+]
