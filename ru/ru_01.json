@@ -16,7 +16,7 @@
   {
     "id": "ru_ivanchudo1",
     "repo": "ru_001",
-    "title": "Иван — крестьянский сын и Чудо-Юдо",
+    "title": "Иван-крестьянский сын и Чудо-Юдо",
     "author": "Русская народная сказка",
     "year": "",
     "text": true,
@@ -32,7 +32,7 @@
   {
     "id": "ru_semiletka1",
     "repo": "ru_001",
-    "title": "Дочь-семилетка",
+    "title": "Семилетка",
     "author": "Русская народная сказка",
     "year": "",
     "text": true,
@@ -910,20 +910,6 @@
     ]
   },
   {
-    "id": "ru_zhabanebe1",
-    "repo": "ru_001",
-    "title": "Жаба на небе",
-    "author": "Тибетская народная сказка",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore"
-    ]
-  },
-  {
     "id": "ru_starikipl1",
     "repo": "ru_001",
     "title": "Старик и плут",
@@ -956,6 +942,309 @@
     "repo": "ru_001",
     "title": "Платок нищего",
     "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_huansiyao1",
+    "repo": "ru_001",
+    "title": "Хуан Сяо",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_zolotryba1",
+    "repo": "ru_001",
+    "title": "Золотая рыба",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_sobakasko1",
+    "repo": "ru_001",
+    "title": "Как собака с кошкой враждовать стали",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_ksudyabao1",
+    "repo": "ru_001",
+    "title": "Как судья Бао осла допрашивал",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_kkamplitu1",
+    "repo": "ru_001",
+    "title": "Как пытали каменную плиту",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_ksskryagi1",
+    "repo": "ru_001",
+    "title": "Скряги",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_7obratyev1",
+    "repo": "ru_001",
+    "title": "Семеро братьев",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_zhivotnym1",
+    "repo": "ru_001",
+    "title": "О том, как по животным счет годам вести стали",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_chudzerna1",
+    "repo": "ru_001",
+    "title": "Чудесные зёрна",
+    "author": "Китайская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "animal",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_pobeditel1",
+    "repo": "ru_001",
+    "title": "Заяц победитель",
+    "author": "Тибетская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_hvasmyshi1",
+    "repo": "ru_001",
+    "title": "Хвастливые мыши",
+    "author": "Тибетская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_oglptigre1",
+    "repo": "ru_001",
+    "title": "О глупом тигре",
+    "author": "Тибетская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_zhabanebe1",
+    "repo": "ru_001",
+    "title": "Жаба на небе",
+    "author": "Тибетская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_devochkav1",
+    "repo": "ru_001",
+    "title": "Девочка, вьюн и обезьянка",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_issimbosi1",
+    "repo": "ru_001",
+    "title": "Храбрый Иссимбоси",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_kendzopob1",
+    "repo": "ru_001",
+    "title": "Кэндзо-победитель",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "adventure",
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_odnoglazy1",
+    "repo": "ru_001",
+    "title": "Одноглазый и двуглазый",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_rasseyany1",
+    "repo": "ru_001",
+    "title": "Рассеянный",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_truskurat1",
+    "repo": "ru_001",
+    "title": "Трус Курата",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_veermolod1",
+    "repo": "ru_001",
+    "title": "Веер молодости",
+    "author": "Японская народная сказка",
+    "year": "",
+    "text": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ru_hvsgembey1",
+    "repo": "ru_001",
+    "title": "Хвастливый Гэмбэй",
+    "author": "Японская народная сказка",
     "year": "",
     "text": true,
     "chapters": false,
