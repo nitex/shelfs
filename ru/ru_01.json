@@ -6,6 +6,7 @@
     "author": "Шотландская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -20,6 +21,7 @@
     "author": "Русская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -36,6 +38,7 @@
     "author": "Русская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -51,6 +54,7 @@
     "author": "Русская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -67,6 +71,7 @@
     "author": "Русская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -82,6 +87,7 @@
     "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -97,6 +103,7 @@
     "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -112,6 +119,7 @@
     "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -126,6 +134,7 @@
     "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -140,6 +149,7 @@
     "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -154,6 +164,7 @@
     "author": "Белорусская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -168,6 +179,7 @@
     "author": "Литовская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -183,6 +195,7 @@
     "author": "Литовская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -197,6 +210,7 @@
     "author": "Латышская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -211,6 +225,7 @@
     "author": "Латышская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -226,6 +241,7 @@
     "author": "Эстонская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -240,6 +256,7 @@
     "author": "Карельская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -255,6 +272,7 @@
     "author": "Карельская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -270,6 +288,7 @@
     "author": "Мордовская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -285,6 +304,7 @@
     "author": "Молдавская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -300,6 +320,7 @@
     "author": "Кумыкская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -315,6 +336,7 @@
     "author": "Абхазская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -329,6 +351,7 @@
     "author": "Кабардинская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -344,6 +367,7 @@
     "author": "Осетинская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -358,6 +382,7 @@
     "author": "Чеченская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -373,6 +398,7 @@
     "author": "Азербайджанская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -387,6 +413,7 @@
     "author": "Азербайджанская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -402,6 +429,7 @@
     "author": "Армянская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -416,6 +444,7 @@
     "author": "Армянская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -430,6 +459,7 @@
     "author": "Грузинская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -444,6 +474,7 @@
     "author": "Грузинская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -458,6 +489,7 @@
     "author": "Марийская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -472,6 +504,7 @@
     "author": "Калмыкская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -486,6 +519,7 @@
     "author": "Чувашская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -501,6 +535,7 @@
     "author": "Удмуртская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -515,6 +550,7 @@
     "author": "Татарская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -530,6 +566,7 @@
     "author": "Башкирская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -544,6 +581,7 @@
     "author": "Башкирская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -558,6 +596,7 @@
     "author": "Еврейская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -572,6 +611,7 @@
     "author": "Туркменская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -587,6 +627,7 @@
     "author": "Туркменская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -601,6 +642,7 @@
     "author": "Таджикская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -616,6 +658,7 @@
     "author": "Таджикская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -630,6 +673,7 @@
     "author": "Узбекская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -645,6 +689,7 @@
     "author": "Узбекская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -659,6 +704,7 @@
     "author": "Татарская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -674,6 +720,7 @@
     "author": "Казахская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -688,6 +735,7 @@
     "author": "Казахская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -702,6 +750,7 @@
     "author": "Киргизская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -716,6 +765,7 @@
     "author": "Киргизская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -731,6 +781,7 @@
     "author": "Алтайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -745,6 +796,7 @@
     "author": "Алтайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -760,6 +812,7 @@
     "author": "Комская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -774,6 +827,7 @@
     "author": "Ненецкая народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -788,6 +842,7 @@
     "author": "Ненецкая народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -803,6 +858,7 @@
     "author": "Эвенкийская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -817,6 +873,7 @@
     "author": "Саамская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -831,6 +888,7 @@
     "author": "Якутская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -845,6 +903,7 @@
     "author": "Бурятская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -859,6 +918,7 @@
     "author": "Ненецкая народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -873,6 +933,7 @@
     "author": "Нанайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -887,6 +948,7 @@
     "author": "Нивхская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -902,6 +964,7 @@
     "author": "Чукотская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -916,6 +979,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -930,6 +994,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -944,6 +1009,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -958,6 +1024,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -972,6 +1039,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -986,6 +1054,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1001,6 +1070,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1016,6 +1086,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1030,6 +1101,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1044,6 +1116,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1059,6 +1132,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1074,6 +1148,7 @@
     "author": "Китайская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1089,6 +1164,7 @@
     "author": "Тибетская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1104,6 +1180,7 @@
     "author": "Тибетская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1118,6 +1195,7 @@
     "author": "Тибетская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1132,6 +1210,7 @@
     "author": "Тибетская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1146,6 +1225,7 @@
     "author": "Японская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1161,6 +1241,7 @@
     "author": "Японская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1175,6 +1256,7 @@
     "author": "Японская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "adventure",
@@ -1190,6 +1272,7 @@
     "author": "Японская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1204,6 +1287,7 @@
     "author": "Японская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1219,6 +1303,7 @@
     "author": "Японская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1233,6 +1318,7 @@
     "author": "Японская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1247,6 +1333,7 @@
     "author": "Японская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -1261,6 +1348,7 @@
     "author": "Арабская народная сказка",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": true,
     "genres": [
       "child",

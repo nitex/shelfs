@@ -6,6 +6,7 @@
     "author": "Вильгельм Гауф",
     "year": "1826",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -17,9 +18,10 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "",
+    "author": "Вильгельм Гауф",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -30,9 +32,10 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "",
+    "author": "Вильгельм Гауф",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -43,9 +46,10 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "",
+    "author": "Вильгельм Гауф",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -56,9 +60,10 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "",
+    "author": "Вильгельм Гауф",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -69,9 +74,10 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "",
+    "author": "Вильгельм Гауф",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -82,9 +88,10 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "",
+    "author": "Вильгельм Гауф",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -95,9 +102,10 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "",
+    "author": "Вильгельм Гауф",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -108,9 +116,10 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "",
+    "author": "Вильгельм Гауф",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -121,529 +130,10 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "",
+    "author": "Вильгельм Гауф",
     "year": "",
     "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "",
-    "year": "",
-    "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
