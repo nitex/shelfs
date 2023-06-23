@@ -1,8 +1,8 @@
 [
   {
-    "id": "",
+    "id": "ru_malanetta1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Маленькая Аннетта",
     "author": "Французская народная сказка",
     "year": "",
     "text": false,
@@ -15,9 +15,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_kurtiyonk1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Куртийон-Куртийет",
     "author": "Французская народная сказка",
     "year": "",
     "text": false,
@@ -30,9 +30,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_princessm1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Принцесса-мышка",
     "author": "Французская народная сказка",
     "year": "",
     "text": false,
@@ -45,9 +45,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_prokorolk1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Про королька, про зиму, про орла и про королевского сына",
     "author": "Французская народная сказка",
     "year": "",
     "text": false,
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_portnoyiv1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Портной и Вихрь",
     "author": "Французская народная сказка",
     "year": "",
     "text": false,
@@ -75,9 +75,25 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_prjaneton1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Прекрасная Жанетон",
+    "author": "Французская народная сказка",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_pmarkassa1",
+    "repo": "ru_001",
+    "title": "Принцесса Маркасса и птица Дредейн",
     "author": "Французская народная сказка",
     "year": "",
     "text": false,
@@ -90,9 +106,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_pkonbayar1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Принц и конь Байяр",
     "author": "Французская народная сказка",
     "year": "",
     "text": false,
@@ -105,9 +121,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_zmdyavola1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Замок дьявола",
     "author": "Французская народная сказка",
     "year": "",
     "text": false,
@@ -120,24 +136,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_s2soldata1",
     "repo": "ru_001",
-    "title": "",
-    "author": "Французская народная сказка",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
+    "title": "Два старых солдата",
     "author": "Французская народная сказка",
     "year": "",
     "text": false,
