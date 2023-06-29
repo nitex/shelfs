@@ -149,5 +149,35 @@
       "tale",
       "relation"
     ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "ru_barboverz1",
+    "author": "Французская народная сказка",
+    "year": "Барбовер Зеленая Борода, или Сказка о принце, который проиграл свою голову",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_pticaprav1",
+    "repo": "ru_001",
+    "title": "Птица, которая вещала правду",
+    "author": "Французская народная сказка",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation"
+    ]
   }
 ]

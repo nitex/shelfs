@@ -1,11 +1,11 @@
 [
   {
-    "id": "",
+    "id": "ru_zpetushok1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Сказка о золотом петушке",
     "author": "Александр Пушкин",
-    "year": "",
-    "text": false,
+    "year": "1835",
+    "text": true,
     "music": false,
     "chapters": false,
     "genres": [
@@ -15,138 +15,51 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_popibalda1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Сказка о Попе и работнике его Балде",
     "author": "Александр Пушкин",
-    "year": "",
-    "text": false,
+    "year": "1840",
+    "text": true,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
       "tale",
-      "relation"
+      "relation",
+      "adventure"
     ]
   },
   {
-    "id": "",
+    "id": "ru_rybakryba1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Сказка о рыбаке и рыбке",
     "author": "Александр Пушкин",
-    "year": "",
-    "text": false,
-    "music": false,
+    "year": "1835",
+    "text": true,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
       "tale",
-      "relation"
+      "relation",
+      "adventure"
     ]
   },
   {
-    "id": "",
+    "id": "ru_veshioleg1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Песнь о Вещем Олеге",
     "author": "Александр Пушкин",
-    "year": "",
-    "text": false,
-    "music": false,
+    "year": "1825",
+    "text": true,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
       "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Александр Пушкин",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Александр Пушкин",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Александр Пушкин",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Александр Пушкин",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Александр Пушкин",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Александр Пушкин",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
+      "relation",
+      "adventure"
     ]
   }
 ]
