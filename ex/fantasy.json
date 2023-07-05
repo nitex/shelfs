@@ -1,12 +1,13 @@
 [
   {
     "id": "hp_secretroom",
+    "repo": "ru_000",
     "title": "Гарри Поттер и Тайная комната",
     "author": "Роулинг Джоан Кейтлин",
     "year": "2002",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "tales",
       "fantastic"
@@ -14,24 +15,26 @@
   },
   {
     "id": "hp_firecup",
+    "repo": "ru_000",
     "title": "Гарри Поттер и Кубок Огня",
     "author": "Роулинг Джоан",
     "year": "2005",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "Adventures"
     ]
   },
   {
     "id": "hp_halfbloodprince",
+    "repo": "ru_000",
     "title": "Гарри Поттер и Принц-полукровка",
     "author": "Роулинг Дж. К.",
     "year": "2008",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "Tales",
       "Fantastic",
@@ -40,46 +43,50 @@
   },
   {
     "id": "hp_deathgifts",
+    "repo": "ru_000",
     "title": "Гарри Поттер и Дары Смерти",
     "author": "Роулинг Дж. К.",
     "year": "2009",
-    "chapters": true,
+    "music": false,
     "text": false,
-    "repo": "ru_000",
+    "chapters": true,
     "genres": [
       "Tales"
     ]
   },
   {
     "id": "sirius",
+    "repo": "ru_000",
     "title": "Гарри Поттер: Предыстория. Про Сириуса и Джеймса",
     "author": "Joahn Rowling",
     "year": "2010",
-    "chapters": false,
     "text": true,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": false,
     "genres": [
     ]
   },
   {
     "id": "lordrings_1",
+    "repo": "ru_000",
     "title": "Властелин колец. Часть 1. Братство Кольца",
     "author": "Джон Рональд Руэл Толкин",
     "year": "2005",
-    "chapters": false,
     "text": true,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": false,
     "genres": [
     ]
   },
   {
     "id": "lordrings_3",
+    "repo": "ru_000",
     "title": "Властелин колец. Часть 3. Возвращение короля",
     "author": "Джон Р. Толкин",
     "year": "2007",
-    "chapters": false,
     "text": true,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": false,
     "genres": [
       "fantastic",
       "adventures"
@@ -87,12 +94,13 @@
   },
   {
     "id": "hobbit",
+    "repo": "ru_000",
     "title": "Хоббит, или туда и обратно",
     "author": "Джон Р. Толкин",
     "year": "2007",
-    "chapters": false,
     "text": true,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": false,
     "genres": [
       "tales",
       "fantastic",
@@ -101,12 +109,13 @@
   },
   {
     "id": "narnia_2",
+    "repo": "ru_000",
     "title": "Хроники Нарнии. Лев, Колдунья и платяной шкаф",
     "author": "Клайв Стейплз Льюис",
     "year": "2018",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "tales",
       "fantastic"
@@ -114,12 +123,13 @@
   },
   {
     "id": "narnia_3",
+    "repo": "ru_000",
     "title": "Хроники Нарнии. Конь и его мальчик",
     "author": "Клайв Льюис",
     "year": "2019",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "tales",
       "child",
@@ -128,12 +138,13 @@
   },
   {
     "id": "narnia_6",
+    "repo": "ru_000",
     "title": "Хроники Нарнии. Серебряное кресло",
     "author": "Клайв Стейплз Льюис",
     "year": "2019",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "fantastic"
     ]

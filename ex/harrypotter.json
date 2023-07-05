@@ -1,12 +1,13 @@
 [
   {
     "id": "hp_philosopherstone",
+    "repo": "ru_000",
     "title": "Гарри Поттер и философский камень",
     "author": "Джоан Роулинг",
     "year": "2000",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "tales",
       "fantastic",
@@ -15,12 +16,13 @@
   },
   {
     "id": "hp_secretroom",
+    "repo": "ru_000",
     "title": "Гарри Поттер и Тайная комната",
     "author": "Роулинг Джоан Кейтлин",
     "year": "2002",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "tales",
       "fantastic"
@@ -28,12 +30,13 @@
   },
   {
     "id": "hp_azkabanprisoner",
+    "repo": "ru_000",
     "title": "Гарри Поттер и узник Азкабана",
     "author": "Роулинг Дж. К.",
     "year": "2003",
-    "chapters": true,
     "text": true,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "tales",
       "fantastic",
@@ -42,24 +45,25 @@
   },
   {
     "id": "hp_firecup",
+    "repo": "ru_000",
     "title": "Гарри Поттер и Кубок Огня",
     "author": "Роулинг Джоан",
     "year": "2005",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "Adventures"
     ]
   },
   {
     "id": "hp_phoenixorder",
+    "repo": "ru_000",
     "title": "Гарри Поттер и Орден Феникса",
     "author": "Д. Роулинг",
     "year": "2006",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "chapters": true,
     "genres": [
       "tales",
       "fantastic",
@@ -68,12 +72,13 @@
   },
   {
     "id": "hp_halfbloodprince",
+    "repo": "ru_000",
     "title": "Гарри Поттер и Принц-полукровка",
     "author": "Роулинг Дж. К.",
     "year": "2008",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "Tales",
       "Fantastic",
@@ -82,24 +87,25 @@
   },
   {
     "id": "hp_deathgifts",
+    "repo": "ru_000",
     "title": "Гарри Поттер и Дары Смерти",
     "author": "Роулинг Дж. К.",
     "year": "2009",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "chapters": true,
     "genres": [
       "Tales"
     ]
   },
   {
     "id": "child",
+    "repo": "ru_000",
     "title": "Гарри Поттер и проклятое дитя",
     "author": "Роулинг Джоан, Торн Джек, Тиффани Джон",
     "year": "2017",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "Tales",
       "Fantastic",
@@ -108,12 +114,13 @@
   },
   {
     "id": "sirius",
+    "repo": "ru_000",
     "title": "Гарри Поттер: Предыстория. Про Сириуса и Джеймса",
     "author": "Joahn Rowling",
     "year": "2010",
-    "chapters": false,
     "text": true,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": false,
     "genres": [
     ]
   }

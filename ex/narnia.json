@@ -1,12 +1,13 @@
 [
   {
     "id": "narnia_1",
+    "repo": "ru_000",
     "title": "Хроники Нарнии. Племянник чародея",
     "author": "Клайв Стейплз Льюис",
     "year": "2017",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "tales",
       "adventures"
@@ -14,12 +15,13 @@
   },
   {
     "id": "narnia_2",
+    "repo": "ru_000",
     "title": "Хроники Нарнии. Лев, Колдунья и платяной шкаф",
     "author": "Клайв Стейплз Льюис",
     "year": "2018",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "tales",
       "fantastic"
@@ -27,12 +29,13 @@
   },
   {
     "id": "narnia_3",
+    "repo": "ru_000",
     "title": "Хроники Нарнии. Конь и его мальчик",
     "author": "Клайв Льюис",
     "year": "2019",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "tales",
       "child",
@@ -41,36 +44,39 @@
   },
   {
     "id": "narnia_5",
+    "repo": "ru_000",
     "title": "Хроники Нарнии. Покоритель Зари, или плавание на край света",
     "author": "Клайв С. Льюис",
     "year": "2019",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "adventures"
     ]
   },
   {
     "id": "narnia_6",
+    "repo": "ru_000",
     "title": "Хроники Нарнии. Серебряное кресло",
     "author": "Клайв Стейплз Льюис",
     "year": "2019",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "fantastic"
     ]
   },
   {
     "id": "narnia_7",
+    "repo": "ru_000",
     "title": "Хроники Нарнии. Последняя битва",
     "author": "Клайв Стейплз Льюис",
     "year": "2019",
-    "chapters": true,
     "text": false,
-    "repo": "ru_000",
+    "music": false,
+    "chapters": true,
     "genres": [
       "tales",
       "adventures"
