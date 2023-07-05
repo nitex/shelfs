@@ -159,6 +159,7 @@
     "author": "Джон Р. Толкин",
     "year": "2007",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "fantastic",
