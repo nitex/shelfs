@@ -11,6 +11,7 @@
     "genres": [
       "child",
       "tale",
+      "folklore",
       "relation"
     ]
   },
@@ -26,6 +27,7 @@
     "genres": [
       "child",
       "tale",
+      "folklore",
       "relation",
       "adventure"
     ]
@@ -42,6 +44,7 @@
     "genres": [
       "child",
       "tale",
+      "folklore",
       "relation",
       "adventure"
     ]
@@ -58,8 +61,87 @@
     "genres": [
       "child",
       "tale",
+      "folklore",
       "relation",
       "adventure"
+    ]
+  },
+  {
+    "id": "ru_zimneutro1",
+    "repo": "ru_001",
+    "title": "Зимнее утро",
+    "author": "Александр Пушкин",
+    "year": "1829",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child"
+    ]
+  },
+  {
+    "id": "ru_duutvtery1",
+    "repo": "ru_001",
+    "title": "Ещё дуют холодные ветры",
+    "author": "Александр Пушкин",
+    "year": "1828",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child"
+    ]
+  },
+  {
+    "id": "ru_zemlimore1",
+    "repo": "ru_001",
+    "title": "Земля и море",
+    "author": "Александр Пушкин",
+    "year": "1821",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child"
+    ]
+  },
+  {
+    "id": "ru_buryastih1",
+    "repo": "ru_001",
+    "title": "Буря",
+    "author": "Александр Пушкин",
+    "year": "1825",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child"
+    ]
+  },
+  {
+    "id": "ru_tuchastih1",
+    "repo": "ru_001",
+    "title": "Туча",
+    "author": "Александр Пушкин",
+    "year": "1835",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child"
+    ]
+  },
+  {
+    "id": "ru_kakbystro1",
+    "repo": "ru_001",
+    "title": "Как быстро в поле, вкруг открытом",
+    "author": "Александр Пушкин",
+    "year": "1828",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child"
     ]
   }
 ]
