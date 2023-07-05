@@ -9,8 +9,8 @@
     "music": false,
     "chapters": true,
     "genres": [
-      "tales",
-      "adventures"
+      "tale",
+      "adventure"
     ]
   },
   {
@@ -23,7 +23,7 @@
     "music": false,
     "chapters": true,
     "genres": [
-      "tales",
+      "tale",
       "fantastic"
     ]
   },
@@ -37,7 +37,7 @@
     "music": false,
     "chapters": true,
     "genres": [
-      "tales",
+      "tale",
       "child",
       "folklore"
     ]
@@ -52,7 +52,7 @@
     "music": false,
     "chapters": true,
     "genres": [
-      "adventures"
+      "adventure"
     ]
   },
   {
@@ -78,8 +78,8 @@
     "music": false,
     "chapters": true,
     "genres": [
-      "tales",
-      "adventures"
+      "tale",
+      "adventure"
     ]
   }
 ]

@@ -9,7 +9,7 @@
     "music": false,
     "chapters": true,
     "genres": [
-      "tales",
+      "tale",
       "fantastic"
     ]
   },
@@ -23,7 +23,7 @@
     "music": false,
     "chapters": true,
     "genres": [
-      "Adventures"
+      "adventure"
     ]
   },
   {
@@ -36,9 +36,9 @@
     "music": false,
     "chapters": true,
     "genres": [
-      "Tales",
-      "Fantastic",
-      "Adventures"
+      "tale",
+      "fantastic",
+      "adventure"
     ]
   },
   {
@@ -51,7 +51,7 @@
     "text": false,
     "chapters": true,
     "genres": [
-      "Tales"
+      "tale"
     ]
   },
   {
@@ -89,7 +89,7 @@
     "chapters": false,
     "genres": [
       "fantastic",
-      "adventures"
+      "adventure"
     ]
   },
   {
@@ -102,9 +102,9 @@
     "music": false,
     "chapters": false,
     "genres": [
-      "tales",
+      "tale",
       "fantastic",
-      "adventures"
+      "adventure"
     ]
   },
   {
@@ -117,7 +117,7 @@
     "music": false,
     "chapters": true,
     "genres": [
-      "tales",
+      "tale",
       "fantastic"
     ]
   },
@@ -131,7 +131,7 @@
     "music": false,
     "chapters": true,
     "genres": [
-      "tales",
+      "tale",
       "child",
       "folklore"
     ]

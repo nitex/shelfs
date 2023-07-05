@@ -21,8 +21,8 @@
     "music": false,
     "chapters": false,
     "genres": [
-      "Fantastic",
-      "Adventures"
+      "fantastic",
+      "adventure"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "chapters": false,
     "genres": [
       "fantastic",
-      "adventures"
+      "adventure"
     ]
   },
   {
@@ -49,9 +49,9 @@
     "music": false,
     "chapters": false,
     "genres": [
-      "tales",
+      "tale",
       "fantastic",
-      "adventures"
+      "adventure"
     ]
   }
 ]
