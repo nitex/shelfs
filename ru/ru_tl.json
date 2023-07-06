@@ -1,152 +1,142 @@
 [
   {
-    "id": "",
+    "id": "ru_shatidont1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Шат и Дон",
     "author": "Лев Толстой",
-    "year": "",
+    "year": "1875",
     "text": true,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_izbushkad1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Избушка и Дворец",
     "author": "Лев Толстой",
-    "year": "",
-    "text": true,
-    "music": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Лев Толстой",
-    "year": "",
+    "year": "1875",
     "text": true,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_belkavolk1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Белка и Волк",
     "author": "Лев Толстой",
-    "year": "",
+    "year": "1875",
     "text": true,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_bolshayap1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Большая печь",
     "author": "Лев Толстой",
-    "year": "",
-    "text": true,
-    "music": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Лев Толстой",
-    "year": "",
-    "text": true,
-    "music": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Лев Толстой",
-    "year": "",
+    "year": "1875",
     "text": true,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_volvazuza1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Волга и Вазуза",
     "author": "Лев Толстой",
-    "year": "",
+    "year": "1875",
     "text": true,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_volkobyla1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Волк и Кобыла",
     "author": "Лев Толстой",
-    "year": "",
+    "year": "1875",
     "text": true,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_vorobeysk1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Воробей",
     "author": "Лев Толстой",
-    "year": "",
+    "year": "1875",
     "text": true,
-    "music": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_dvabratas1",
+    "repo": "ru_001",
+    "title": "Два брата",
+    "author": "Лев Толстой",
+    "year": "1875",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_devochkar1",
+    "repo": "ru_001",
+    "title": "Девочка и Разбойники",
+    "author": "Лев Толстой",
+    "year": "1875",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_nasledstv1",
+    "repo": "ru_001",
+    "title": "Делёж наследства",
+    "author": "Лев Толстой",
+    "year": "1875",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale"
     ]
   }
 ]
