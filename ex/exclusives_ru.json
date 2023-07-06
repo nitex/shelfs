@@ -6,6 +6,7 @@
     "author": "Серия \"ТИГРОМАНЫ\"",
     "year": "",
     "text": true,
+    "music": true,
     "chapters": false,
     "genres": [
       "relation"
@@ -20,6 +21,7 @@
     "author": "Для самых маленьких и не только",
     "year": "2022",
     "text": true,
+    "music": true,
     "chapters": false,
     "genres": [
       "folklore",
@@ -34,6 +36,7 @@
     "author": "Для самых маленьких и не только",
     "year": "2022",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "relation",
@@ -47,6 +50,7 @@
     "author": "Кикиндыш. Славные сны",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "folklore",
@@ -60,6 +64,7 @@
     "author": "Кикиндыш. Славные сны",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "tale"
@@ -72,6 +77,7 @@
     "author": "Из цикла \"Скакуны\"",
     "year": "2020",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "tale"
@@ -84,6 +90,7 @@
     "author": "",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "child",
@@ -97,6 +104,7 @@
     "author": "Детские истории Эрдранга",
     "year": "",
     "text": true,
+    "music": false,
     "chapters": false,
     "genres": [
       "fantastic",
@@ -111,6 +119,7 @@
     "author": "",
     "year": "",
     "text": true,
+    "music": true,
     "chapters": false,
     "genres": [
     ]
@@ -122,6 +131,7 @@
     "author": "Современная сказка",
     "year": "2019",
     "text": true,
+    "music": true,
     "chapters": false,
     "genres": [
       "child"

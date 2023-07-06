@@ -1,20 +1,5 @@
 [
   {
-    "id": "ru_halifaist1",
-    "repo": "ru_001",
-    "title": "Калиф-аист",
-    "author": "Вильгельм Гауф",
-    "year": "1826",
-    "text": true,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "animal"
-    ]
-  },
-  {
     "id": "",
     "repo": "ru_001",
     "title": "",
