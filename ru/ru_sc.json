@@ -1,150 +1,294 @@
 [
   {
-    "id": "",
+    "id": "ru_bmvalemon1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Белый медведь король Валемон",
+    "author": "Норвежская народная сказка",
     "year": "",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "folklore",
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_dobromzad1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Добром за добро",
+    "author": "Шведская народная сказка",
     "year": "",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "folklore",
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_perpolesp1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Пер, Пол и Эспен Аскеллад",
+    "author": "Норвежская народная сказка",
     "year": "",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "folklore",
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_pranichek1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Пряничек",
+    "author": "Норвежская народная сказка",
     "year": "",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "folklore",
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_stroitelg1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Строитель Гоб",
+    "author": "Ирландская народная сказка",
     "year": "",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "folklore",
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_predskazk1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Предсказание крестьянина",
+    "author": "Финская народная сказка",
     "year": "",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "folklore",
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_kakbarina1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Как барина проучили",
+    "author": "Латышская народная сказка",
     "year": "",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "folklore",
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_velikanib1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Великан и белка",
+    "author": "Шведская народная сказка",
     "year": "",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "folklore",
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_smrasprya1",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Семейная распря",
+    "author": "Ирландская народная сказка",
     "year": "",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-      "relation"
+      "folklore",
+      "tale"
     ]
   },
   {
-    "id": "",
+    "id": "ru_vdizfayfa2",
     "repo": "ru_001",
-    "title": "",
-    "author": "",
+    "title": "Ведьма из Файфа",
+    "author": "Шотландская народная сказка",
     "year": "",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_zavpuding1",
+    "repo": "ru_001",
+    "title": "Завороженный пудинг",
+    "author": "Ирландская народная сказка",
+    "year": "",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_dobryesov1",
+    "repo": "ru_001",
+    "title": "Добрые советы",
+    "author": "Финская народная сказка",
+    "year": "",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "relation",
+      "fantastic"
+    ]
+  },
+  {
+    "id": "ru_2skilding1",
+    "repo": "ru_001",
+    "title": "Монета в два скильдинга",
+    "author": "Исландская народная сказка",
+    "year": "",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "fantastic"
+    ]
+  },
+  {
+    "id": "ru_krldagmar1",
+    "repo": "ru_001",
+    "title": "Мудрая королева Дагмар",
+    "author": "Датская народная сказка",
+    "year": "",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_leprehaun1",
+    "repo": "ru_001",
+    "title": "Лепрехаун — маленький обманщик",
+    "author": "Ирландская народная сказка",
+    "year": "",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "adventure",
+      "fantastic"
+    ]
+  },
+  {
+    "id": "ru_roderikom1",
+    "repo": "ru_001",
+    "title": "Родерик — отец моржей",
+    "author": "Шотландская народная сказка",
+    "year": "",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale"
+    ]
+  },
+  {
+    "id": "ru_olepeshka1",
+    "repo": "ru_001",
+    "title": "Овсяная лепёшечка",
+    "author": "Шотландская народная сказка",
+    "year": "",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_hansilach1",
+    "repo": "ru_001",
+    "title": "Ханс-силач",
+    "author": "Датская народная сказка",
+    "year": "",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_mhozyayka1",
+    "repo": "ru_001",
+    "title": "Муж-хозяйка",
+    "author": "Норвежская народная сказка",
+    "year": "",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
       "tale",
       "relation"
     ]

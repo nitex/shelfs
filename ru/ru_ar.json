@@ -3,13 +3,14 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "Вильгельм Гауф",
+    "author": "Арабская народная сказка",
     "year": "",
-    "text": true,
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale"
     ]
   },
@@ -17,13 +18,14 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "Вильгельм Гауф",
+    "author": "Арабская народная сказка",
     "year": "",
-    "text": true,
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale"
     ]
   },
@@ -31,13 +33,14 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "Вильгельм Гауф",
+    "author": "Арабская народная сказка",
     "year": "",
-    "text": true,
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale"
     ]
   },
@@ -45,13 +48,14 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "Вильгельм Гауф",
+    "author": "Арабская народная сказка",
     "year": "",
-    "text": true,
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale"
     ]
   },
@@ -59,13 +63,14 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "Вильгельм Гауф",
+    "author": "Арабская народная сказка",
     "year": "",
-    "text": true,
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale"
     ]
   },
@@ -73,13 +78,14 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "Вильгельм Гауф",
+    "author": "Арабская народная сказка",
     "year": "",
-    "text": true,
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale"
     ]
   },
@@ -87,13 +93,14 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "Вильгельм Гауф",
+    "author": "Арабская народная сказка",
     "year": "",
-    "text": true,
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale"
     ]
   },
@@ -101,13 +108,14 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "Вильгельм Гауф",
+    "author": "Арабская народная сказка",
     "year": "",
-    "text": true,
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale"
     ]
   },
@@ -115,13 +123,29 @@
     "id": "",
     "repo": "ru_001",
     "title": "",
-    "author": "Вильгельм Гауф",
+    "author": "Арабская народная сказка",
     "year": "",
-    "text": true,
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
+      "tale"
+    ]
+  },
+  {
+    "id": "",
+    "repo": "ru_001",
+    "title": "",
+    "author": "Арабская народная сказка",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
       "tale"
     ]
   }

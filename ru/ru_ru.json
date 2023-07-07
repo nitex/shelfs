@@ -10,6 +10,7 @@
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale",
       "relation",
       "adventure"
@@ -26,6 +27,7 @@
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale",
       "relation"
     ]
@@ -41,6 +43,7 @@
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale",
       "relation",
       "adventure"
@@ -57,6 +60,7 @@
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale",
       "relation"
     ]
@@ -72,6 +76,7 @@
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale",
       "relation"
     ]
@@ -87,6 +92,7 @@
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale",
       "relation",
       "adventure"
@@ -103,6 +109,7 @@
     "chapters": false,
     "genres": [
       "child",
+      "folklore",
       "tale",
       "folklore",
       "relation"
