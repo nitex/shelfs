@@ -1,8 +1,24 @@
 [
   {
-    "id": "",
+    "id": "ru_kvsapogah1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Кот в сапогах",
+    "author": "Шарль Перро",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation",
+            "adventure"
+        ]
+  },
+  {
+    "id": "ru_mspalchik1",
+    "repo": "ru_001",
+    "title": "Мальчик с пальчик",
     "author": "Шарль Перро",
     "year": "",
     "text": false,
@@ -15,9 +31,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_rhoholkom1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Рике с хохолком",
     "author": "Шарль Перро",
     "year": "",
     "text": false,
@@ -30,9 +46,57 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_krasnayas1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Красная Шапочка",
+    "author": "Шарль Перро",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation",
+            "adventure"
+        ]
+  },
+  {
+    "id": "ru_sinboroda1",
+    "repo": "ru_001",
+    "title": "Синяя Борода",
+    "author": "Шарль Перро",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation",
+            "adventure"
+        ]
+  },
+  {
+    "id": "ru_volshebnc1",
+    "repo": "ru_001",
+    "title": "Волшебница",
+    "author": "Шарль Перро",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation",
+            "adventure"
+        ]
+  },
+  {
+    "id": "ru_zamarashk1",
+    "repo": "ru_001",
+    "title": "Замарашка",
     "author": "Шарль Перро",
     "year": "",
     "text": false,
@@ -45,9 +109,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_zolushkah1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Золушка, или Хрустальная туфелька",
     "author": "Шарль Перро",
     "year": "",
     "text": false,
@@ -56,13 +120,14 @@
     "genres": [
       "child",
       "tale",
-      "relation"
-    ]
+      "relation",
+            "adventure"
+        ]
   },
   {
-    "id": "",
+    "id": "ru_podarkife1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Подарки феи",
     "author": "Шарль Перро",
     "year": "",
     "text": false,
@@ -71,13 +136,14 @@
     "genres": [
       "child",
       "tale",
-      "relation"
-    ]
+      "relation",
+            "fantastic"
+        ]
   },
   {
-    "id": "",
+    "id": "ru_spashayak1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Спящая красавица",
     "author": "Шарль Перро",
     "year": "",
     "text": false,
@@ -86,67 +152,25 @@
     "genres": [
       "child",
       "tale",
-      "relation"
-    ]
+      "relation",
+            "fantastic"
+        ]
   },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Шарль Перро",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Шарль Перро",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Шарль Перро",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Шарль Перро",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  }
+    {
+        "id": "ru_kvsapogah2",
+        "repo": "ru_001",
+        "title": "Кот в сапогах",
+        "author": "Шарль Перро",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "relation",
+            "adventure",
+            "animal"
+        ]
+    }
 ]

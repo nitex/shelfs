@@ -105,6 +105,23 @@
     ]
   },
   {
+    "id": "ru_mhozyayka1",
+    "repo": "ru_001",
+    "title": "Муж-хозяйка",
+    "author": "Норвежская народная сказка",
+    "year": "",
+    "text": false,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "relation"
+    ]
+  }
+,
+  {
     "id": "ru_velikanib1",
     "repo": "ru_001",
     "title": "Великан и белка",
@@ -275,22 +292,6 @@
       "folklore",
       "tale",
       "adventure"
-    ]
-  },
-  {
-    "id": "ru_mhozyayka1",
-    "repo": "ru_001",
-    "title": "Муж-хозяйка",
-    "author": "Норвежская народная сказка",
-    "year": "",
-    "text": false,
-    "music": true,
-    "chapters": false,
-    "genres": [
-      "child",
-      "folklore",
-      "tale",
-      "relation"
     ]
   }
 ]

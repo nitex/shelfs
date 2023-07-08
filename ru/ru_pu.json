@@ -112,7 +112,7 @@
     "author": "Александр Пушкин",
     "year": "1825",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child"
@@ -125,7 +125,7 @@
     "author": "Александр Пушкин",
     "year": "1835",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child"
@@ -138,7 +138,7 @@
     "author": "Александр Пушкин",
     "year": "1828",
     "text": false,
-    "music": false,
+    "music": true,
     "chapters": false,
     "genres": [
       "child"
