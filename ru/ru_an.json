@@ -1,11 +1,27 @@
 [
   {
-    "id": "",
+    "id": "ru_gadutenok1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Гадкий утёнок",
     "author": "Ганс Христиан Андерсен",
     "year": "",
-    "text": true,
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation",
+            "animal"
+        ]
+  },
+  {
+    "id": "ru_soloveyan1",
+    "repo": "ru_001",
+    "title": "Соловей",
+    "author": "Ганс Христиан Андерсен",
+    "year": "",
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
@@ -15,12 +31,44 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_duymovoch1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Дюймовочка",
     "author": "Ганс Христиан Андерсен",
     "year": "",
-    "text": true,
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation",
+            "adventure"
+        ]
+  },
+  {
+    "id": "ru_skoroleva1",
+    "repo": "ru_001",
+    "title": "Снежная королева",
+    "author": "Ганс Христиан Андерсен",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation",
+            "adventure"
+        ]
+  },
+  {
+    "id": "ru_osoldatik1",
+    "repo": "ru_001",
+    "title": "Стойкий оловянный солдатик",
+    "author": "Ганс Христиан Андерсен",
+    "year": "",
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
@@ -30,12 +78,12 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_lesnoholm1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Лесной холм",
     "author": "Ганс Христиан Андерсен",
     "year": "",
-    "text": true,
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
@@ -45,12 +93,12 @@
     ]
   },
   {
-    "id": "",
+    "id": "ru_svinyakop1",
     "repo": "ru_001",
-    "title": "",
+    "title": "Свинья-копилка",
     "author": "Ганс Христиан Андерсен",
     "year": "",
-    "text": true,
+    "text": false,
     "music": false,
     "chapters": false,
     "genres": [
@@ -59,94 +107,51 @@
       "relation"
     ]
   },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Ганс Христиан Андерсен",
-    "year": "",
-    "text": true,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Ганс Христиан Андерсен",
-    "year": "",
-    "text": true,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Ганс Христиан Андерсен",
-    "year": "",
-    "text": true,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Ганс Христиан Андерсен",
-    "year": "",
-    "text": true,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Ганс Христиан Андерсен",
-    "year": "",
-    "text": true,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "",
-    "repo": "ru_001",
-    "title": "",
-    "author": "Ганс Христиан Андерсен",
-    "year": "",
-    "text": true,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation"
-    ]
-  }
+    {
+        "id": "ru_halifaist1",
+        "repo": "ru_001",
+        "title": "Калиф-аист",
+        "author": "Ганс Христиан Андерсен",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "relation",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_jekibobov1",
+        "repo": "ru_001",
+        "title": "Джек и бобовый стебель",
+        "author": "Ганс Христиан Андерсен",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "relation",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_lisatigrk1",
+        "repo": "ru_001",
+        "title": "Лиса, тигр и крестьянин",
+        "author": "Ганс Христиан Андерсен",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "relation"
+        ]
+    }
 ]

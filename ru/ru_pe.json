@@ -15,6 +15,22 @@
             "adventure"
         ]
   },
+    {
+    "id": "ru_zolushkah1",
+    "repo": "ru_001",
+    "title": "Золушка, или Хрустальная туфелька",
+    "author": "Шарль Перро",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "relation",
+            "adventure"
+        ]
+  },
   {
     "id": "ru_mspalchik1",
     "repo": "ru_001",
@@ -108,23 +124,7 @@
       "relation"
     ]
   },
-  {
-    "id": "ru_zolushkah1",
-    "repo": "ru_001",
-    "title": "Золушка, или Хрустальная туфелька",
-    "author": "Шарль Перро",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "relation",
-            "adventure"
-        ]
-  },
-  {
+    {
     "id": "ru_podarkife1",
     "repo": "ru_001",
     "title": "Подарки феи",
@@ -155,22 +155,5 @@
       "relation",
             "fantastic"
         ]
-  },
-    {
-        "id": "ru_kvsapogah2",
-        "repo": "ru_001",
-        "title": "Кот в сапогах",
-        "author": "Шарль Перро",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "relation",
-            "adventure",
-            "animal"
-        ]
-    }
+  }
 ]
