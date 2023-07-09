@@ -1,5 +1,51 @@
 [
   {
+        "id": "ru_goroshina1",
+        "repo": "ru_001",
+        "title": "Принцесса на горошине",
+        "author": "Ганс Христиан Андерсен",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "relation"
+        ]
+    }
+,
+    {
+        "id": "ru_grechihas1",
+        "repo": "ru_001",
+        "title": "Гречиха",
+        "author": "Ганс Христиан Андерсен",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "relation"
+        ]
+    },
+    {
+        "id": "ru_plyashiku1",
+        "repo": "ru_001",
+        "title": "Пляши, куколка, пляши!",
+        "author": "Ганс Христиан Андерсен",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "relation"
+        ]
+    },
+    {
     "id": "ru_gadutenok1",
     "repo": "ru_001",
     "title": "Гадкий утёнок",
@@ -106,52 +152,5 @@
       "tale",
       "relation"
     ]
-  },
-    {
-        "id": "ru_halifaist1",
-        "repo": "ru_001",
-        "title": "Калиф-аист",
-        "author": "Ганс Христиан Андерсен",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "relation",
-            "adventure"
-        ]
-    },
-    {
-        "id": "ru_jekibobov1",
-        "repo": "ru_001",
-        "title": "Джек и бобовый стебель",
-        "author": "Ганс Христиан Андерсен",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "relation",
-            "adventure"
-        ]
-    },
-    {
-        "id": "ru_lisatigrk1",
-        "repo": "ru_001",
-        "title": "Лиса, тигр и крестьянин",
-        "author": "Ганс Христиан Андерсен",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "relation"
-        ]
-    }
+  }
 ]
