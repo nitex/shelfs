@@ -209,22 +209,6 @@
         ]
     },
     {
-        "id": "ru_prctroyol1",
-        "repo": "ru_001",
-        "title": "Принцесса Тройоль",
-        "author": "Французская народная сказка",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "folklore",
-            "tale",
-            "relation"
-        ]
-    },
-    {
         "id": "ru_2gorbunai1",
         "repo": "ru_001",
         "title": "Два горбуна и гномы",
@@ -412,27 +396,11 @@
         ]
     },
     {
-        "id": "ru_sndyavola1",
+        "id": "ru_9barashki1",
         "repo": "ru_001",
-        "title": "Сын дьявола",
+        "title": "Сказка о девяти братьях-барашках и их сестре",
         "author": "Французская народная сказка",
         "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "folklore",
-            "tale",
-            "fantastic"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "ru_001",
-        "title": "ru_9barashki1",
-        "author": "Французская народная сказка",
-        "year": "Сказка о девяти братьях-барашках и их сестре",
         "text": false,
         "music": false,
         "chapters": false,
@@ -723,22 +691,6 @@
         ]
     },
     {
-        "id": "ru_barbaiklh1",
-        "repo": "ru_001",
-        "title": "Барбаик Лохо и домовой",
-        "author": "Французская народная сказка",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "folklore",
-            "tale",
-            "adventure"
-        ]
-    },
-    {
         "id": "ru_3skripach1",
         "repo": "ru_001",
         "title": "Три скрипача в раю",
@@ -879,5 +831,52 @@
             "tale",
             "adventure"
         ]
-    }
-]
+    },
+    {
+        "id": "ru_sndyavola1",
+        "repo": "ru_001",
+        "title": "Сын дьявола",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "ru_prctroyol1",
+        "repo": "ru_001",
+        "title": "Принцесса Тройоль",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "relation"
+        ]
+    },
+    {
+        "id": "ru_barbaiklh1",
+        "repo": "ru_001",
+        "title": "Барбаик Лохо и домовой",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    }]
