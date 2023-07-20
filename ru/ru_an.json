@@ -152,5 +152,20 @@
       "tale",
       "relation"
     ]
-  }
+  },
+    {
+        "id": "ru_ognivoand1",
+        "repo": "ru_001",
+        "title": "Огниво",
+        "author": "Ганс Христиан Андерсен",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    }
 ]

@@ -191,5 +191,693 @@
       "tale",
       "relation"
     ]
-  }
+  },
+    {
+        "id": "ru_ispanskdo1",
+        "repo": "ru_001",
+        "title": "Дочь испанского короля",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "relation"
+        ]
+    },
+    {
+        "id": "ru_prctroyol1",
+        "repo": "ru_001",
+        "title": "Принцесса Тройоль",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "relation"
+        ]
+    },
+    {
+        "id": "ru_2gorbunai1",
+        "repo": "ru_001",
+        "title": "Два горбуна и гномы",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "ru_zoldragun1",
+        "repo": "ru_001",
+        "title": "Золотой Драгун",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_skaz13muh1",
+        "repo": "ru_001",
+        "title": "Сказка про тринадцать мух",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "ru_jenihjaba1",
+        "repo": "ru_001",
+        "title": "Жених-жаба",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_4nenastiy1",
+        "repo": "ru_001",
+        "title": "Ночь четырех ненастий",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "ru_sinboroda2",
+        "repo": "ru_001",
+        "title": "Синяя Борода",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "ru_vlsvistok1",
+        "repo": "ru_001",
+        "title": "Волшебный свисток",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "ru_eunkongar1",
+        "repo": "ru_001",
+        "title": "Эуэн Конгар",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_koshenart1",
+        "repo": "ru_001",
+        "title": "Кошенар и Тюркен",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_delezhska1",
+        "repo": "ru_001",
+        "title": "Делёж",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_zloshasty1",
+        "repo": "ru_001",
+        "title": "Сказка про дядюшку Злосчастье и его собаку Нищету",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_msapozhok1",
+        "repo": "ru_001",
+        "title": "Сказка про мальчика с сапожок",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_sndyavola1",
+        "repo": "ru_001",
+        "title": "Сын дьявола",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "",
+        "repo": "ru_001",
+        "title": "ru_9barashki1",
+        "author": "Французская народная сказка",
+        "year": "Сказка о девяти братьях-барашках и их сестре",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_oselplunu1",
+        "repo": "ru_001",
+        "title": "Как осёл проглотил луну",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_lovkiyvor1",
+        "repo": "ru_001",
+        "title": "Ловкий вор",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_koranglii1",
+        "repo": "ru_001",
+        "title": "Король Англии и его крестник",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "relation"
+        ]
+    },
+    {
+        "id": "ru_cheloveck1",
+        "repo": "ru_001",
+        "title": "Маленькие человечки",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_pdangober1",
+        "repo": "ru_001",
+        "title": "Принцесса Дангобер",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_pastushok1",
+        "repo": "ru_001",
+        "title": "Сказка о ловком пастушке",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_kakcherta1",
+        "repo": "ru_001",
+        "title": "Как чёрта перехитрили",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "ru_korolvoro1",
+        "repo": "ru_001",
+        "title": "Король-ворон",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_vyserdtse1",
+        "repo": "ru_001",
+        "title": "Выклеванное сердце",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_nkoroleva1",
+        "repo": "ru_001",
+        "title": "Наказанная королева",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_3ohotnika1",
+        "repo": "ru_001",
+        "title": "Три охотника",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_belyyvolk1",
+        "repo": "ru_001",
+        "title": "Белый волк",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "ru_chertkosa1",
+        "repo": "ru_001",
+        "title": "Чёртова коса",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_nochnyepl1",
+        "repo": "ru_001",
+        "title": "Ночные плясуны",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_hitrykure1",
+        "repo": "ru_001",
+        "title": "Хитрый кюре",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_tronkolen1",
+        "repo": "ru_001",
+        "title": "Принцесса Тронколен",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_rayskiytb1",
+        "repo": "ru_001",
+        "title": "Райский табурет",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_domovyesk1",
+        "repo": "ru_001",
+        "title": "Домовые",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_barbaiklh1",
+        "repo": "ru_001",
+        "title": "Барбаик Лохо и домовой",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_3skripach1",
+        "repo": "ru_001",
+        "title": "Три скрипача в раю",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_krstolome1",
+        "repo": "ru_001",
+        "title": "Крестьянин Толоме и дьявол",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_otkdblohi1",
+        "repo": "ru_001",
+        "title": "Откуда взялись блохи",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "ru_klubokshr1",
+        "repo": "ru_001",
+        "title": "Клубок шерсти",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_grkorbyer1",
+        "repo": "ru_001",
+        "title": "Грот Корбьер",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "ru_morganyna1",
+        "repo": "ru_001",
+        "title": "Морганы на острове Уэссан",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_pichuzhka1",
+        "repo": "ru_001",
+        "title": "Пичужка",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "ru_lotsmaniz1",
+        "repo": "ru_001",
+        "title": "Лоцман из Булони",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "ru_zolotayag1",
+        "repo": "ru_001",
+        "title": "Золотая головня",
+        "author": "Французская народная сказка",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale",
+            "adventure"
+        ]
+    }
 ]
