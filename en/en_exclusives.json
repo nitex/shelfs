@@ -1,0 +1,140 @@
+[
+  {
+    "id": "ex0",
+    "repo": "ex_001",
+    "title": "Mother and the long-haired boy",
+    "author": "\"TIGROMANS\" series",
+    "year": "",
+    "text": true,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "relation"
+    ,
+      "child"
+    ]
+  },
+  {
+    "id": "ex1",
+    "repo": "ex_001",
+    "title": "Musimonsters: the fun begins",
+    "author": "For the little ones and not only",
+    "year": "2022",
+    "text": true,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "folklore",
+      "animal",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ex2",
+    "repo": "ex_001",
+    "title": "Musimonsters: The Great Journey",
+    "author": "For the little ones and not only",
+    "year": "2022",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "relation",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ex3",
+    "repo": "ex_001",
+    "title": "Kikindysh: golden times",
+    "author": "Kikindysh. Glorious dreams",
+    "year": "",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ex4",
+    "repo": "ex_001",
+    "title": "How Kikindysh went to the garden",
+    "author": "Kikindysh. Glorious dreams",
+    "year": "",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "tale"
+    ]
+  },
+  {
+    "id": "ex5",
+    "repo": "ex_001",
+    "title": "Little Veles, and what does he think about when he dreams ...",
+    "author": "From the \"Riders\" series",
+    "year": "2020",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "tale"
+    ]
+  },
+  {
+    "id": "ex6",
+    "repo": "ex_001",
+    "title": "How young Uyeyte was out of town, and how she drank sweet syrup",
+    "author": "",
+    "year": "",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore"
+    ]
+  },
+  {
+    "id": "ex7",
+    "repo": "ex_001",
+    "title": "Why did the bear suddenly come to the land of Oro",
+    "author": "Erdrang's childhood stories",
+    "year": "",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "fantastic",
+      "relation",
+      "detective"
+    ]
+  },
+  {
+    "id": "ex8",
+    "repo": "ex_001",
+    "title": "Lutka-vibe and the Magic Pipe",
+    "author": "",
+    "year": "",
+    "text": true,
+    "music": true,
+    "chapters": false,
+    "genres": [
+    ]
+  },
+  {
+    "id": "ex9",
+    "repo": "ex_001",
+    "title": "Wise Spacecat Britanos",
+    "author": "Modern fairy tale",
+    "year": "2019",
+    "text": true,
+    "music": true,
+    "chapters": false,
+    "genres": [
+      "child"
+    ]
+  }
+]

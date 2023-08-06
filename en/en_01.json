@@ -1,0 +1,664 @@
+[
+  {
+    "id": "en_tomtittot1",
+    "repo": "en_001",
+    "title": "Tom Tit Tot",
+    "author": "English fairy tale",
+    "year": "",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "tale",
+      "child",
+            "folklore"
+    ]
+  },
+    {
+        "id": "en_t3sillies1",
+        "repo": "en_001",
+        "title": "The Three Sillies",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_trosetree1",
+        "repo": "en_001",
+        "title": "The Rose-Tree",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_owomanpig1",
+        "repo": "en_001",
+        "title": "The Old Woman and Her Pig",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_jackwentf1",
+        "repo": "en_001",
+        "title": "How Jack Went to Seek his Fortune",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_mrvinegar1",
+        "repo": "en_001",
+        "title": "Mr. Vinegar",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_nixnought1",
+        "repo": "en_001",
+        "title": "Nix Nought Nothing",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_hannaford1",
+        "repo": "en_001",
+        "title": "Jack Hannaford",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_binnorrie1",
+        "repo": "en_001",
+        "title": "Binnorie",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_moumouser1",
+        "repo": "en_001",
+        "title": "Mouse and Mouser",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_caprushes1",
+        "repo": "en_001",
+        "title": "Cap O' Rushes",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_teenytiny1",
+        "repo": "en_001",
+        "title": "Teeny-Tiny",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_beanstalk1",
+        "repo": "en_001",
+        "title": "Jack and the Beanstalk",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_littlepig1",
+        "repo": "en_001",
+        "title": "The Story of the Three Little Pigs",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_masterhis1",
+        "repo": "en_001",
+        "title": "The Master and His Pupil",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_tittymous1",
+        "repo": "en_001",
+        "title": "Titty Mouse and Tatty Mouse",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_jsnuffbox1",
+        "repo": "en_001",
+        "title": "Jack and His Golden Snuff-Box",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_threebear1",
+        "repo": "en_001",
+        "title": "The Story of the Three Bears",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_jackgiant1",
+        "repo": "en_001",
+        "title": "Jack the Giant Killer",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_hennypenn1",
+        "repo": "en_001",
+        "title": "Henny-Penny",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_chrowland1",
+        "repo": "en_001",
+        "title": "Childe Rowland",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_mowhuppie1",
+        "repo": "en_001",
+        "title": "Molly Whuppie",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_tredettin1",
+        "repo": "en_001",
+        "title": "The Red Ettin",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_goldenarm1",
+        "repo": "en_001",
+        "title": "The Golden Arm",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_htomthumb1",
+        "repo": "en_001",
+        "title": "The History of Tom Thumb",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_misterfox1",
+        "repo": "en_001",
+        "title": "Mr. Fox",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_tlazyjack1",
+        "repo": "en_001",
+        "title": "Lazy Jack",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_johnycake1",
+        "repo": "en_001",
+        "title": "Johnny-Cake",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_earlmarsd1",
+        "repo": "en_001",
+        "title": "Earl Mar's Daughter",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_tmrmiacca1",
+        "repo": "en_001",
+        "title": "Mr. Miacca",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_whittingt1",
+        "repo": "en_001",
+        "title": "Whittington and His Cat",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_strangevs1",
+        "repo": "en_001",
+        "title": "The Strange Visitor",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_spindlest1",
+        "repo": "en_001",
+        "title": "The Laidly Worm of Spindleston Heugh",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_catnmouse1",
+        "repo": "en_001",
+        "title": "The Cat and the Mouse",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_fishnring1",
+        "repo": "en_001",
+        "title": "The Fish and the Ring",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_magpienst1",
+        "repo": "en_001",
+        "title": "The Magpie's Nest",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_crackernt1",
+        "repo": "en_001",
+        "title": "Kate Crackernuts",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_tcauldlad1",
+        "repo": "en_001",
+        "title": "The Cauld Lad of Hilton",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_asstables1",
+        "repo": "en_001",
+        "title": "The Ass, The Table and the Stick",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_fointment1",
+        "repo": "en_001",
+        "title": "Fairy Ointment",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_worldsend1",
+        "repo": "en_001",
+        "title": "The Well of the World's End",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_masterall1",
+        "repo": "en_001",
+        "title": "Master of all Masters",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_headswell1",
+        "repo": "en_001",
+        "title": "The Three Heads of the Well",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_alicewond1",
+        "repo": "en_001",
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "year": "1865",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "animal",
+            "fantastic",
+            "adventure"
+        ]
+    }
+]
