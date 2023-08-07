@@ -4,6 +4,10 @@
     "title": "English Fairy Tales"
   },
     {
+        "id": "en_am",
+        "title": "American Fairy Tales"
+    },
+    {
         "id": "en_exclusives",
         "title": "Exclusives"
     }

@@ -11,8 +11,9 @@
     "genres": [
       "tale",
       "child",
-            "folklore"
-    ]
+            "folklore",
+            "adventure"
+        ]
   },
     {
         "id": "en_t3sillies1",
@@ -26,7 +27,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "relation"
         ]
     },
     {
@@ -56,7 +58,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "animal"
         ]
     },
     {
@@ -71,7 +74,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -86,7 +90,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "relation"
         ]
     },
     {
@@ -101,7 +106,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "fantastic"
         ]
     },
     {
@@ -116,7 +122,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -131,7 +138,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "fantastic"
         ]
     },
     {
@@ -146,7 +154,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "animal"
         ]
     },
     {
@@ -161,7 +170,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -191,7 +201,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -206,7 +217,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "animal"
         ]
     },
     {
@@ -221,7 +233,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "relation"
         ]
     },
     {
@@ -236,7 +249,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "animal"
         ]
     },
     {
@@ -251,7 +265,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -266,7 +281,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "animal"
         ]
     },
     {
@@ -281,7 +297,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -296,7 +313,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "animal"
         ]
     },
     {
@@ -311,7 +329,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -326,7 +345,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "relation"
         ]
     },
     {
@@ -341,7 +361,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -371,7 +392,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -386,7 +408,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -401,7 +424,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -416,7 +440,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -431,7 +456,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -446,7 +472,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -461,7 +488,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -476,7 +504,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -491,7 +520,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "fantastic"
         ]
     },
     {
@@ -506,7 +536,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "animal"
         ]
     },
     {
@@ -521,7 +552,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -536,7 +568,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "animal"
         ]
     },
     {
@@ -551,7 +584,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "fantastic"
         ]
     },
     {
@@ -566,7 +600,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "fantastic"
         ]
     },
     {
@@ -581,7 +616,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "fantastic"
         ]
     },
     {
@@ -596,7 +632,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "adventure"
         ]
     },
     {
@@ -611,7 +648,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "fantastic"
         ]
     },
     {
@@ -626,7 +664,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "fantastic"
         ]
     },
     {
@@ -641,7 +680,8 @@
         "genres": [
             "tale",
             "child",
-            "folklore"
+            "folklore",
+            "fantastic"
         ]
     },
     {
@@ -651,8 +691,8 @@
         "author": "Lewis Carroll",
         "year": "1865",
         "text": false,
-        "music": false,
-        "chapters": false,
+        "music": true,
+        "chapters": true,
         "genres": [
             "tale",
             "child",

@@ -1,0 +1,187 @@
+[
+  {
+    "id": "en_borobbers1",
+    "repo": "en_001",
+    "title": "The Box of Robbers",
+    "author": "L. Frank Baum",
+    "year": "1901",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "tale",
+            "child",
+            "detective"
+        ]
+  },
+    {
+        "id": "en_tglassdog1",
+        "repo": "en_001",
+        "title": "The Glass Dog",
+        "author": "L. Frank Baum",
+        "year": "1901",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "animal",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_queenquok1",
+        "repo": "en_001",
+        "title": "The Queen of Quok",
+        "author": "L. Frank Baum",
+        "year": "1901",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_ownedbear1",
+        "repo": "en_001",
+        "title": "The Girl Who Owned a Bear",
+        "author": "L. Frank Baum",
+        "year": "1901",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_enchanted1",
+        "repo": "en_001",
+        "title": "The Enchanted Types",
+        "author": "L. Frank Baum",
+        "year": "1901",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_laughingh1",
+        "repo": "en_001",
+        "title": "The Laughing Hippopotamus",
+        "author": "L. Frank Baum",
+        "year": "1901",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "animal",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_magicbons1",
+        "repo": "en_001",
+        "title": "The Magic Bon Bons",
+        "author": "L. Frank Baum",
+        "year": "1901",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_fathertim1",
+        "repo": "en_001",
+        "title": "The Capture of Father Time",
+        "author": "L. Frank Baum",
+        "year": "1901",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_wonderful1",
+        "repo": "en_001",
+        "title": "The Wonderful Pump",
+        "author": "L. Frank Baum",
+        "year": "1901",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child"
+        ]
+    },
+    {
+        "id": "en_dummythat1",
+        "repo": "en_001",
+        "title": "The Dummy That Lived",
+        "author": "L. Frank Baum",
+        "year": "1901",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_kingpolar1",
+        "repo": "en_001",
+        "title": "The King of the Polar Bears",
+        "author": "L. Frank Baum",
+        "year": "1901",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "animal",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_mandarinb1",
+        "repo": "en_001",
+        "title": "The Mandarin and The Butterfly",
+        "author": "L. Frank Baum",
+        "year": "1901",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "animal",
+            "adventure"
+        ]
+    }
+]
