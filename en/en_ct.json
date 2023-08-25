@@ -1,0 +1,410 @@
+[
+  {
+    "id": "en_connlaand1",
+    "repo": "en_001",
+    "title": "Connla and the fairy maiden",
+    "author": "Celtic fairy tale",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+  },
+    {
+        "id": "en_guleeshft1",
+        "repo": "en_001",
+        "title": "Guleesh",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_fboliauns1",
+        "repo": "en_001",
+        "title": "The field of boliauns",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_hornedwom1",
+        "repo": "en_001",
+        "title": "The horned women",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_yellowclw1",
+        "repo": "en_001",
+        "title": "Conall Yellowclaw",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_huddndudd1",
+        "repo": "en_001",
+        "title": "Hudden and Dudden and Donald O'Neary",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_shepherdm1",
+        "repo": "en_001",
+        "title": "The shepherd of Myddvai",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_sprightly1",
+        "repo": "en_001",
+        "title": "The sprightly tailor",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_ofdeirdre1",
+        "repo": "en_001",
+        "title": "The story of Deirdre",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_mmanachar1",
+        "repo": "en_001",
+        "title": "Munachar and Manachar",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_goldtrees1",
+        "repo": "en_001",
+        "title": "Gold-tree and silver-tree",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_kingtoole1",
+        "repo": "en_001",
+        "title": "King O'Toole and his goose",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_thewooing1",
+        "repo": "en_001",
+        "title": "The wooing of Olwen",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_jcomrades1",
+        "repo": "en_001",
+        "title": "Jack and his comrades",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_sheegaire1",
+        "repo": "en_001",
+        "title": "The Shee an Gannon and the Gruagach Gaire",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_storytell1",
+        "repo": "en_001",
+        "title": "The story-teller at fault",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_seamaiden1",
+        "repo": "en_001",
+        "title": "The sea-maiden",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_knockmany1",
+        "repo": "en_001",
+        "title": "A legend of Knockmany",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_trembling1",
+        "repo": "en_001",
+        "title": "Fair, brown, and trembling",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_jackmaste1",
+        "repo": "en_001",
+        "title": "Jack and his master",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_begellert1",
+        "repo": "en_001",
+        "title": "Beth Gellert",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_taleoivan1",
+        "repo": "en_001",
+        "title": "The tale of Ivan",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_andcoffey1",
+        "repo": "en_001",
+        "title": "Andrew Coffey",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_battleofb1",
+        "repo": "en_001",
+        "title": "The battle of the birds",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_eggshells1",
+        "repo": "en_001",
+        "title": "Brewery of eggshells",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_lgoatskin1",
+        "repo": "en_001",
+        "title": "The lad with the goat-skin",
+        "author": "Celtic fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    }
+]
