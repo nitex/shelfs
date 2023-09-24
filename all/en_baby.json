@@ -16,8 +16,16 @@
         "title": "Celtic Fairy Tales"
     },
     {
+        "id": "en_an",
+        "title": "Andersen's Fairy Tales"
+    },
+    {
         "id": "en_pl",
         "title": "Polish Fairy Tales"
+    },
+    {
+        "id": "en_in",
+        "title": "Indian Fairy Tales"
     },
     {
         "id": "en_exclusives",
