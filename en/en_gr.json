@@ -1,272 +1,282 @@
 [
   {
-    "id": "en_emperorsc1",
+    "id": "",
     "repo": "en_001",
-    "title": "The emperor's new clothes",
-    "author": "Hans Christian Andersen",
+    "title": "",
+    "author": "The Brothers Grimm",
     "year": "",
     "text": false,
     "music": false,
     "chapters": false,
     "genres": [
-      "tale",
-            "child",
-            "adventure"
+      "child",
+      "tale"
         ]
   },
     {
-        "id": "en_swineherd1",
+        "id": "",
         "repo": "en_001",
-        "title": "The swineherd",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_rprincess1",
+        "id": "",
         "repo": "en_001",
-        "title": "The real princess",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_shfortune1",
+        "id": "",
         "repo": "en_001",
-        "title": "The shoes of fortune",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_thfirtree1",
+        "id": "",
         "repo": "en_001",
-        "title": "The fir tree",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_tleapfrog1",
+        "id": "",
         "repo": "en_001",
-        "title": "The leap-frog",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "animal"
+            "tale"
         ]
     },
     {
-        "id": "en_elderbush1",
+        "id": "",
         "repo": "en_001",
-        "title": "The elderbush",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_tbellbell1",
+        "id": "",
         "repo": "en_001",
-        "title": "The bell",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
-            "child"
+            "child",
+            "tale"
         ]
     },
     {
-        "id": "en_toldhouse1",
+        "id": "",
         "repo": "en_001",
-        "title": "The old house",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_hpyfamily1",
+        "id": "",
         "repo": "en_001",
-        "title": "The happy family",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "relation"
+            "tale"
         ]
     },
     {
-        "id": "en_theshadow1",
+        "id": "",
         "repo": "en_001",
-        "title": "The shadow",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "fantastic"
+            "tale"
         ]
     },
     {
-        "id": "en_strmother1",
+        "id": "",
         "repo": "en_001",
-        "title": "The story of a mother",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "relation"
+            "tale"
         ]
     },
     {
-        "id": "en_matchgirl1",
+        "id": "",
         "repo": "en_001",
-        "title": "The little match girl",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "relation"
+            "tale"
         ]
     },
     {
-        "id": "en_littletuk1",
+        "id": "",
         "repo": "en_001",
-        "title": "The dream of little Tuk",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "relation"
+            "tale"
         ]
     },
     {
-        "id": "en_naughtboy1",
+        "id": "",
         "repo": "en_001",
-        "title": "The naughty boy",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "relation"
+            "tale"
         ]
     },
     {
-        "id": "en_tredshoes1",
+        "id": "",
         "repo": "en_001",
-        "title": "The red shoes",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_flscollar1",
+        "id": "",
         "repo": "en_001",
-        "title": "The false collar",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "fantastic"
+            "tale"
         ]
     },
     {
-        "id": "en_snowqueen1",
+        "id": "",
         "repo": "en_001",
-        "title": "The snow queen",
-        "author": "Hans Christian Andersen",
+        "title": "",
+        "author": "The Brothers Grimm",
         "year": "",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
-            "tale",
             "child",
-            "fantastic",
-            "adventure"
+            "tale"
+        ]
+    },
+    {
+        "id": "",
+        "repo": "en_001",
+        "title": "",
+        "author": "The Brothers Grimm",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "",
+        "repo": "en_001",
+        "title": "",
+        "author": "The Brothers Grimm",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
         ]
     }
 ]
