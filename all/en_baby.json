@@ -28,6 +28,26 @@
         "title": "Indian Fairy Tales"
     },
     {
+        "id": "en_gr",
+        "title": "Grimm's Fairy Tales"
+    },
+    {
+        "id": "en_pe",
+        "title": "Fairy Tales of Charles Perrault"
+    },
+    {
+        "id": "en_au",
+        "title": "Australian Fairy Tales"
+    },
+    {
+        "id": "en_gf",
+        "title": "Fairy Tales by Wilhelm Hauff"
+    },
+    {
+        "id": "or_01",
+        "title": "For the smallest ones"
+    },
+    {
         "id": "en_exclusives",
         "title": "Exclusives"
     }

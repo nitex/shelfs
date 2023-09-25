@@ -1,0 +1,210 @@
+[
+  {
+    "id": "en_skylarkss1",
+    "repo": "en_001",
+    "title": "The skylark's story",
+    "author": "Australian fairy tale",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+  },
+    {
+        "id": "en_gourdsand1",
+        "repo": "en_001",
+        "title": "Gourds and quinces",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_grapevine1",
+        "repo": "en_001",
+        "title": "The grape vine's story",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_whenstork1",
+        "repo": "en_001",
+        "title": "When the stork called",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "animal",
+            "folklore"
+        ]
+    },
+    {
+        "id": "en_raindrops1",
+        "repo": "en_001",
+        "title": "The raindrop's story",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_doormatss1",
+        "repo": "en_001",
+        "title": "The door mat's story",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_cperfumes1",
+        "repo": "en_001",
+        "title": "Clover perfume's story",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_musicsstr1",
+        "repo": "en_001",
+        "title": "Music's story",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_moonparty1",
+        "repo": "en_001",
+        "title": "The moon's garden party",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_magicwell1",
+        "repo": "en_001",
+        "title": "The magic well",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_fairycity1",
+        "repo": "en_001",
+        "title": "The fairy city",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_princespl1",
+        "repo": "en_001",
+        "title": "The prince's palace",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_princesmr1",
+        "repo": "en_001",
+        "title": "The prince's marriage",
+        "author": "Australian fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    }
+]
