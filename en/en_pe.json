@@ -1,8 +1,8 @@
 [
   {
-    "id": "",
+    "id": "en_redriding1",
     "repo": "en_001",
-    "title": "",
+    "title": "Little Red Riding-hood",
     "author": "Charles Perrault",
     "year": "",
     "text": false,
@@ -10,13 +10,14 @@
     "chapters": false,
     "genres": [
       "child",
-      "tale"
+      "tale",
+            "adventure"
         ]
   },
     {
-        "id": "",
+        "id": "en_thefairyt1",
         "repo": "en_001",
-        "title": "",
+        "title": "The fairy",
         "author": "Charles Perrault",
         "year": "",
         "text": false,
@@ -24,13 +25,14 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "fantastic"
         ]
     },
     {
-        "id": "",
+        "id": "en_bluebeard1",
         "repo": "en_001",
-        "title": "",
+        "title": "Blue Beard",
         "author": "Charles Perrault",
         "year": "",
         "text": false,
@@ -38,13 +40,14 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
-        "id": "",
+        "id": "en_sleepingb1",
         "repo": "en_001",
-        "title": "",
+        "title": "The sleeping beauty in the wood",
         "author": "Charles Perrault",
         "year": "",
         "text": false,
@@ -52,13 +55,14 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
-        "id": "",
+        "id": "en_pussboots1",
         "repo": "en_001",
-        "title": "",
+        "title": "The master cat: or, Puss-in-Boots",
         "author": "Charles Perrault",
         "year": "",
         "text": false,
@@ -66,13 +70,15 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "animal"
         ]
     },
     {
-        "id": "",
+        "id": "en_cinderila1",
         "repo": "en_001",
-        "title": "",
+        "title": "Cinderilla: or, The little glass slipper",
         "author": "Charles Perrault",
         "year": "",
         "text": false,
@@ -80,13 +86,15 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "fantastic",
+            "adventure"
         ]
     },
     {
-        "id": "",
+        "id": "en_riquetuft1",
         "repo": "en_001",
-        "title": "",
+        "title": "Riquet with the tuft",
         "author": "Charles Perrault",
         "year": "",
         "text": false,
@@ -94,13 +102,15 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "fantastic",
+            "adventure"
         ]
     },
     {
-        "id": "",
+        "id": "en_lttlthumb1",
         "repo": "en_001",
-        "title": "",
+        "title": "Little Thumb",
         "author": "Charles Perrault",
         "year": "",
         "text": false,
@@ -108,13 +118,14 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
-        "id": "",
+        "id": "en_ridiculus1",
         "repo": "en_001",
-        "title": "",
+        "title": "The ridiculous wishes",
         "author": "Charles Perrault",
         "year": "",
         "text": false,
@@ -122,13 +133,14 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "fantastic"
         ]
     },
     {
-        "id": "",
+        "id": "en_donkeyskn1",
         "repo": "en_001",
-        "title": "",
+        "title": "Donkey-skin",
         "author": "Charles Perrault",
         "year": "",
         "text": false,
@@ -136,287 +148,8 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Charles Perrault",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
+            "tale",
+            "adventure"
         ]
     }
 ]

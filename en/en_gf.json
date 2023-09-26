@@ -1,22 +1,87 @@
 [
   {
-    "id": "",
+    "id": "en_swanhilde1",
     "repo": "en_001",
-    "title": "",
+    "title": "Swanhilde",
     "author": "Wilhelm Hauff",
     "year": "",
     "text": false,
     "music": false,
-    "chapters": false,
+    "chapters": true,
     "genres": [
       "child",
-      "tale"
+      "tale",
+            "adventure",
+            "fantastic"
         ]
   },
     {
-        "id": "",
+        "id": "en_shepherdb1",
         "repo": "en_001",
-        "title": "",
+        "title": "The Shepherd Boy and the King's Daughter",
+        "author": "Wilhelm Hauff",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_clphstork1",
+        "repo": "en_001",
+        "title": "The Caliph Stork",
+        "author": "Wilhelm Hauff",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_hntedship1",
+        "repo": "en_001",
+        "title": "The Haunted Ship",
+        "author": "Wilhelm Hauff",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_svredhand1",
+        "repo": "en_001",
+        "title": "The Story of the Severed Hand",
+        "author": "Wilhelm Hauff",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_fatmesrsc1",
+        "repo": "en_001",
+        "title": "Fatme's Rescue",
         "author": "Wilhelm Hauff",
         "year": "",
         "text": false,
@@ -28,9 +93,25 @@
         ]
     },
     {
-        "id": "",
+        "id": "en_flsprince1",
         "repo": "en_001",
-        "title": "",
+        "title": "The Story of the False Prince",
+        "author": "Wilhelm Hauff",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_strangers1",
+        "repo": "en_001",
+        "title": "The Stranger's Story",
         "author": "Wilhelm Hauff",
         "year": "",
         "text": false,
@@ -42,9 +123,9 @@
         ]
     },
     {
-        "id": "",
+        "id": "en_treasures1",
         "repo": "en_001",
-        "title": "",
+        "title": "The Boy and the Treasures of the Old Witch",
         "author": "Wilhelm Hauff",
         "year": "",
         "text": false,
@@ -52,13 +133,15 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
-        "id": "",
+        "id": "en_princesgm1",
         "repo": "en_001",
-        "title": "",
+        "title": "The Princess on the Glass Mountain",
         "author": "Wilhelm Hauff",
         "year": "",
         "text": false,
@@ -66,13 +149,15 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
-        "id": "",
+        "id": "en_2brothers1",
         "repo": "en_001",
-        "title": "",
+        "title": "The Story of Two Brothers",
         "author": "Wilhelm Hauff",
         "year": "",
         "text": false,
@@ -80,203 +165,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "en_001",
-        "title": "",
-        "author": "Wilhelm Hauff",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     }
 ]
