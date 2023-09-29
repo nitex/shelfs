@@ -1,0 +1,54 @@
+[
+  {
+    "id": "es_01",
+    "title": "Cuentos, Adivinanzas y Refranes Populares"
+  },
+    {
+        "id": "es_ay",
+        "title": "Cuentos de Madame d' Aulnoy"
+    },
+    {
+        "id": "es_sm",
+        "title": "Cuentos Nuevos de Christoph von Schmid"
+    },
+    {
+        "id": "es_fn",
+        "title": "Cuentos Fantásticos"
+    },
+    {
+        "id": "es_an",
+        "title": "Cuentos Escogidos de Andersen"
+    },
+    {
+        "id": "es_xm",
+        "title": "Cuentos de navidad y reyes"
+    },
+    {
+        "id": "es_rr",
+        "title": "Cuentos de terror latinoamericanos"
+    },
+    {
+        "id": "es_gr",
+        "title": "Cuentos de Hadas de Jacob y Wilhelm Grimm"
+    },
+    {
+        "id": "es_pe",
+        "title": "Cuentos de Hadas de Charles Perrault"
+    },
+    {
+        "id": "es_ru",
+        "title": "Cuentos Rusos"
+    },
+    {
+        "id": "es_tl",
+        "title": "Cuentos de Leon Tolstoy"
+    },
+    {
+        "id": "or_01",
+        "title": "Escuchar en idioma original"
+    },
+    {
+        "id": "es_exclusives",
+        "title": "Exclusivos"
+    }
+]

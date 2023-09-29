@@ -1,0 +1,272 @@
+[
+  {
+    "id": "en_emperorsc1",
+    "repo": "en_001",
+    "title": "The emperor's new clothes",
+    "author": "Hans Christian Andersen",
+    "year": "1837 ",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "tale",
+            "child",
+            "adventure"
+        ]
+  },
+    {
+        "id": "en_swineherd1",
+        "repo": "en_001",
+        "title": "The swineherd",
+        "author": "Hans Christian Andersen",
+        "year": "1841",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_rprincess1",
+        "repo": "en_001",
+        "title": "The real princess",
+        "author": "Hans Christian Andersen",
+        "year": "1835",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_shfortune1",
+        "repo": "en_001",
+        "title": "The shoes of fortune",
+        "author": "Hans Christian Andersen",
+        "year": "1838",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_thfirtree1",
+        "repo": "en_001",
+        "title": "The fir tree",
+        "author": "Hans Christian Andersen",
+        "year": "1844 ",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_tleapfrog1",
+        "repo": "en_001",
+        "title": "The leap-frog",
+        "author": "Hans Christian Andersen",
+        "year": "1837",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_elderbush1",
+        "repo": "en_001",
+        "title": "The elderbush",
+        "author": "Hans Christian Andersen",
+        "year": "1844",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_tbellbell1",
+        "repo": "en_001",
+        "title": "The bell",
+        "author": "Hans Christian Andersen",
+        "year": "1845",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child"
+        ]
+    },
+    {
+        "id": "en_toldhouse1",
+        "repo": "en_001",
+        "title": "The old house",
+        "author": "Hans Christian Andersen",
+        "year": "1847",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_hpyfamily1",
+        "repo": "en_001",
+        "title": "The happy family",
+        "author": "Hans Christian Andersen",
+        "year": "1848",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "relation"
+        ]
+    },
+    {
+        "id": "en_theshadow1",
+        "repo": "en_001",
+        "title": "The shadow",
+        "author": "Hans Christian Andersen",
+        "year": "1847",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_strmother1",
+        "repo": "en_001",
+        "title": "The story of a mother",
+        "author": "Hans Christian Andersen",
+        "year": "1848",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "relation"
+        ]
+    },
+    {
+        "id": "en_matchgirl1",
+        "repo": "en_001",
+        "title": "The little match girl",
+        "author": "Hans Christian Andersen",
+        "year": "1846",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "relation"
+        ]
+    },
+    {
+        "id": "en_littletuk1",
+        "repo": "en_001",
+        "title": "The dream of little Tuk",
+        "author": "Hans Christian Andersen",
+        "year": "1847",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "relation"
+        ]
+    },
+    {
+        "id": "en_naughtboy1",
+        "repo": "en_001",
+        "title": "The naughty boy",
+        "author": "Hans Christian Andersen",
+        "year": "1835",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "relation"
+        ]
+    },
+    {
+        "id": "en_tredshoes1",
+        "repo": "en_001",
+        "title": "The red shoes",
+        "author": "Hans Christian Andersen",
+        "year": "1845",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_flscollar1",
+        "repo": "en_001",
+        "title": "The false collar",
+        "author": "Hans Christian Andersen",
+        "year": "1844",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_snowqueen1",
+        "repo": "en_001",
+        "title": "The snow queen",
+        "author": "Hans Christian Andersen",
+        "year": "1845",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic",
+            "adventure"
+        ]
+    }
+]

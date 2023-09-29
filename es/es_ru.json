@@ -1,0 +1,168 @@
+[
+  {
+    "id": "ru_bludechko1",
+    "repo": "ru_001",
+    "title": "Сказка о серебрянном блюдечке и наливном яблочке",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "relation",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_mrmorevna1",
+    "repo": "ru_001",
+    "title": "Марья Моревна",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_morskoyvp1",
+    "repo": "ru_001",
+    "title": "Морской царь и Василиса Премудрая",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "relation",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_noplyaski1",
+    "repo": "ru_001",
+    "title": "Ночные пляски",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_veshiyson1",
+    "repo": "ru_001",
+    "title": "Вещий сон",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_zorkavepo1",
+    "repo": "ru_001",
+    "title": "Зорька, Вечёрка и Полуночка",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "relation",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_semiletka1",
+    "repo": "ru_001",
+    "title": "Семилетка",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "folklore",
+      "tale",
+      "folklore",
+      "relation"
+    ]
+  },
+  {
+    "id": "ru_ntsarevna1",
+    "repo": "ru_001",
+    "title": "Наказанная царевна",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "relation",
+      "adventure"
+    ]
+  },
+  {
+    "id": "ru_pdudochka1",
+    "repo": "ru_001",
+    "title": "Пастушья дудочка ",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal"
+    ]
+  },
+  {
+    "id": "ru_ivanchudo1",
+    "repo": "ru_001",
+    "title": "Иван-крестьянский сын и Чудо-Юдо",
+    "author": "Русская народная сказка",
+    "year": "",
+    "text": true,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+      "folklore",
+      "animal",
+      "adventure"
+    ]
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "en_littlered1",
+    "repo": "en_001",
+    "title": "Little Red Riding-hood",
+    "author": "Charles Perrault",
+    "year": "1697",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+            "adventure"
+        ]
+  },
+    {
+        "id": "en_thefairyt1",
+        "repo": "en_001",
+        "title": "The fairy",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_bluebeard1",
+        "repo": "en_001",
+        "title": "Blue Beard",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_sleepingb1",
+        "repo": "en_001",
+        "title": "The sleeping beauty in the wood",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_pussboots1",
+        "repo": "en_001",
+        "title": "The master cat: or, Puss-in-Boots",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_cinderela1",
+        "repo": "en_001",
+        "title": "Cinderella: or, The little glass slipper",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_riquetuft1",
+        "repo": "en_001",
+        "title": "Riquet with the tuft",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_lttlthumb1",
+        "repo": "en_001",
+        "title": "Little Thumb",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_ridiculus1",
+        "repo": "en_001",
+        "title": "The ridiculous wishes",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_donkeyskn1",
+        "repo": "en_001",
+        "title": "Donkey-skin",
+        "author": "Charles Perrault",
+        "year": "1694",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    }
+]

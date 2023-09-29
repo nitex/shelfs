@@ -1,0 +1,114 @@
+[
+  {
+    "id": "en_princessf1",
+    "repo": "en_001",
+    "title": "The frog princess",
+    "author": "Polish fairy tale",
+    "year": "",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+  },
+    {
+        "id": "en_princessm1",
+        "repo": "en_001",
+        "title": "Princess Miranda and Prince Hero",
+        "author": "Polish fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_theeagles1",
+        "repo": "en_001",
+        "title": "The eagles",
+        "author": "Polish fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_whirlwind1",
+        "repo": "en_001",
+        "title": "The whirlwind",
+        "author": "Polish fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_gferryman1",
+        "repo": "en_001",
+        "title": "The good ferryman and the water nymphs",
+        "author": "Polish fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_princessb1",
+        "repo": "en_001",
+        "title": "The princess of the Brazen Mountain",
+        "author": "Polish fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_foresthut1",
+        "repo": "en_001",
+        "title": "The bear in the forest hut",
+        "author": "Polish fairy tale",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "animal"
+        ]
+    }
+]

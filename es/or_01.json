@@ -1,0 +1,263 @@
+[
+  {
+        "id": "en_hanselgrt1",
+        "repo": "en_001",
+        "title": "Hansel and Grethel",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_tmrkorbes1",
+        "repo": "en_001",
+        "title": "Mr. Korbes",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_wolf6kids1",
+        "repo": "en_001",
+        "title": "The wolf and the six little kids",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_taleselvs1",
+        "repo": "en_001",
+        "title": "Tales about elves",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_littlered1",
+        "repo": "en_001",
+        "title": "Little Red Riding-hood",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_thefairyt1",
+        "repo": "en_001",
+        "title": "The fairy",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_bluebeard1",
+        "repo": "en_001",
+        "title": "Blue Beard",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_sleepingb1",
+        "repo": "en_001",
+        "title": "The sleeping beauty in the wood",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_swineherd1",
+        "repo": "en_001",
+        "title": "The swineherd",
+        "author": "Hans Christian Andersen",
+        "year": "1841",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_rprincess1",
+        "repo": "en_001",
+        "title": "The real princess",
+        "author": "Hans Christian Andersen",
+        "year": "1835",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_emperorsc1",
+        "repo": "en_001",
+        "title": "The emperor's new clothes",
+        "author": "Hans Christian Andersen",
+        "year": "1837 ",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_shfortune1",
+        "repo": "en_001",
+        "title": "The shoes of fortune",
+        "author": "Hans Christian Andersen",
+        "year": "1838",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_littlepig1",
+        "repo": "en_001",
+        "title": "The Story of the Three Little Pigs",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_masterhis1",
+        "repo": "en_001",
+        "title": "The Master and His Pupil",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "relation"
+        ]
+    },
+    {
+        "id": "en_tittymous1",
+        "repo": "en_001",
+        "title": "Titty Mouse and Tatty Mouse",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_jsnuffbox1",
+        "repo": "en_001",
+        "title": "Jack and His Golden Snuff-Box",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_threebear1",
+        "repo": "en_001",
+        "title": "The Story of the Three Bears",
+        "author": "English fairy tale",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore",
+            "animal"
+        ]
+    }
+]

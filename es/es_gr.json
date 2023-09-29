@@ -1,0 +1,443 @@
+[
+  {
+    "id": "en_hanselgrt1",
+    "repo": "en_001",
+    "title": "Hansel and Grethel",
+    "author": "The Brothers Grimm",
+    "year": "1812",
+    "text": false,
+    "music": false,
+    "chapters": false,
+    "genres": [
+      "child",
+      "tale",
+            "fantastic",
+            "adventure"
+        ]
+  },
+    {
+        "id": "en_tmrkorbes1",
+        "repo": "en_001",
+        "title": "Mr. Korbes",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_wolf6kids1",
+        "repo": "en_001",
+        "title": "The wolf and the six little kids",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_taleselvs1",
+        "repo": "en_001",
+        "title": "Tales about elves",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_strawcoal1",
+        "repo": "en_001",
+        "title": "The straw, the coal, and the bean",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_snowwhite1",
+        "repo": "en_001",
+        "title": "Snow White and Red Rose",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_rougbeard1",
+        "repo": "en_001",
+        "title": "King Roughbeard",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_frogprinc1",
+        "repo": "en_001",
+        "title": "The frog prince",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_goosegirl1",
+        "repo": "en_001",
+        "title": "The goose girl",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_rapunzell1",
+        "repo": "en_001",
+        "title": "Rapunzel",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "en_musbremen1",
+        "repo": "en_001",
+        "title": "The town musicians of Bremen",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_3spinners1",
+        "repo": "en_001",
+        "title": "The three spinners",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "relation",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_the7crows1",
+        "repo": "en_001",
+        "title": "The seven crows",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_lsnowdrop1",
+        "repo": "en_001",
+        "title": "Little Snowdrop",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_fisherman1",
+        "repo": "en_001",
+        "title": "The fisherman and his wife",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_sleepingb2",
+        "repo": "en_001",
+        "title": "The sleeping beauty",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_catmmouse1",
+        "repo": "en_001",
+        "title": "The cat who married a mouse",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_cleverhns1",
+        "repo": "en_001",
+        "title": "Clever Hans",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_weddingfx1",
+        "repo": "en_001",
+        "title": "The wedding of Mrs. Fox",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_cinderela2",
+        "repo": "en_001",
+        "title": "Cinderella",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "en_setrogues1",
+        "repo": "en_001",
+        "title": "A set of rogues",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_littlered2",
+        "repo": "en_001",
+        "title": "Little Red Cap",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "en_rumpelstl1",
+        "repo": "en_001",
+        "title": "Rumpelstiltskin",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_12brother1",
+        "repo": "en_001",
+        "title": "The twelve brothers",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "relation"
+        ]
+    },
+    {
+        "id": "en_hansnluck1",
+        "repo": "en_001",
+        "title": "Hans in luck",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "en_mbsausage1",
+        "repo": "en_001",
+        "title": "The mouse, the bird, and the sausage",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_foxandcat1",
+        "repo": "en_001",
+        "title": "The fox and the cat",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "en_oldgrndsn1",
+        "repo": "en_001",
+        "title": "The old man and his grandson",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "relation"
+        ]
+    },
+    {
+        "id": "en_oldsultan1",
+        "repo": "en_001",
+        "title": "Old Sultan",
+        "author": "The Brothers Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    }
+]
