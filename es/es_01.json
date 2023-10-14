@@ -1,9 +1,9 @@
 [
   {
-    "id": "en_tomtittot1",
-    "repo": "en_001",
-    "title": "Tom Tit Tot",
-    "author": "English fairy tale",
+    "id": "es_hormigita1",
+    "repo": "es_001",
+    "title": "La hormiguita",
+    "author": "Cuento de hadas español",
     "year": "",
     "text": true,
     "music": false,
@@ -11,31 +11,14 @@
     "genres": [
       "tale",
       "child",
-            "folklore",
-            "adventure"
+            "folklore"
         ]
   },
     {
-        "id": "en_t3sillies1",
-        "repo": "en_001",
-        "title": "The Three Sillies",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_trosetree1",
-        "repo": "en_001",
-        "title": "The Rose-Tree",
-        "author": "English fairy tale",
+        "id": "es_loboboboy1",
+        "repo": "es_001",
+        "title": "El lobo bobo y la zorra astuta",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -47,138 +30,10 @@
         ]
     },
     {
-        "id": "en_owomanpig1",
-        "repo": "en_001",
-        "title": "The Old Woman and Her Pig",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_jackwentf1",
-        "repo": "en_001",
-        "title": "How Jack Went to Seek his Fortune",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_mrvinegar1",
-        "repo": "en_001",
-        "title": "Mr. Vinegar",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_nixnought1",
-        "repo": "en_001",
-        "title": "Nix Nought Nothing",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "fantastic"
-        ]
-    },
-    {
-        "id": "en_hannaford1",
-        "repo": "en_001",
-        "title": "Jack Hannaford",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_binnorrie1",
-        "repo": "en_001",
-        "title": "Binnorie",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "fantastic"
-        ]
-    },
-    {
-        "id": "en_moumouser1",
-        "repo": "en_001",
-        "title": "Mouse and Mouser",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_caprushes1",
-        "repo": "en_001",
-        "title": "Cap O' Rushes",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_teenytiny1",
-        "repo": "en_001",
-        "title": "Teeny-Tiny",
-        "author": "English fairy tale",
+        "id": "es_cabaleros1",
+        "repo": "es_001",
+        "title": "Los caballeros del pez",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -190,186 +45,10 @@
         ]
     },
     {
-        "id": "en_beanstalk1",
-        "repo": "en_001",
-        "title": "Jack and the Beanstalk",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_littlepig1",
-        "repo": "en_001",
-        "title": "The Story of the Three Little Pigs",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_masterhis1",
-        "repo": "en_001",
-        "title": "The Master and His Pupil",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_tittymous1",
-        "repo": "en_001",
-        "title": "Titty Mouse and Tatty Mouse",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_jsnuffbox1",
-        "repo": "en_001",
-        "title": "Jack and His Golden Snuff-Box",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_threebear1",
-        "repo": "en_001",
-        "title": "The Story of the Three Bears",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_jackgiant1",
-        "repo": "en_001",
-        "title": "Jack the Giant Killer",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_hennypenn1",
-        "repo": "en_001",
-        "title": "Henny-Penny",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_chrowland1",
-        "repo": "en_001",
-        "title": "Childe Rowland",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_mowhuppie1",
-        "repo": "en_001",
-        "title": "Molly Whuppie",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_tredettin1",
-        "repo": "en_001",
-        "title": "The Red Ettin",
-        "author": "English fairy tale",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_goldenarm1",
-        "repo": "en_001",
-        "title": "The Golden Arm",
-        "author": "English fairy tale",
+        "id": "es_delostres1",
+        "repo": "es_001",
+        "title": "La niña de los tres maridos",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -381,10 +60,10 @@
         ]
     },
     {
-        "id": "en_htomthumb1",
-        "repo": "en_001",
-        "title": "The History of Tom Thumb",
-        "author": "English fairy tale",
+        "id": "es_bellaflor1",
+        "repo": "es_001",
+        "title": "Bella Flor",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -392,15 +71,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
+            "folklore"
         ]
     },
     {
-        "id": "en_misterfox1",
-        "repo": "en_001",
-        "title": "Mr. Fox",
-        "author": "English fairy tale",
+        "id": "es_lirioazul1",
+        "repo": "es_001",
+        "title": "El lirio azul",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -408,15 +86,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
+            "folklore"
         ]
     },
     {
-        "id": "en_tlazyjack1",
-        "repo": "en_001",
-        "title": "Lazy Jack",
-        "author": "English fairy tale",
+        "id": "es_delaverda1",
+        "repo": "es_001",
+        "title": "El pájaro de la verdad ",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -424,15 +101,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
+            "folklore"
         ]
     },
     {
-        "id": "en_johnycake1",
-        "repo": "en_001",
-        "title": "Johnny-Cake",
-        "author": "English fairy tale",
+        "id": "es_losdeseos1",
+        "repo": "es_001",
+        "title": "Los deseos",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -440,15 +116,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
+            "folklore"
         ]
     },
     {
-        "id": "en_earlmarsd1",
-        "repo": "en_001",
-        "title": "Earl Mar's Daughter",
-        "author": "English fairy tale",
+        "id": "es_pajarillo1",
+        "repo": "es_001",
+        "title": "El pícaro pajarillo",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -456,15 +131,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
+            "folklore"
         ]
     },
     {
-        "id": "en_tmrmiacca1",
-        "repo": "en_001",
-        "title": "Mr. Miacca",
-        "author": "English fairy tale",
+        "id": "es_ecarlanco1",
+        "repo": "es_001",
+        "title": "El Carlanco",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -472,15 +146,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
+            "folklore"
         ]
     },
     {
-        "id": "en_whittingt1",
-        "repo": "en_001",
-        "title": "Whittington and His Cat",
-        "author": "English fairy tale",
+        "id": "es_dcarlanco1",
+        "repo": "es_001",
+        "title": "Otra versión del Carlanco",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -488,15 +161,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
+            "folklore"
         ]
     },
     {
-        "id": "en_strangevs1",
-        "repo": "en_001",
-        "title": "The Strange Visitor",
-        "author": "English fairy tale",
+        "id": "es_benibaire1",
+        "repo": "es_001",
+        "title": "Benibaire",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -504,15 +176,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
+            "folklore"
         ]
     },
     {
-        "id": "en_spindlest1",
-        "repo": "en_001",
-        "title": "The Laidly Worm of Spindleston Heugh",
-        "author": "English fairy tale",
+        "id": "es_ylavejeta1",
+        "repo": "es_001",
+        "title": "La zorra y la vejeta",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -520,15 +191,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "fantastic"
+            "folklore"
         ]
     },
     {
-        "id": "en_catnmouse1",
-        "repo": "en_001",
-        "title": "The Cat and the Mouse",
-        "author": "English fairy tale",
+        "id": "es_gallopato1",
+        "repo": "es_001",
+        "title": "El gallo y el pato",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -536,15 +206,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "animal"
+            "folklore"
         ]
     },
     {
-        "id": "en_fishnring1",
-        "repo": "en_001",
-        "title": "The Fish and the Ring",
-        "author": "English fairy tale",
+        "id": "es_clajoroba1",
+        "repo": "es_001",
+        "title": "La joroba",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -552,15 +221,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
+            "folklore"
         ]
     },
     {
-        "id": "en_magpienst1",
-        "repo": "en_001",
-        "title": "The Magpie's Nest",
-        "author": "English fairy tale",
+        "id": "es_galeguito1",
+        "repo": "es_001",
+        "title": "El galleguito",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -568,15 +236,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "animal"
+            "folklore"
         ]
     },
     {
-        "id": "en_crackernt1",
-        "repo": "en_001",
-        "title": "Kate Crackernuts",
-        "author": "English fairy tale",
+        "id": "es_jcigarron1",
+        "repo": "es_001",
+        "title": "Juan Cigarrón",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -584,15 +251,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "fantastic"
+            "folklore"
         ]
     },
     {
-        "id": "en_tcauldlad1",
-        "repo": "en_001",
-        "title": "The Cauld Lad of Hilton",
-        "author": "English fairy tale",
+        "id": "es_encantaba1",
+        "repo": "es_001",
+        "title": "El zurrón que cantaba ",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -600,15 +266,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "fantastic"
+            "folklore"
         ]
     },
     {
-        "id": "en_asstables1",
-        "repo": "en_001",
-        "title": "The Ass, The Table and the Stick",
-        "author": "English fairy tale",
+        "id": "es_picopicoa1",
+        "repo": "es_001",
+        "title": "Pico, pico, a ver si me pongo rico",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -616,15 +281,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "fantastic"
+            "folklore"
         ]
     },
     {
-        "id": "en_fointment1",
-        "repo": "en_001",
-        "title": "Fairy Ointment",
-        "author": "English fairy tale",
+        "id": "es_cembustes1",
+        "repo": "es_001",
+        "title": "Cuento de embustes",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -632,15 +296,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
+            "folklore"
         ]
     },
     {
-        "id": "en_worldsend1",
-        "repo": "en_001",
-        "title": "The Well of the World's End",
-        "author": "English fairy tale",
+        "id": "es_duendecil1",
+        "repo": "es_001",
+        "title": "El duendecillo fraile",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -648,15 +311,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "fantastic"
+            "folklore"
         ]
     },
     {
-        "id": "en_masterall1",
-        "repo": "en_001",
-        "title": "Master of all Masters",
-        "author": "English fairy tale",
+        "id": "es_lagallina1",
+        "repo": "es_001",
+        "title": "La gallina duende",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -664,15 +326,14 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "fantastic"
+            "folklore"
         ]
     },
     {
-        "id": "en_headswell1",
-        "repo": "en_001",
-        "title": "The Three Heads of the Well",
-        "author": "English fairy tale",
+        "id": "es_elpanpanc1",
+        "repo": "es_001",
+        "title": "El pan",
+        "author": "Cuento de hadas español",
         "year": "",
         "text": true,
         "music": false,
@@ -680,25 +341,217 @@
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "fantastic"
+            "folklore"
         ]
     },
     {
-        "id": "en_alicewond1",
-        "repo": "en_001",
-        "title": "Alice's Adventures in Wonderland",
-        "author": "Lewis Carroll",
-        "year": "1865",
-        "text": false,
-        "music": true,
-        "chapters": true,
+        "id": "es_dioquiere1",
+        "repo": "es_001",
+        "title": "Si Dios quiere",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
         "genres": [
             "tale",
             "child",
-            "animal",
-            "fantastic",
-            "adventure"
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_unpromesa1",
+        "repo": "es_001",
+        "title": "Una promesa",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_tentacion1",
+        "repo": "es_001",
+        "title": "La tentación",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_caminitos1",
+        "repo": "es_001",
+        "title": "Los dos caminitos",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_cuenbruja1",
+        "repo": "es_001",
+        "title": "Cuento de bruja",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_diospidan1",
+        "repo": "es_001",
+        "title": "Cómo le gusta al Niño Dios que le pidan",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_costurera1",
+        "repo": "es_001",
+        "title": "La Virgen costurera",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_sanlorenz1",
+        "repo": "es_001",
+        "title": "San Lorenzo",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_sanpedroz1",
+        "repo": "es_001",
+        "title": "San Pedro",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_eholgazan1",
+        "repo": "es_001",
+        "title": "El holgazán",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_advertenc1",
+        "repo": "es_001",
+        "title": "Desprecio de las advertencias",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_golondrin1",
+        "repo": "es_001",
+        "title": "Creación de la golondrina",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_senoraqui1",
+        "repo": "es_001",
+        "title": "¡Señor, aquí está Juan!",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
+        ]
+    },
+    {
+        "id": "es_adanadanc1",
+        "repo": "es_001",
+        "title": "Adán",
+        "author": "Cuento de hadas español",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "folklore"
         ]
     }
 ]
