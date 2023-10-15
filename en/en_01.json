@@ -690,8 +690,8 @@
         "title": "Alice's Adventures in Wonderland",
         "author": "Lewis Carroll",
         "year": "1865",
-        "text": false,
-        "music": true,
+        "text": true,
+        "music": false,
         "chapters": true,
         "genres": [
             "tale",

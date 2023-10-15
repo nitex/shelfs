@@ -1,113 +1,121 @@
 [
   {
-    "id": "en_princessf1",
-    "repo": "en_001",
-    "title": "The frog princess",
-    "author": "Polish fairy tale",
-    "year": "",
+    "id": "es_cabelloso1",
+    "repo": "es_001",
+    "title": "La bella de los cabellos de oro",
+    "author": "Madame d' Aulnoy",
+    "year": "1851",
     "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "tale",
             "child",
-            "folklore",
-            "fantastic"
+            "adventure"
         ]
   },
     {
-        "id": "en_princessm1",
-        "repo": "en_001",
-        "title": "Princess Miranda and Prince Hero",
-        "author": "Polish fairy tale",
-        "year": "",
+        "id": "es_ramodeoro1",
+        "repo": "es_001",
+        "title": "El ramo de oro",
+        "author": "Madame d' Aulnoy",
+        "year": "1851",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
             "adventure"
         ]
     },
     {
-        "id": "en_theeagles1",
-        "repo": "en_001",
-        "title": "The eagles",
-        "author": "Polish fairy tale",
-        "year": "",
+        "id": "es_ratoncilo1",
+        "repo": "es_001",
+        "title": "El buen ratoncillo",
+        "author": "Madame d' Aulnoy",
+        "year": "1851",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
             "animal"
         ]
     },
     {
-        "id": "en_whirlwind1",
-        "repo": "en_001",
-        "title": "The whirlwind",
-        "author": "Polish fairy tale",
-        "year": "",
+        "id": "es_elcarnero1",
+        "repo": "es_001",
+        "title": "El carnero",
+        "author": "Madame d' Aulnoy",
+        "year": "1851",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
+            "animal"
+        ]
+    },
+    {
+        "id": "es_cenicient1",
+        "repo": "es_001",
+        "title": "Fineta la Cenicienta",
+        "author": "Madame d' Aulnoy",
+        "year": "1851",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
             "adventure"
         ]
     },
     {
-        "id": "en_gferryman1",
-        "repo": "en_001",
-        "title": "The good ferryman and the water nymphs",
-        "author": "Polish fairy tale",
-        "year": "",
+        "id": "es_prsrosita1",
+        "repo": "es_001",
+        "title": "La princesa Rosita",
+        "author": "Madame d' Aulnoy",
+        "year": "1851",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "fantastic"
+            "adventure"
         ]
     },
     {
-        "id": "en_princessb1",
-        "repo": "en_001",
-        "title": "The princess of the Brazen Mountain",
-        "author": "Polish fairy tale",
-        "year": "",
+        "id": "es_pajaroazu1",
+        "repo": "es_001",
+        "title": "El pájaro azul",
+        "author": "Madame d' Aulnoy",
+        "year": "1851",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "fantastic"
+            "animal"
         ]
     },
     {
-        "id": "en_foresthut1",
-        "repo": "en_001",
-        "title": "The bear in the forest hut",
-        "author": "Polish fairy tale",
-        "year": "",
+        "id": "es_gatablanc1",
+        "repo": "es_001",
+        "title": "La gata blanca",
+        "author": "Madame d' Aulnoy",
+        "year": "1851",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
             "animal"
         ]
     }
