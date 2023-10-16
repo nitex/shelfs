@@ -1,144 +1,137 @@
 [
   {
-    "id": "en_iagoostor1",
-    "repo": "en_001",
-    "title": "Iagoo, The Story-Teller",
-    "author": "American Indian fairy tale",
-    "year": "",
-    "text": false,
+    "id": "es_delbosque1",
+    "repo": "es_001",
+    "title": "La Capilla de Bosque",
+    "author": "Christoph von Schmid",
+    "year": "1867",
+    "text": true,
     "music": false,
     "chapters": false,
     "genres": [
       "tale",
             "child",
-            "folklore"
+            "adventure"
         ]
   },
     {
-        "id": "en_shingebis1",
-        "repo": "en_001",
-        "title": "Shin-ge-bis Fools The North Wind",
-        "author": "American Indian fairy tale",
-        "year": "",
-        "text": false,
+        "id": "es_laguindas1",
+        "repo": "es_001",
+        "title": "Las Guindas",
+        "author": "Christoph von Schmid",
+        "year": "1867",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
             "adventure"
         ]
     },
     {
-        "id": "en_littleboy1",
-        "repo": "en_001",
-        "title": "The Little Boy And Girl In The Clouds",
-        "author": "American Indian fairy tale",
-        "year": "",
-        "text": false,
+        "id": "es_miosotiso1",
+        "repo": "es_001",
+        "title": "La Miosotis, ó no me Olvides",
+        "author": "Christoph von Schmid",
+        "year": "1867",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_bellorita1",
+        "repo": "es_001",
+        "title": "La Bellorita",
+        "author": "Christoph von Schmid",
+        "year": "1867",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
             "adventure"
         ]
     },
     {
-        "id": "en_childstar1",
-        "repo": "en_001",
-        "title": "The Child Of The Evening Star",
-        "author": "American Indian fairy tale",
-        "year": "",
-        "text": false,
+        "id": "es_lalatorta1",
+        "repo": "es_001",
+        "title": "La Torta",
+        "author": "Christoph von Schmid",
+        "year": "1867",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_boysnared1",
-        "repo": "en_001",
-        "title": "The Boy Who Snared The Sun",
-        "author": "American Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_howsummer1",
-        "repo": "en_001",
-        "title": "How The Summer Came",
-        "author": "American Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_grashoper1",
-        "repo": "en_001",
-        "title": "Grasshopper",
-        "author": "American Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "animal",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_mishosham1",
-        "repo": "en_001",
-        "title": "Mish-o-sha, The Magician",
-        "author": "American Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
             "adventure"
         ]
     },
     {
-        "id": "en_fairybrid1",
-        "repo": "en_001",
-        "title": "The Fairy Bride",
-        "author": "American Indian fairy tale",
-        "year": "",
-        "text": false,
+        "id": "es_cangrejos1",
+        "repo": "es_001",
+        "title": "Los Cangrejos",
+        "author": "Christoph von Schmid",
+        "year": "1867",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "relation",
-            "folklore"
+            "animal"
+        ]
+    },
+    {
+        "id": "es_nidpajaro1",
+        "repo": "es_001",
+        "title": "El Nido del Pájaro",
+        "author": "Christoph von Schmid",
+        "year": "1867",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "animal"
+        ]
+    },
+    {
+        "id": "es_petirrojo1",
+        "repo": "es_001",
+        "title": "El Petirrojo",
+        "author": "Christoph von Schmid",
+        "year": "1867",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "animal"
+        ]
+    },
+    {
+        "id": "es_elantiguo1",
+        "repo": "es_001",
+        "title": "El Antiguo Castillo",
+        "author": "Christoph von Schmid",
+        "year": "1867",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "adventure"
         ]
     }
 ]
