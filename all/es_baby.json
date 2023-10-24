@@ -12,10 +12,6 @@
         "title": "Cuentos Nuevos de Christoph von Schmid"
     },
     {
-        "id": "es_fn",
-        "title": "Cuentos Fantásticos"
-    },
-    {
         "id": "es_an",
         "title": "Cuentos Escogidos de Andersen"
     },
@@ -42,6 +38,10 @@
     {
         "id": "es_tl",
         "title": "Cuentos de Leon Tolstoy"
+    },
+    {
+        "id": "es_fn",
+        "title": "Antología de Cuentos Fantásticos"
     },
     {
         "id": "or_01",

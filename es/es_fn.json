@@ -1,410 +1,520 @@
 [
   {
-    "id": "en_connlaand1",
-    "repo": "en_001",
-    "title": "Connla and the fairy maiden",
-    "author": "Celtic fairy tale",
-    "year": "",
+    "id": "es_quiensabe1",
+    "repo": "es_001",
+    "title": "¡Quien sabe!",
+    "author": "Guy de Maupassant",
+    "year": "1890",
     "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "tale",
-            "child",
-            "folklore",
             "fantastic"
         ]
   },
     {
-        "id": "en_guleeshft1",
-        "repo": "en_001",
-        "title": "Guleesh",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_etalisman1",
+        "repo": "es_001",
+        "title": "El talismán",
+        "author": "W. W. Jacobs",
+        "year": "1902",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_fboliauns1",
-        "repo": "en_001",
-        "title": "The field of boliauns",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_hornedwom1",
-        "repo": "en_001",
-        "title": "The horned women",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
             "fantastic"
         ]
     },
     {
-        "id": "en_yellowclw1",
-        "repo": "en_001",
-        "title": "Conall Yellowclaw",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_congelado1",
+        "repo": "es_001",
+        "title": "Los Congelados",
+        "author": "Amado Nervo",
+        "year": "1919",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_huddndudd1",
-        "repo": "en_001",
-        "title": "Hudden and Dudden and Donald O'Neary",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_shepherdm1",
-        "repo": "en_001",
-        "title": "The shepherd of Myddvai",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_sprightly1",
-        "repo": "en_001",
-        "title": "The sprightly tailor",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_ofdeirdre1",
-        "repo": "en_001",
-        "title": "The story of Deirdre",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_mmanachar1",
-        "repo": "en_001",
-        "title": "Munachar and Manachar",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_goldtrees1",
-        "repo": "en_001",
-        "title": "Gold-tree and silver-tree",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure",
             "fantastic"
         ]
     },
     {
-        "id": "en_kingtoole1",
-        "repo": "en_001",
-        "title": "King O'Toole and his goose",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_serpiente1",
+        "repo": "es_001",
+        "title": "El hombre y la serpiente",
+        "author": "Ambrose Bierce",
+        "year": "1890",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_thewooing1",
-        "repo": "en_001",
-        "title": "The wooing of Olwen",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_jcomrades1",
-        "repo": "en_001",
-        "title": "Jack and his comrades",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_sheegaire1",
-        "repo": "en_001",
-        "title": "The Shee an Gannon and the Gruagach Gaire",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_storytell1",
-        "repo": "en_001",
-        "title": "The story-teller at fault",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_seamaiden1",
-        "repo": "en_001",
-        "title": "The sea-maiden",
-        "author": "Celtic fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
             "fantastic"
         ]
     },
     {
-        "id": "en_knockmany1",
-        "repo": "en_001",
-        "title": "A legend of Knockmany",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_labrujade1",
+        "repo": "es_001",
+        "title": "La bruja de Itatí",
+        "author": "Eloy Fariña Nuñez",
+        "year": "1911",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore"
+            "fantastic"
         ]
     },
     {
-        "id": "en_trembling1",
-        "repo": "en_001",
-        "title": "Fair, brown, and trembling",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_corzablnc1",
+        "repo": "es_001",
+        "title": "La corza blanca",
+        "author": "Gustavo Adolfo Bécquer",
+        "year": "1863",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore",
-            "animal"
+            "fantastic"
         ]
     },
     {
-        "id": "en_jackmaste1",
-        "repo": "en_001",
-        "title": "Jack and his master",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_silenciob1",
+        "repo": "es_001",
+        "title": "El gran silencio blanco",
+        "author": "Jack London",
+        "year": "1899",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore",
-            "adventure"
+            "fantastic"
         ]
     },
     {
-        "id": "en_begellert1",
-        "repo": "en_001",
-        "title": "Beth Gellert",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_dbautista1",
+        "repo": "es_001",
+        "title": "Decapitación del bautista",
+        "author": "Gustave Flaubert",
+        "year": "1877",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore",
-            "animal"
+            "fantastic"
         ]
     },
     {
-        "id": "en_taleoivan1",
-        "repo": "en_001",
-        "title": "The tale of Ivan",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_ililconde1",
+        "repo": "es_001",
+        "title": "Il Conde",
+        "author": "Joseph Conrad",
+        "year": "1908",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore",
-            "adventure"
+            "fantastic"
         ]
     },
     {
-        "id": "en_andcoffey1",
-        "repo": "en_001",
-        "title": "Andrew Coffey",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_lescuerzo1",
+        "repo": "es_001",
+        "title": "El escuerzo",
+        "author": "Leopoldo Lugones",
+        "year": "1916",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore"
+            "fantastic"
         ]
     },
     {
-        "id": "en_battleofb1",
-        "repo": "en_001",
-        "title": "The battle of the birds",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_elelruido1",
+        "repo": "es_001",
+        "title": "El ruido",
+        "author": "Emilia Pardo Bazán",
+        "year": "1895",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore",
-            "animal"
+            "fantastic"
         ]
     },
     {
-        "id": "en_eggshells1",
-        "repo": "en_001",
-        "title": "Brewery of eggshells",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_hrsomnium1",
+        "repo": "es_001",
+        "title": "Horridus somnium",
+        "author": "José Julián del Casal",
+        "year": "1891",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore"
+            "fantastic"
         ]
     },
     {
-        "id": "en_lgoatskin1",
-        "repo": "en_001",
-        "title": "The lad with the goat-skin",
-        "author": "Celtic fairy tale",
-        "year": "",
+        "id": "es_cantordel1",
+        "repo": "es_001",
+        "title": "El cantor del más allá",
+        "author": "Manuel Machado",
+        "year": "1893",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "folklore",
-            "adventure"
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_echadorad1",
+        "repo": "es_001",
+        "title": "La echadora de cartas",
+        "author": "Joaquim Maria Machado de Assis",
+        "year": "1908",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_huitzilop1",
+        "repo": "es_001",
+        "title": "Huitzilopoxtli",
+        "author": "Rubén Darío",
+        "year": "1914",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_letaniast1",
+        "repo": "es_001",
+        "title": "Letanías de la tierra muerta",
+        "author": "Alfonsina Storni",
+        "year": "1920",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_sepultura1",
+        "repo": "es_001",
+        "title": "La sepultura prematura",
+        "author": "Edgar Allan Poe",
+        "year": "1844",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_elsuenode1",
+        "repo": "es_001",
+        "title": "El sueño de Magda",
+        "author": "Manuel Gutiérrez Nájera",
+        "year": "1883",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_eleonleon1",
+        "repo": "es_001",
+        "title": "El león",
+        "author": "Lafcadio Hearn",
+        "year": "1888",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_dragoneso1",
+        "repo": "es_001",
+        "title": "Los dragones sin ojos",
+        "author": "Mario Roso de Luna",
+        "year": "1893",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_saltamont1",
+        "repo": "es_001",
+        "title": "Shiva y el saltamontes",
+        "author": "Rudyard Kipling",
+        "year": "1894",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_purgatori1",
+        "repo": "es_001",
+        "title": "El purgatorio",
+        "author": "Alfonso Hernandez Cata",
+        "year": "1927",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_aquelarre1",
+        "repo": "es_001",
+        "title": "Una noche de aquelarre",
+        "author": "Nathaniel Hawthorne",
+        "year": "1835",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_sombrascu1",
+        "repo": "es_001",
+        "title": "Sombras",
+        "author": "Eduarda Mansilla",
+        "year": "1880",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_sombrasla1",
+        "repo": "es_001",
+        "title": "La sombra",
+        "author": "Hans Christian Andersen",
+        "year": "1847",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_lpatapalo1",
+        "repo": "es_001",
+        "title": "La pata de palo",
+        "author": "José de Espronceda",
+        "year": "1842",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_mulaybuey1",
+        "repo": "es_001",
+        "title": "La mula y el buey",
+        "author": "Benito Pérez Galdós",
+        "year": "1876",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_almohadon1",
+        "repo": "es_001",
+        "title": "El almohadón de pluma",
+        "author": "Horacio Quiroga",
+        "year": "1917",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_5sentidos1",
+        "repo": "es_001",
+        "title": "Los cinco sentidos",
+        "author": "E. Nesbit",
+        "year": "1909",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_rhormigas1",
+        "repo": "es_001",
+        "title": "El reino de las hormigas",
+        "author": "H. G. Wells",
+        "year": "1905",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_ojosjudas1",
+        "repo": "es_001",
+        "title": "Los ojos de Judas",
+        "author": "Abraham Valdelomar Pinto",
+        "year": "1910",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_nuevaleda1",
+        "repo": "es_001",
+        "title": "La nueva Leda",
+        "author": "Darío Herrera",
+        "year": "1910",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_cdesirena1",
+        "repo": "es_001",
+        "title": "El canto de la sirena",
+        "author": "Miguel Cané",
+        "year": "1872",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_acontecio1",
+        "repo": "es_001",
+        "title": "De lo que aconteció a un deán de Santiago con don Illan el mágico, que moraba en Toledo",
+        "author": "Juan Manuel, Prince of Villena",
+        "year": "1348",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_escuchasu1",
+        "repo": "es_001",
+        "title": "Quien escucha su mal oye",
+        "author": "Juana Gorriti",
+        "year": "1888",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_coppelius1",
+        "repo": "es_001",
+        "title": "Coppelius",
+        "author": "E. T. A. Hoffmann",
+        "year": "1816",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_elixirdel1",
+        "repo": "es_001",
+        "title": "El elixir de larga vida",
+        "author": "Honoré de Balzac",
+        "year": "1830",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "fantastic"
         ]
     }
 ]
