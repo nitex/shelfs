@@ -1,11 +1,11 @@
 [
   {
-    "id": "en_littlered1",
-    "repo": "en_001",
-    "title": "Little Red Riding-hood",
+    "id": "es_griselida1",
+    "repo": "es_001",
+    "title": "Grisélida",
     "author": "Charles Perrault",
     "year": "1697",
-    "text": false,
+    "text": true,
     "music": false,
     "chapters": false,
     "genres": [
@@ -15,12 +15,27 @@
         ]
   },
     {
-        "id": "en_thefairyt1",
-        "repo": "en_001",
-        "title": "The fairy",
+        "id": "es_pellejode1",
+        "repo": "es_001",
+        "title": "Pellejo de Asno",
         "author": "Charles Perrault",
         "year": "1697",
-        "text": false,
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "es_ridiculos1",
+        "repo": "es_001",
+        "title": "Los Deseos Ridículos",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
@@ -30,12 +45,12 @@
         ]
     },
     {
-        "id": "en_bluebeard1",
-        "repo": "en_001",
-        "title": "Blue Beard",
+        "id": "es_durmiente1",
+        "repo": "es_001",
+        "title": "La Hermosa Durmiente",
         "author": "Charles Perrault",
         "year": "1697",
-        "text": false,
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
@@ -45,12 +60,12 @@
         ]
     },
     {
-        "id": "en_sleepingb1",
-        "repo": "en_001",
-        "title": "The sleeping beauty in the wood",
+        "id": "es_caperucit1",
+        "repo": "es_001",
+        "title": "Caperucita Roja",
         "author": "Charles Perrault",
         "year": "1697",
-        "text": false,
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
@@ -60,12 +75,27 @@
         ]
     },
     {
-        "id": "en_pussboots1",
-        "repo": "en_001",
-        "title": "The master cat: or, Puss-in-Boots",
+        "id": "es_barbaazul1",
+        "repo": "es_001",
+        "title": "Barba Azul",
         "author": "Charles Perrault",
         "year": "1697",
-        "text": false,
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "es_gatobotas1",
+        "repo": "es_001",
+        "title": "Maese Zapiron (El Gato con Botas)",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
@@ -76,59 +106,12 @@
         ]
     },
     {
-        "id": "en_cinderela1",
-        "repo": "en_001",
-        "title": "Cinderella: or, The little glass slipper",
+        "id": "es_lashadasc1",
+        "repo": "es_001",
+        "title": "Las Hadas",
         "author": "Charles Perrault",
         "year": "1697",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "fantastic",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_riquetuft1",
-        "repo": "en_001",
-        "title": "Riquet with the tuft",
-        "author": "Charles Perrault",
-        "year": "1697",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "fantastic",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_lttlthumb1",
-        "repo": "en_001",
-        "title": "Little Thumb",
-        "author": "Charles Perrault",
-        "year": "1697",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_ridiculus1",
-        "repo": "en_001",
-        "title": "The ridiculous wishes",
-        "author": "Charles Perrault",
-        "year": "1697",
-        "text": false,
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
@@ -138,12 +121,44 @@
         ]
     },
     {
-        "id": "en_donkeyskn1",
-        "repo": "en_001",
-        "title": "Donkey-skin",
+        "id": "es_cenicient1",
+        "repo": "es_001",
+        "title": "La Cenicienta (la chinela de cristal)",
         "author": "Charles Perrault",
-        "year": "1694",
-        "text": false,
+        "year": "1697",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic",
+            "adventure"
+        ]
+    },
+    {
+        "id": "es_roquetedc1",
+        "repo": "es_001",
+        "title": "Roquete del Copete",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "fantastic",
+            "adventure"
+        ]
+    },
+    {
+        "id": "es_meniquinc1",
+        "repo": "es_001",
+        "title": "Meñiquín",
+        "author": "Charles Perrault",
+        "year": "1697",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
