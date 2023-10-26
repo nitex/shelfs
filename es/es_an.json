@@ -1,115 +1,164 @@
 [
   {
-    "id": "en_emperorsc1",
-    "repo": "en_001",
-    "title": "The emperor's new clothes",
+    "id": "es_buenhumor1",
+    "repo": "es_001",
+    "title": "Buen Humor",
     "author": "Hans Christian Andersen",
-    "year": "1837 ",
-    "text": false,
+    "year": "1852",
+    "text": true,
     "music": false,
     "chapters": false,
     "genres": [
       "tale",
-            "child",
-            "adventure"
+            "child"
         ]
   },
     {
-        "id": "en_swineherd1",
-        "repo": "en_001",
-        "title": "The swineherd",
+        "id": "es_sparanada1",
+        "repo": "es_001",
+        "title": "No servía para nada",
         "author": "Hans Christian Andersen",
-        "year": "1841",
-        "text": false,
+        "year": "1852",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "adventure"
+            "child"
         ]
     },
     {
-        "id": "en_rprincess1",
-        "repo": "en_001",
-        "title": "The real princess",
+        "id": "es_laultimap1",
+        "repo": "es_001",
+        "title": "La última perla",
         "author": "Hans Christian Andersen",
-        "year": "1835",
-        "text": false,
+        "year": "1853",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "adventure"
+            "child"
         ]
     },
     {
-        "id": "en_shfortune1",
-        "repo": "en_001",
-        "title": "The shoes of fortune",
+        "id": "es_lapsiquis1",
+        "repo": "es_001",
+        "title": "La Psiquis",
         "author": "Hans Christian Andersen",
-        "year": "1838",
-        "text": false,
+        "year": "1861",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "adventure"
+            "child"
         ]
     },
     {
-        "id": "en_thfirtree1",
-        "repo": "en_001",
-        "title": "The fir tree",
+        "id": "es_gsolteron1",
+        "repo": "es_001",
+        "title": "El gorro de dormir de un solterón",
         "author": "Hans Christian Andersen",
-        "year": "1844 ",
-        "text": false,
+        "year": "1858",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "adventure"
+            "child"
         ]
     },
     {
-        "id": "en_tleapfrog1",
-        "repo": "en_001",
-        "title": "The leap-frog",
+        "id": "es_elcometaa1",
+        "repo": "es_001",
+        "title": "El cometa",
         "author": "Hans Christian Andersen",
-        "year": "1837",
-        "text": false,
+        "year": "1869",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "animal"
+            "child"
         ]
     },
     {
-        "id": "en_elderbush1",
-        "repo": "en_001",
-        "title": "The elderbush",
+        "id": "es_ysushijas1",
+        "repo": "es_001",
+        "title": "Lo que el viento cuenta de Valdemar Daae y sus hijas",
         "author": "Hans Christian Andersen",
-        "year": "1844",
-        "text": false,
+        "year": "1859",
+        "text": true,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "adventure"
+            "child"
         ]
     },
     {
-        "id": "en_tbellbell1",
-        "repo": "en_001",
-        "title": "The bell",
+        "id": "es_caracolel1",
+        "repo": "es_001",
+        "title": "El caracol y el rosal",
         "author": "Hans Christian Andersen",
-        "year": "1845",
+        "year": "1862",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child"
+        ]
+    },
+    {
+        "id": "es_deamistad1",
+        "repo": "es_001",
+        "title": "El pacto de amistad",
+        "author": "Hans Christian Andersen",
+        "year": "1842",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child"
+        ]
+    },
+    {
+        "id": "es_lhistoria1",
+        "repo": "es_001",
+        "title": "La historia del año",
+        "author": "Hans Christian Andersen",
+        "year": "1852",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child"
+        ]
+    },
+    {
+        "id": "es_grsmarina1",
+        "repo": "es_001",
+        "title": "La gran serpiente marina",
+        "author": "Hans Christian Andersen",
+        "year": "1871",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child"
+        ]
+    },
+    {
+        "id": "es_ciertisim1",
+        "repo": "es_001",
+        "title": "Es ciertísimo",
+        "author": "Hans Christian Andersen",
+        "year": "1852",
         "text": false,
         "music": false,
         "chapters": false,
@@ -119,154 +168,17 @@
         ]
     },
     {
-        "id": "en_toldhouse1",
-        "repo": "en_001",
-        "title": "The old house",
+        "id": "es_enhortera1",
+        "repo": "es_001",
+        "title": "El Gnomo en casa del hortera",
         "author": "Hans Christian Andersen",
-        "year": "1847",
+        "year": "1872",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
-            "child",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_hpyfamily1",
-        "repo": "en_001",
-        "title": "The happy family",
-        "author": "Hans Christian Andersen",
-        "year": "1848",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_theshadow1",
-        "repo": "en_001",
-        "title": "The shadow",
-        "author": "Hans Christian Andersen",
-        "year": "1847",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "fantastic"
-        ]
-    },
-    {
-        "id": "en_strmother1",
-        "repo": "en_001",
-        "title": "The story of a mother",
-        "author": "Hans Christian Andersen",
-        "year": "1848",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_matchgirl1",
-        "repo": "en_001",
-        "title": "The little match girl",
-        "author": "Hans Christian Andersen",
-        "year": "1846",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_littletuk1",
-        "repo": "en_001",
-        "title": "The dream of little Tuk",
-        "author": "Hans Christian Andersen",
-        "year": "1847",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_naughtboy1",
-        "repo": "en_001",
-        "title": "The naughty boy",
-        "author": "Hans Christian Andersen",
-        "year": "1835",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_tredshoes1",
-        "repo": "en_001",
-        "title": "The red shoes",
-        "author": "Hans Christian Andersen",
-        "year": "1845",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_flscollar1",
-        "repo": "en_001",
-        "title": "The false collar",
-        "author": "Hans Christian Andersen",
-        "year": "1844",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "fantastic"
-        ]
-    },
-    {
-        "id": "en_snowqueen1",
-        "repo": "en_001",
-        "title": "The snow queen",
-        "author": "Hans Christian Andersen",
-        "year": "1845",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "fantastic",
-            "adventure"
+            "child"
         ]
     }
 ]
