@@ -85,6 +85,76 @@
         ]
     },
     {
+        "id": "es_2ancianos1",
+        "repo": "es_001",
+        "title": "Los dos ancianos",
+        "author": "Leon Tolstoy",
+        "year": "1886",
+        "text": false,
+        "music": false,
+        "chapters": true,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_cantodelc1",
+        "repo": "es_001",
+        "title": "El canto del cisne",
+        "author": "Leon Tolstoy",
+        "year": "1867",
+        "text": false,
+        "music": false,
+        "chapters": true,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_recuerdoi1",
+        "repo": "es_001",
+        "title": "Recuerdo de mi infancia",
+        "author": "Leon Tolstoy",
+        "year": "1872",
+        "text": false,
+        "music": false,
+        "chapters": true,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_historiac1",
+        "repo": "es_001",
+        "title": "Historia de un caballo",
+        "author": "Leon Tolstoy",
+        "year": "1886",
+        "text": false,
+        "music": false,
+        "chapters": true,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_niclevine1",
+        "repo": "es_001",
+        "title": "La muerte de Nicolai Levine",
+        "author": "Leon Tolstoy",
+        "year": "1878",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
     "id": "en_lioncrane1",
     "repo": "en_001",
     "title": "The lion and the crane",
@@ -99,133 +169,5 @@
             "folklore",
             "animal"
         ]
-  },
-    {
-        "id": "en_tlambikin1",
-        "repo": "en_001",
-        "title": "The lambikin",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_tpunchkin1",
-        "repo": "en_001",
-        "title": "Punchkin",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_brokenpot1",
-        "repo": "en_001",
-        "title": "The broken pot",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_thefiddle1",
-        "repo": "en_001",
-        "title": "The magic fiddle",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "fantastic"
-        ]
-    },
-    {
-        "id": "en_cruecrane1",
-        "repo": "en_001",
-        "title": "The cruel crane outwitted",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_lovinglai1",
-        "repo": "en_001",
-        "title": "Loving Laili",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_brahmantj1",
-        "repo": "en_001",
-        "title": "The tiger, the Brahman, and the jackal",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_soothsaye1",
-        "repo": "en_001",
-        "title": "The soothsayer's son",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    }
+  }
 ]
