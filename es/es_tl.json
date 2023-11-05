@@ -83,49 +83,5 @@
             "child",
             "tale"
         ]
-    },
-    {
-        "id": "es_2ancianos1",
-        "repo": "es_001",
-        "title": "Los dos ancianos",
-        "author": "Leon Tolstoy",
-        "year": "1886",
-        "text": false,
-        "music": false,
-        "chapters": true,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "es_cantodelc1",
-        "repo": "es_001",
-        "title": "El canto del cisne",
-        "author": "Leon Tolstoy",
-        "year": "1867",
-        "text": false,
-        "music": false,
-        "chapters": true,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-    "id": "en_lioncrane1",
-    "repo": "en_001",
-    "title": "The lion and the crane",
-    "author": "Indian fairy tale",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-  }
+    }
 ]
