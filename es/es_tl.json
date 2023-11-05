@@ -85,6 +85,20 @@
         ]
     },
     {
+        "id": "es_ivimbecil1",
+        "repo": "es_001",
+        "title": "Iván el imbécil",
+        "author": "Leon Tolstoy",
+        "year": "1886",
+        "text": true,
+        "music": false,
+        "chapters": true,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
         "id": "es_niclevine1",
         "repo": "es_001",
         "title": "La muerte de Nicolai Levine",
