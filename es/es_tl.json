@@ -15,6 +15,76 @@
         ]
     },
     {
+        "id": "es_amalachka1",
+        "repo": "es_001",
+        "title": "Malachka y Akulina",
+        "author": "Leon Tolstoy",
+        "year": "1885",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_fabricant1",
+        "repo": "es_001",
+        "title": "El primer fabricante de aguardiente",
+        "author": "Leon Tolstoy",
+        "year": "1885",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_3staretzi1",
+        "repo": "es_001",
+        "title": "Los tres staretzi",
+        "author": "Leon Tolstoy",
+        "year": "1885",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_dondehaya1",
+        "repo": "es_001",
+        "title": "Dios está donde hay amor",
+        "author": "Leon Tolstoy",
+        "year": "1885",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_ivimbecil1",
+        "repo": "es_001",
+        "title": "Iván el imbécil",
+        "author": "Leon Tolstoy",
+        "year": "1886",
+        "text": true,
+        "music": false,
+        "chapters": true,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
     "id": "en_lioncrane1",
     "repo": "en_001",
     "title": "The lion and the crane",
@@ -156,324 +226,6 @@
             "child",
             "folklore",
             "relation"
-        ]
-    },
-    {
-        "id": "en_harisarma1",
-        "repo": "en_001",
-        "title": "Harisarman",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_charmedrn1",
-        "repo": "en_001",
-        "title": "The charmed ring",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_talkative1",
-        "repo": "en_001",
-        "title": "The talkative tortoise",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_lacrupees1",
-        "repo": "en_001",
-        "title": "A lac of rupees for a piece of advice",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_ggserpent1",
-        "repo": "en_001",
-        "title": "The gold-giving serpent",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_sonqueens1",
-        "repo": "en_001",
-        "title": "The son of seven queens",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_lessonfor1",
-        "repo": "en_001",
-        "title": "A lesson for kings",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_pridegoet1",
-        "repo": "en_001",
-        "title": "Pride goeth before a fall",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_rajarasal1",
-        "repo": "en_001",
-        "title": "Raja Rasalu",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_lionsskin1",
-        "repo": "en_001",
-        "title": "The ass in the lion's skin",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_moneylend1",
-        "repo": "en_001",
-        "title": "The farmer and the money-lender",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_bforehead1",
-        "repo": "en_001",
-        "title": "The boy who had a moon on his forehead and a star on his chin",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_pandfakir1",
-        "repo": "en_001",
-        "title": "The prince and the fakir",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_fishlaugh1",
-        "repo": "en_001",
-        "title": "Why the fish laughed",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_demonhair1",
-        "repo": "en_001",
-        "title": "The demon with the matted hair",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "fantastic"
-        ]
-    },
-    {
-        "id": "en_ivorycity1",
-        "repo": "en_001",
-        "title": "The ivory city and its fairy princess",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_sundinner1",
-        "repo": "en_001",
-        "title": "Sun, moon, and wind go out to dinner",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "fantastic"
-        ]
-    },
-    {
-        "id": "en_sonsduped1",
-        "repo": "en_001",
-        "title": "How the wicked sons were duped",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_pigeoncrw1",
-        "repo": "en_001",
-        "title": "The pigeon and the crow",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_rajalabam1",
-        "repo": "en_001",
-        "title": "How the Raja's son won the Princess Labam",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
         ]
     }
 ]
