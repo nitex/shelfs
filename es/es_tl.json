@@ -113,48 +113,6 @@
         ]
     },
     {
-        "id": "es_recuerdoi1",
-        "repo": "es_001",
-        "title": "Recuerdo de mi infancia",
-        "author": "Leon Tolstoy",
-        "year": "1872",
-        "text": false,
-        "music": false,
-        "chapters": true,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "es_historiac1",
-        "repo": "es_001",
-        "title": "Historia de un caballo",
-        "author": "Leon Tolstoy",
-        "year": "1886",
-        "text": false,
-        "music": false,
-        "chapters": true,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "es_niclevine1",
-        "repo": "es_001",
-        "title": "La muerte de Nicolai Levine",
-        "author": "Leon Tolstoy",
-        "year": "1878",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
     "id": "en_lioncrane1",
     "repo": "en_001",
     "title": "The lion and the crane",
