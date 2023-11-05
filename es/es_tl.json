@@ -57,40 +57,12 @@
         ]
     },
     {
-        "id": "es_cantodelc1",
-        "repo": "es_001",
-        "title": "El canto del cisne",
-        "author": "Leon Tolstoy",
-        "year": "1867",
-        "text": false,
-        "music": false,
-        "chapters": true,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
         "id": "es_dondehaya1",
         "repo": "es_001",
         "title": "Dios está donde hay amor",
         "author": "Leon Tolstoy",
         "year": "1885",
         "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
-        "id": "es_niclevine1",
-        "repo": "es_001",
-        "title": "La muerte de Nicolai Levine",
-        "author": "Leon Tolstoy",
-        "year": "1878",
-        "text": false,
         "music": false,
         "chapters": false,
         "genres": [
@@ -107,6 +79,20 @@
         "text": true,
         "music": false,
         "chapters": true,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_niclevine1",
+        "repo": "es_001",
+        "title": "La muerte de Nicolai Levine",
+        "author": "Leon Tolstoy",
+        "year": "1878",
+        "text": false,
+        "music": false,
+        "chapters": false,
         "genres": [
             "child",
             "tale"
