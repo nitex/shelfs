@@ -1,5 +1,20 @@
 [
   {
+        "id": "es_vienelmal1",
+        "repo": "es_001",
+        "title": "De donde viene el mal",
+        "author": "Leon Tolstoy",
+        "year": "1885",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
     "id": "en_lioncrane1",
     "repo": "en_001",
     "title": "The lion and the crane",
