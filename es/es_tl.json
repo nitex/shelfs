@@ -57,6 +57,20 @@
         ]
     },
     {
+        "id": "es_cantodelc1",
+        "repo": "es_001",
+        "title": "El canto del cisne",
+        "author": "Leon Tolstoy",
+        "year": "1867",
+        "text": false,
+        "music": false,
+        "chapters": true,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
         "id": "es_dondehaya1",
         "repo": "es_001",
         "title": "Dios está donde hay amor",
