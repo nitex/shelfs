@@ -32,12 +32,12 @@
     {
         "id": "es_historiac1",
         "repo": "es_001",
-        "title": "",
+        "title": "Historia de un caballo",
         "author": "Leon Tolstoy",
-        "year": "",
-        "text": true,
+        "year": "1886",
+        "text": false,
         "music": false,
-        "chapters": false,
+        "chapters": true,
         "genres": [
             "child",
             "tale",
