@@ -85,20 +85,6 @@
         ]
     },
     {
-        "id": "es_recuerdoi1",
-        "repo": "es_001",
-        "title": "Recuerdo de mi infancia",
-        "author": "Leon Tolstoy",
-        "year": "1872",
-        "text": false,
-        "music": false,
-        "chapters": true,
-        "genres": [
-            "child",
-            "tale"
-        ]
-    },
-    {
         "id": "es_ivimbecil1",
         "repo": "es_001",
         "title": "Iván el imbécil",
