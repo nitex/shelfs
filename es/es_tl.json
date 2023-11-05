@@ -85,11 +85,11 @@
         ]
     },
     {
-        "id": "es_historiac1",
+        "id": "es_recuerdoi1",
         "repo": "es_001",
-        "title": "Historia de un caballo",
+        "title": "Recuerdo de mi infancia",
         "author": "Leon Tolstoy",
-        "year": "1886",
+        "year": "1872",
         "text": false,
         "music": false,
         "chapters": true,
