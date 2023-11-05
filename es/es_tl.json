@@ -1,50 +1,5 @@
 [
   {
-        "id": "",
-        "repo": "es_001",
-        "title": "",
-        "author": "Leon Tolstoy",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "animal"
-        ]
-    },
-    {
-        "id": "",
-        "repo": "es_001",
-        "title": "",
-        "author": "Leon Tolstoy",
-        "year": "",
-        "text": true,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "animal"
-        ]
-    },
-    {
-        "id": "es_historiac1",
-        "repo": "es_001",
-        "title": "Historia de un caballo",
-        "author": "Leon Tolstoy",
-        "year": "1886",
-        "text": false,
-        "music": false,
-        "chapters": true,
-        "genres": [
-            "child",
-            "tale",
-            "animal"
-        ]
-    },
-    {
         "id": "es_vienelmal1",
         "repo": "es_001",
         "title": "De donde viene el mal",
@@ -113,6 +68,66 @@
         "text": true,
         "music": false,
         "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "es_ivimbecil1",
+        "repo": "es_001",
+        "title": "Iván el imbécil",
+        "author": "Leon Tolstoy",
+        "year": "1886",
+        "text": true,
+        "music": false,
+        "chapters": true,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "es_ivimbecil1",
+        "repo": "es_001",
+        "title": "Iván el imbécil",
+        "author": "Leon Tolstoy",
+        "year": "1886",
+        "text": true,
+        "music": false,
+        "chapters": true,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "es_ivimbecil1",
+        "repo": "es_001",
+        "title": "Iván el imbécil",
+        "author": "Leon Tolstoy",
+        "year": "1886",
+        "text": true,
+        "music": false,
+        "chapters": true,
+        "genres": [
+            "child",
+            "tale",
+            "adventure"
+        ]
+    },
+    {
+        "id": "es_ivimbecil1",
+        "repo": "es_001",
+        "title": "Iván el imbécil",
+        "author": "Leon Tolstoy",
+        "year": "1886",
+        "text": true,
+        "music": false,
+        "chapters": true,
         "genres": [
             "child",
             "tale",
