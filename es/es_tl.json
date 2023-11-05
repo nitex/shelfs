@@ -1,5 +1,50 @@
 [
   {
+        "id": "",
+        "repo": "es_001",
+        "title": "",
+        "author": "Leon Tolstoy",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "",
+        "repo": "es_001",
+        "title": "",
+        "author": "Leon Tolstoy",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
+        "id": "",
+        "repo": "es_001",
+        "title": "",
+        "author": "Leon Tolstoy",
+        "year": "",
+        "text": true,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale",
+            "animal"
+        ]
+    },
+    {
         "id": "es_vienelmal1",
         "repo": "es_001",
         "title": "De donde viene el mal",
@@ -25,7 +70,8 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
@@ -39,7 +85,8 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
@@ -53,7 +100,8 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
@@ -67,7 +115,8 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
@@ -81,7 +130,8 @@
         "chapters": true,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
@@ -95,7 +145,8 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure"
         ]
     }
 ]
