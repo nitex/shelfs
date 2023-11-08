@@ -1,300 +1,261 @@
 [
   {
-    "id": "en_hanselgrt1",
-    "repo": "en_001",
-    "title": "Hansel and Grethel",
-    "author": "The Brothers Grimm",
+    "id": "es_caperucit2",
+    "repo": "es_001",
+    "title": "Caperucita Roja",
+    "author": "Los Hermanos Grimm",
     "year": "1812",
     "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "child",
-      "tale",
-            "fantastic",
-            "adventure"
+      "tale"
         ]
   },
     {
-        "id": "en_tmrkorbes1",
-        "repo": "en_001",
-        "title": "Mr. Korbes",
-        "author": "The Brothers Grimm",
+        "id": "es_sastrecil1",
+        "repo": "es_001",
+        "title": "El Sastrecillo Valiente",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "animal"
+            "tale"
         ]
     },
     {
-        "id": "en_wolf6kids1",
-        "repo": "en_001",
-        "title": "The wolf and the six little kids",
-        "author": "The Brothers Grimm",
+        "id": "es_elreyrana1",
+        "repo": "es_001",
+        "title": "El Rey Rana",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "animal"
+            "tale"
         ]
     },
     {
-        "id": "en_taleselvs1",
-        "repo": "en_001",
-        "title": "Tales about elves",
-        "author": "The Brothers Grimm",
+        "id": "es_montesime1",
+        "repo": "es_001",
+        "title": "Monte Simelí",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "fantastic"
+            "tale"
         ]
     },
     {
-        "id": "en_strawcoal1",
-        "repo": "en_001",
-        "title": "The straw, the coal, and the bean",
-        "author": "The Brothers Grimm",
+        "id": "es_elreypico1",
+        "repo": "es_001",
+        "title": "El Rey Pico de Tordo",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_snowwhite1",
-        "repo": "en_001",
-        "title": "Snow White and Red Rose",
-        "author": "The Brothers Grimm",
+        "id": "es_blancaniv1",
+        "repo": "es_001",
+        "title": "Blanca Nieves y los Siete Enanos",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_rougbeard1",
-        "repo": "en_001",
-        "title": "King Roughbeard",
-        "author": "The Brothers Grimm",
+        "id": "es_hilanders1",
+        "repo": "es_001",
+        "title": "Las Tres Hilanderas",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_frogprinc1",
-        "repo": "en_001",
-        "title": "The frog prince",
-        "author": "The Brothers Grimm",
+        "id": "es_laluzazul1",
+        "repo": "es_001",
+        "title": "La Luz Azul",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "animal",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_goosegirl1",
-        "repo": "en_001",
-        "title": "The goose girl",
-        "author": "The Brothers Grimm",
+        "id": "es_cenicient2",
+        "repo": "es_001",
+        "title": "Cenicienta",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_rapunzell1",
-        "repo": "en_001",
+        "id": "es_l7cuervos1",
+        "repo": "es_001",
+        "title": "Los Siete Cuervos",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_enigmatic1",
+        "repo": "es_001",
+        "title": "Un Cuento Enigmático",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_musicosbr1",
+        "repo": "es_001",
+        "title": "Los Músicos de Bremen",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_hjingrato1",
+        "repo": "es_001",
+        "title": "El Hijo Ingrato",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_migajasen1",
+        "repo": "es_001",
+        "title": "Las Migajas en la Mesa",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_pulgarcit1",
+        "repo": "es_001",
+        "title": "Pulgarcito",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_diablocon1",
+        "repo": "es_001",
+        "title": "El Diablo con los Tres Pelos de Oro",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_7cabritas1",
+        "repo": "es_001",
+        "title": "El Lobo y las Siete Cabritas",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_rumpelest1",
+        "repo": "es_001",
+        "title": "Rúmpeles-Tíjeles",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_rapunzelg1",
+        "repo": "es_001",
         "title": "Rapunzel",
-        "author": "The Brothers Grimm",
-        "year": "1812",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "adventure",
-            "fantastic"
-        ]
-    },
-    {
-        "id": "en_musbremen1",
-        "repo": "en_001",
-        "title": "The town musicians of Bremen",
-        "author": "The Brothers Grimm",
-        "year": "1812",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "animal",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_3spinners1",
-        "repo": "en_001",
-        "title": "The three spinners",
-        "author": "The Brothers Grimm",
-        "year": "1812",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "relation",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_the7crows1",
-        "repo": "en_001",
-        "title": "The seven crows",
-        "author": "The Brothers Grimm",
-        "year": "1812",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "animal",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_lsnowdrop1",
-        "repo": "en_001",
-        "title": "Little Snowdrop",
-        "author": "The Brothers Grimm",
-        "year": "1812",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_fisherman1",
-        "repo": "en_001",
-        "title": "The fisherman and his wife",
-        "author": "The Brothers Grimm",
-        "year": "1812",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_sleepingb2",
-        "repo": "en_001",
-        "title": "The sleeping beauty",
-        "author": "The Brothers Grimm",
-        "year": "1812",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_catmmouse1",
-        "repo": "en_001",
-        "title": "The cat who married a mouse",
-        "author": "The Brothers Grimm",
-        "year": "1812",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_cleverhns1",
-        "repo": "en_001",
-        "title": "Clever Hans",
-        "author": "The Brothers Grimm",
-        "year": "1812",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_weddingfx1",
-        "repo": "en_001",
-        "title": "The wedding of Mrs. Fox",
-        "author": "The Brothers Grimm",
-        "year": "1812",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_cinderela2",
-        "repo": "en_001",
-        "title": "Cinderella",
-        "author": "The Brothers Grimm",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
@@ -305,26 +266,10 @@
         ]
     },
     {
-        "id": "en_setrogues1",
-        "repo": "en_001",
-        "title": "A set of rogues",
-        "author": "The Brothers Grimm",
-        "year": "1812",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "child",
-            "tale",
-            "animal",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_littlered2",
-        "repo": "en_001",
-        "title": "Little Red Cap",
-        "author": "The Brothers Grimm",
+        "id": "es_hanselgre1",
+        "repo": "es_001",
+        "title": "Hansel y Grethel",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
@@ -335,109 +280,563 @@
         ]
     },
     {
-        "id": "en_rumpelstl1",
-        "repo": "en_001",
-        "title": "Rumpelstiltskin",
-        "author": "The Brothers Grimm",
+        "id": "es_pajabrasa1",
+        "repo": "es_001",
+        "title": "La Paja, la Brasa y la Judía",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "fantastic",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_12brother1",
-        "repo": "en_001",
-        "title": "The twelve brothers",
-        "author": "The Brothers Grimm",
+        "id": "es_elsielist1",
+        "repo": "es_001",
+        "title": "Elsie la Lista",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "relation"
+            "tale"
         ]
     },
     {
-        "id": "en_hansnluck1",
-        "repo": "en_001",
-        "title": "Hans in luck",
-        "author": "The Brothers Grimm",
+        "id": "es_senkorbes1",
+        "repo": "es_001",
+        "title": "El Señor Korbes",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "adventure"
+            "tale"
         ]
     },
     {
-        "id": "en_mbsausage1",
-        "repo": "en_001",
-        "title": "The mouse, the bird, and the sausage",
-        "author": "The Brothers Grimm",
+        "id": "es_hermanoyh1",
+        "repo": "es_001",
+        "title": "Hermano y Hermana",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "animal"
+            "tale"
         ]
     },
     {
-        "id": "en_foxandcat1",
-        "repo": "en_001",
-        "title": "The fox and the cat",
-        "author": "The Brothers Grimm",
+        "id": "es_durmiente2",
+        "repo": "es_001",
+        "title": "La Bella Durmiente del Bosque",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "animal"
+            "tale"
         ]
     },
     {
-        "id": "en_oldgrndsn1",
-        "repo": "en_001",
-        "title": "The old man and his grandson",
-        "author": "The Brothers Grimm",
+        "id": "es_yorindayo1",
+        "repo": "es_001",
+        "title": "Yorinda y Yoringel",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "relation"
+            "tale"
         ]
     },
     {
-        "id": "en_oldsultan1",
-        "repo": "en_001",
-        "title": "Old Sultan",
-        "author": "The Brothers Grimm",
+        "id": "es_allerleir1",
+        "repo": "es_001",
+        "title": "Allerleirauh",
+        "author": "Los Hermanos Grimm",
         "year": "1812",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "child",
-            "tale",
-            "animal"
+            "tale"
+        ]
+    },
+    {
+        "id": "es_pastorsab1",
+        "repo": "es_001",
+        "title": "El Pastor Sabio",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_сaminante1",
+        "repo": "es_001",
+        "title": "Los Dos Caminantes",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_sabelotod1",
+        "repo": "es_001",
+        "title": "El Doctor Sábelotodo",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_lesposode1",
+        "repo": "es_001",
+        "title": "El Erizo y el Esposo de la Liebre",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_lsduendes1",
+        "repo": "es_001",
+        "title": "Los Duendes",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_sombreroc1",
+        "repo": "es_001",
+        "title": "El Mantel, la Mochila, el Sombrero y el Cuerno",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_campesino1",
+        "repo": "es_001",
+        "title": "El Campesino y el Diablo",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_pieldeoso1",
+        "repo": "es_001",
+        "title": "Piel de Oso",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_abejarein1",
+        "repo": "es_001",
+        "title": "La Abeja Reina",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_elenigmag1",
+        "repo": "es_001",
+        "title": "El Enigma",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_azoteciel1",
+        "repo": "es_001",
+        "title": "El Azote del Cielo",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_gatobotas2",
+        "repo": "es_001",
+        "title": "El Gato con Botas",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_elmantogr1",
+        "repo": "es_001",
+        "title": "El Manto",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_serpiente1",
+        "repo": "es_001",
+        "title": "La Serpiente Blanca",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_zrcaballo1",
+        "repo": "es_001",
+        "title": "La Zorra y el Caballo",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_pescadore1",
+        "repo": "es_001",
+        "title": "El Pescador y su Esposa",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_alimentod1",
+        "repo": "es_001",
+        "title": "El Alimento de Dios",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_buhogrimm1",
+        "repo": "es_001",
+        "title": "El Búho",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_zapatilla1",
+        "repo": "es_001",
+        "title": "Las Zapatillas Desgastadas por Danzar",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_comadrelz1",
+        "repo": "es_001",
+        "title": "La Comadre Loba y el Zorro",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_aguadvida1",
+        "repo": "es_001",
+        "title": "El Agua de la Vida",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_lasplumas1",
+        "repo": "es_001",
+        "title": "Las Tres Plumas",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_vigagrimm1",
+        "repo": "es_001",
+        "title": "La Viga",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_elmaestro1",
+        "repo": "es_001",
+        "title": "El Ladrón Maestro",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_lasnovias1",
+        "repo": "es_001",
+        "title": "Las Novias a Prueba",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_viesultan1",
+        "repo": "es_001",
+        "title": "El Viejo Sultán",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_phumildad1",
+        "repo": "es_001",
+        "title": "Pobreza y Humildad Llevan al Cielo",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_maravillo1",
+        "repo": "es_001",
+        "title": "El Músico Maravilloso",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_novoscura1",
+        "repo": "es_001",
+        "title": "La Novia Clara y la Oscura",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_vsnuestra1",
+        "repo": "es_001",
+        "title": "El Pequeño Vaso de Nuestra Señora",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_hermanolg1",
+        "repo": "es_001",
+        "title": "El Hermano Lustig",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_seiscisne1",
+        "repo": "es_001",
+        "title": "Los Seis Cisnes",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_asociados1",
+        "repo": "es_001",
+        "title": "El Ratón y el Gato Asociados",
+        "author": "Los Hermanos Grimm",
+        "year": "1812",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "tale"
         ]
     }
 ]
