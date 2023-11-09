@@ -10,7 +10,9 @@
     "chapters": false,
     "genres": [
       "child",
-      "tale"
+      "tale",
+            "animal",
+            "fantastic"
         ]
   },
     {
@@ -24,7 +26,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -38,7 +42,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     },
     {
@@ -52,7 +58,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -66,7 +74,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -80,7 +90,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -94,7 +106,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -108,7 +122,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -122,7 +138,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -136,7 +154,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     },
     {
@@ -150,7 +170,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -164,7 +186,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     },
     {
@@ -178,7 +202,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "relation",
+            "fantastic"
         ]
     },
     {
@@ -192,7 +218,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -206,7 +234,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -220,7 +250,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -234,7 +266,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     },
     {
@@ -248,7 +282,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -262,7 +298,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -276,7 +314,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -290,7 +330,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -304,7 +346,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -318,7 +362,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     },
     {
@@ -332,7 +378,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -346,7 +394,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -360,7 +410,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -374,7 +426,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -388,7 +442,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -402,7 +458,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -416,7 +474,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -430,7 +490,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     },
     {
@@ -444,7 +506,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -458,7 +522,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -472,7 +538,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -486,7 +554,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     },
     {
@@ -500,7 +570,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -514,7 +586,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -528,7 +602,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -542,7 +618,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     },
     {
@@ -556,7 +634,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "relation",
+            "fantastic"
         ]
     },
     {
@@ -570,7 +650,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "relation",
+            "fantastic"
         ]
     },
     {
@@ -584,7 +666,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -598,7 +682,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "relation",
+            "fantastic"
         ]
     },
     {
@@ -612,7 +698,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "relation",
+            "fantastic"
         ]
     },
     {
@@ -626,7 +714,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     },
     {
@@ -640,7 +730,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -654,7 +746,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     },
     {
@@ -668,7 +762,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -682,7 +778,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -696,7 +794,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -710,7 +810,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "relation",
+            "fantastic"
         ]
     },
     {
@@ -724,7 +826,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "relation",
+            "fantastic"
         ]
     },
     {
@@ -738,7 +842,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -752,7 +858,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "relation",
+            "fantastic"
         ]
     },
     {
@@ -766,7 +874,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -780,7 +890,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "relation",
+            "fantastic"
         ]
     },
     {
@@ -794,7 +906,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -808,7 +922,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "adventure",
+            "fantastic"
         ]
     },
     {
@@ -822,7 +938,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     },
     {
@@ -836,7 +954,9 @@
         "chapters": false,
         "genres": [
             "child",
-            "tale"
+            "tale",
+            "animal",
+            "fantastic"
         ]
     }
 ]

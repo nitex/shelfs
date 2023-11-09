@@ -1,9 +1,9 @@
 [
   {
-    "id": "ru_bludechko1",
-    "repo": "ru_001",
-    "title": "Сказка о серебрянном блюдечке и наливном яблочке",
-    "author": "Русская народная сказка",
+    "id": "es_cocinerog1",
+    "repo": "es_001",
+    "title": "El cocinero y el gato",
+    "author": "Cuento de hadas rusos",
     "year": "",
     "text": false,
     "music": false,
@@ -11,158 +11,247 @@
     "genres": [
       "child",
       "folklore",
-      "tale",
-      "relation",
-      "adventure"
-    ]
+      "tale"
+        ]
   },
-  {
-    "id": "ru_mrmorevna1",
-    "repo": "ru_001",
-    "title": "Марья Моревна",
-    "author": "Русская народная сказка",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "folklore",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "ru_morskoyvp1",
-    "repo": "ru_001",
-    "title": "Морской царь и Василиса Премудрая",
-    "author": "Русская народная сказка",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "folklore",
-      "tale",
-      "relation",
-      "adventure"
-    ]
-  },
-  {
-    "id": "ru_noplyaski1",
-    "repo": "ru_001",
-    "title": "Ночные пляски",
-    "author": "Русская народная сказка",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "folklore",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "ru_veshiyson1",
-    "repo": "ru_001",
-    "title": "Вещий сон",
-    "author": "Русская народная сказка",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "folklore",
-      "tale",
-      "relation"
-    ]
-  },
-  {
-    "id": "ru_zorkavepo1",
-    "repo": "ru_001",
-    "title": "Зорька, Вечёрка и Полуночка",
-    "author": "Русская народная сказка",
-    "year": "",
-    "text": false,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "folklore",
-      "tale",
-      "relation",
-      "adventure"
-    ]
-  },
-  {
-    "id": "ru_semiletka1",
-    "repo": "ru_001",
-    "title": "Семилетка",
-    "author": "Русская народная сказка",
-    "year": "",
-    "text": true,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "folklore",
-      "tale",
-      "folklore",
-      "relation"
-    ]
-  },
-  {
-    "id": "ru_ntsarevna1",
-    "repo": "ru_001",
-    "title": "Наказанная царевна",
-    "author": "Русская народная сказка",
-    "year": "",
-    "text": true,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore",
-      "relation",
-      "adventure"
-    ]
-  },
-  {
-    "id": "ru_pdudochka1",
-    "repo": "ru_001",
-    "title": "Пастушья дудочка ",
-    "author": "Русская народная сказка",
-    "year": "",
-    "text": true,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore",
-      "animal"
-    ]
-  },
-  {
-    "id": "ru_ivanchudo1",
-    "repo": "ru_001",
-    "title": "Иван-крестьянский сын и Чудо-Юдо",
-    "author": "Русская народная сказка",
-    "year": "",
-    "text": true,
-    "music": false,
-    "chapters": false,
-    "genres": [
-      "child",
-      "tale",
-      "folklore",
-      "animal",
-      "adventure"
-    ]
-  }
+    {
+        "id": "es_labolengo1",
+        "repo": "es_001",
+        "title": "El abolengo",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_ysusombra1",
+        "repo": "es_001",
+        "title": "El loco y su sombra",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_concienci1",
+        "repo": "es_001",
+        "title": "La conciencia",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_fortuna3c1",
+        "repo": "es_001",
+        "title": "La Fortuna y los tres compañeros",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_lbombones1",
+        "repo": "es_001",
+        "title": "Lágrimas y bombones",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_lsuicidio1",
+        "repo": "es_001",
+        "title": "El suicidio",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_ernestogr1",
+        "repo": "es_001",
+        "title": "Ernesto y Germán",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_ascencion1",
+        "repo": "es_001",
+        "title": "Ascención y descenso",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_concierto1",
+        "repo": "es_001",
+        "title": "El concierto europeo",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_zapateroz1",
+        "repo": "es_001",
+        "title": "Zapatero ... a tu zapato",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_ligualdad1",
+        "repo": "es_001",
+        "title": "La igualdad",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_monomiope1",
+        "repo": "es_001",
+        "title": "El mono miope",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_oposicion1",
+        "repo": "es_001",
+        "title": "En la oposición y en el poder",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_lavaricia1",
+        "repo": "es_001",
+        "title": "La avaricia",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_recompens1",
+        "repo": "es_001",
+        "title": "Recompensas tardías",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    },
+    {
+        "id": "es_congresoc1",
+        "repo": "es_001",
+        "title": "El congreso de las cotorras",
+        "author": "Cuento de hadas rusos",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "child",
+            "folklore",
+            "tale"
+        ]
+    }
 ]
