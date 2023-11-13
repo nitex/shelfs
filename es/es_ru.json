@@ -11,7 +11,8 @@
     "genres": [
       "child",
       "folklore",
-      "tale"
+      "tale",
+            "adventure"
         ]
   },
     {
@@ -26,7 +27,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
@@ -41,7 +43,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "fantastic"
         ]
     },
     {
@@ -56,7 +59,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "animal"
         ]
     },
     {
@@ -71,7 +75,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
@@ -86,7 +91,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
@@ -101,7 +107,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "animal"
         ]
     },
     {
@@ -116,7 +123,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
@@ -131,7 +139,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "animal"
         ]
     },
     {
@@ -146,7 +155,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "animal"
         ]
     },
     {
@@ -161,7 +171,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "adventure"
         ]
     },
     {
@@ -176,7 +187,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "animal"
         ]
     },
     {
@@ -191,7 +203,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "animal"
         ]
     },
     {
@@ -206,7 +219,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "fantastic"
         ]
     },
     {
@@ -221,7 +235,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "fantastic"
         ]
     },
     {
@@ -236,7 +251,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "animal"
         ]
     },
     {
@@ -251,7 +267,8 @@
         "genres": [
             "child",
             "folklore",
-            "tale"
+            "tale",
+            "animal"
         ]
     }
 ]

@@ -1,464 +1,272 @@
 [
   {
-    "id": "en_lioncrane1",
+    "id": "es_nochebuen1",
     "repo": "en_001",
-    "title": "The lion and the crane",
-    "author": "Indian fairy tale",
-    "year": "",
+    "title": "La Nochebuena del Papa",
+    "author": "Emilia Pardo Bazán",
+    "year": "1902",
     "text": false,
     "music": false,
     "chapters": false,
     "genres": [
       "tale",
             "child",
-            "folklore",
-            "animal"
+            "fantastic"
         ]
   },
     {
-        "id": "en_tlambikin1",
+        "id": "es_tsormaria1",
         "repo": "en_001",
-        "title": "The lambikin",
-        "author": "Indian fairy tale",
-        "year": "",
+        "title": "La tentación de Sor María",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_tpunchkin1",
-        "repo": "en_001",
-        "title": "Punchkin",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_brokenpot1",
-        "repo": "en_001",
-        "title": "The broken pot",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_thefiddle1",
-        "repo": "en_001",
-        "title": "The magic fiddle",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
             "fantastic"
         ]
     },
     {
-        "id": "en_cruecrane1",
+        "id": "es_lanavidad1",
         "repo": "en_001",
-        "title": "The cruel crane outwitted",
-        "author": "Indian fairy tale",
-        "year": "",
+        "title": "La Navidad del Peludo",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_lovinglai1",
-        "repo": "en_001",
-        "title": "Loving Laili",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_brahmantj1",
-        "repo": "en_001",
-        "title": "The tiger, the Brahman, and the jackal",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_soothsaye1",
-        "repo": "en_001",
-        "title": "The soothsayer's son",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_harisarma1",
-        "repo": "en_001",
-        "title": "Harisarman",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_charmedrn1",
-        "repo": "en_001",
-        "title": "The charmed ring",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_talkative1",
-        "repo": "en_001",
-        "title": "The talkative tortoise",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_lacrupees1",
-        "repo": "en_001",
-        "title": "A lac of rupees for a piece of advice",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_ggserpent1",
-        "repo": "en_001",
-        "title": "The gold-giving serpent",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_sonqueens1",
-        "repo": "en_001",
-        "title": "The son of seven queens",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_lessonfor1",
-        "repo": "en_001",
-        "title": "A lesson for kings",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_pridegoet1",
-        "repo": "en_001",
-        "title": "Pride goeth before a fall",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore"
-        ]
-    },
-    {
-        "id": "en_rajarasal1",
-        "repo": "en_001",
-        "title": "Raja Rasalu",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_lionsskin1",
-        "repo": "en_001",
-        "title": "The ass in the lion's skin",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_moneylend1",
-        "repo": "en_001",
-        "title": "The farmer and the money-lender",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "relation"
-        ]
-    },
-    {
-        "id": "en_bforehead1",
-        "repo": "en_001",
-        "title": "The boy who had a moon on his forehead and a star on his chin",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_pandfakir1",
-        "repo": "en_001",
-        "title": "The prince and the fakir",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_fishlaugh1",
-        "repo": "en_001",
-        "title": "Why the fish laughed",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
-            "animal"
-        ]
-    },
-    {
-        "id": "en_demonhair1",
-        "repo": "en_001",
-        "title": "The demon with the matted hair",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
             "fantastic"
         ]
     },
     {
-        "id": "en_ivorycity1",
+        "id": "es_jesusacue1",
         "repo": "en_001",
-        "title": "The ivory city and its fairy princess",
-        "author": "Indian fairy tale",
-        "year": "",
+        "title": "Jesusa",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
-        ]
-    },
-    {
-        "id": "en_sundinner1",
-        "repo": "en_001",
-        "title": "Sun, moon, and wind go out to dinner",
-        "author": "Indian fairy tale",
-        "year": "",
-        "text": false,
-        "music": false,
-        "chapters": false,
-        "genres": [
-            "tale",
-            "child",
-            "folklore",
             "fantastic"
         ]
     },
     {
-        "id": "en_sonsduped1",
+        "id": "es_dljugador1",
         "repo": "en_001",
-        "title": "How the wicked sons were duped",
-        "author": "Indian fairy tale",
-        "year": "",
+        "title": "Nochebuena del jugador",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "relation"
+            "fantastic"
         ]
     },
     {
-        "id": "en_pigeoncrw1",
+        "id": "es_denavidad1",
         "repo": "en_001",
-        "title": "The pigeon and the crow",
-        "author": "Indian fairy tale",
-        "year": "",
+        "title": "De Navidad",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "animal"
+            "fantastic"
         ]
     },
     {
-        "id": "en_rajalabam1",
+        "id": "es_nlatierra1",
         "repo": "en_001",
-        "title": "How the Raja's son won the Princess Labam",
-        "author": "Indian fairy tale",
-        "year": "",
+        "title": "Jesús en la tierra",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
         "text": false,
         "music": false,
         "chapters": false,
         "genres": [
             "tale",
             "child",
-            "folklore",
-            "adventure"
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_elbelencu1",
+        "repo": "en_001",
+        "title": "El Belén",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_pgnsuelta1",
+        "repo": "en_001",
+        "title": "Página suelta",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_doscenasc1",
+        "repo": "en_001",
+        "title": "Dos cenas",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_carpinter1",
+        "repo": "en_001",
+        "title": "La Nochebuena del carpintero",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_elciegocu1",
+        "repo": "en_001",
+        "title": "El ciego",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_losmagosc1",
+        "repo": "en_001",
+        "title": "Los Magos",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_suenosreg1",
+        "repo": "en_001",
+        "title": "Sueños regios",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_reysmagos1",
+        "repo": "en_001",
+        "title": "La visión de los Reyes Magos",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_rompecabe1",
+        "repo": "en_001",
+        "title": "El Rompecabezas",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_semanasan1",
+        "repo": "en_001",
+        "title": "En Semana Santa",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
+        ]
+    },
+    {
+        "id": "es_oracionde1",
+        "repo": "en_001",
+        "title": "La oración de Semana Santa",
+        "author": "Emilia Pardo Bazán",
+        "year": "1902",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "child",
+            "fantastic"
         ]
     }
 ]
