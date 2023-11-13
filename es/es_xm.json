@@ -1,7 +1,7 @@
 [
   {
     "id": "es_nochebuen1",
-    "repo": "en_001",
+    "repo": "es_001",
     "title": "La Nochebuena del Papa",
     "author": "Emilia Pardo Bazán",
     "year": "1902",
@@ -16,7 +16,7 @@
   },
     {
         "id": "es_tsormaria1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "La tentación de Sor María",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -31,7 +31,7 @@
     },
     {
         "id": "es_lanavidad1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "La Navidad del Peludo",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -46,7 +46,7 @@
     },
     {
         "id": "es_jesusacue1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "Jesusa",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -61,7 +61,7 @@
     },
     {
         "id": "es_dljugador1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "Nochebuena del jugador",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -76,7 +76,7 @@
     },
     {
         "id": "es_denavidad1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "De Navidad",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -91,7 +91,7 @@
     },
     {
         "id": "es_nlatierra1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "Jesús en la tierra",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -106,7 +106,7 @@
     },
     {
         "id": "es_elbelencu1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "El Belén",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -121,7 +121,7 @@
     },
     {
         "id": "es_pgnsuelta1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "Página suelta",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -136,7 +136,7 @@
     },
     {
         "id": "es_doscenasc1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "Dos cenas",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -151,7 +151,7 @@
     },
     {
         "id": "es_carpinter1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "La Nochebuena del carpintero",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -166,7 +166,7 @@
     },
     {
         "id": "es_elciegocu1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "El ciego",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -181,7 +181,7 @@
     },
     {
         "id": "es_losmagosc1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "Los Magos",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -196,7 +196,7 @@
     },
     {
         "id": "es_suenosreg1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "Sueños regios",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -211,7 +211,7 @@
     },
     {
         "id": "es_reysmagos1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "La visión de los Reyes Magos",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -226,7 +226,7 @@
     },
     {
         "id": "es_rompecabe1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "El Rompecabezas",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -241,7 +241,7 @@
     },
     {
         "id": "es_semanasan1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "En Semana Santa",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
@@ -256,7 +256,7 @@
     },
     {
         "id": "es_oracionde1",
-        "repo": "en_001",
+        "repo": "es_001",
         "title": "La oración de Semana Santa",
         "author": "Emilia Pardo Bazán",
         "year": "1902",
