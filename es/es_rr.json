@@ -1,18 +1,296 @@
 [
   {
-    "id": "",
+    "id": "es_nocturnoc1",
     "repo": "es_001",
-    "title": "",
-    "author": "",
+    "title": "Nocturno",
+    "author": "Ricardo Güiraldes",
     "year": "",
-    "text": false,
+    "text": true,
     "music": false,
     "chapters": false,
     "genres": [
       "tale",
-            "child",
-            "folklore",
-            "fantastic"
+            "detective"
         ]
-  }
+  },
+    {
+        "id": "es_triunfodb1",
+        "repo": "es_001",
+        "title": "El triunfo del diablo",
+        "author": "Leopoldo Lugones",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_hombremrt1",
+        "repo": "es_001",
+        "title": "El hombre muerto",
+        "author": "Leopoldo Lugones",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_adanyevac1",
+        "repo": "es_001",
+        "title": "Adan y Eva",
+        "author": "Joaquim Maria Machado de Assis",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_chiflondb1",
+        "repo": "es_001",
+        "title": "El chiflon del diablo",
+        "author": "Baldomero Lillo",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_protestam1",
+        "repo": "es_001",
+        "title": "La protesta de la musa",
+        "author": "José Asunción Silva",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_luzdeyara1",
+        "repo": "es_001",
+        "title": "La luz de Yara",
+        "author": "Bartolomé de las Casas",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_manchasng1",
+        "repo": "es_001",
+        "title": "La mancha de sangre",
+        "author": "Diego Vicente Tejera",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_gasparbld1",
+        "repo": "es_001",
+        "title": "Gaspar Blondin",
+        "author": "Juan Montalvo",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_mrherrada1",
+        "repo": "es_001",
+        "title": "La mujer herrada",
+        "author": "Vicente Riva Palacio",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_lallorona1",
+        "repo": "es_001",
+        "title": "La llorona",
+        "author": "Vicente Riva Palacio",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_lanchitas1",
+        "repo": "es_001",
+        "title": "Lanchitas",
+        "author": "José María Roa Bárcena",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_ripriprip1",
+        "repo": "es_001",
+        "title": "Rip - Rip",
+        "author": "Manuel Gutiérrez Nájera",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_casoameli1",
+        "repo": "es_001",
+        "title": "El caso de la señorita Amelia",
+        "author": "Rubén Darío",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_cntpascua1",
+        "repo": "es_001",
+        "title": "Cuento de Pascua",
+        "author": "Rubén Darío",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_cuerpoprs1",
+        "repo": "es_001",
+        "title": "De cuerpo presente",
+        "author": "Rafael Barrett",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_lojoslina1",
+        "repo": "es_001",
+        "title": "Los ojos de Lina",
+        "author": "Clemente Palma",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_lalenguac1",
+        "repo": "es_001",
+        "title": "La lengua",
+        "author": "Horacio Quiroga",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_elhijocnt1",
+        "repo": "es_001",
+        "title": "El hijo",
+        "author": "Horacio Quiroga",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_cataletto1",
+        "repo": "es_001",
+        "title": "Tristán Cataletto",
+        "author": "Julio Calcaño",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    },
+    {
+        "id": "es_bespectro1",
+        "repo": "es_001",
+        "title": "El beso del espectro",
+        "author": "Luis López Méndez",
+        "year": "",
+        "text": false,
+        "music": false,
+        "chapters": false,
+        "genres": [
+            "tale",
+            "detective"
+        ]
+    }
 ]
